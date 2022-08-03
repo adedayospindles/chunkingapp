@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+{% load crispy_forms_tags %}
+{% block content %}
+<h1>Register</h1>
+{% if messages %}
+    <ul class="messages">
+        {% for message in messages %}
+        <li>{{ message }}</li>
+        {% endfor %}
+    </ul>
+{% endif %}
+<form action="" method="post">
+    {% csrf_token %}
+    {{form|crispy}}
+    <button class="btn btn-success btn-lg" type="submit">register</button>
+    <p>already has an account <a href="{% url 'account_login' %}">login</a></p>
+    <p>-------------------------or signup with ------------------------------</p>
+    <a href="" class="btn btn-primary btn-lg">google</a>
+</form>
+
+{% endblock content %}

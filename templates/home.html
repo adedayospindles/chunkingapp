@@ -1,0 +1,43 @@
+{% extends 'base.html' %}
+{% block content %}
+
+{% if messages %}
+    <ul class="messages">
+        {% for message in messages %}
+        <li>{{ message }}</li>
+        {% endfor %}
+    </ul>
+{% endif %}
+
+{% if user.is_authenticated %}
+<a class="btn btn-danger" href="{% url 'account_logout' %}">logout</a>
+<h1>hello , {{user.username}}</h1>
+<div><a href="{% url 'splitcsv' %}">csv splitter</a></div>
+
+<div><a href="{% url 'csv2json' %}">csv to Json</a></div>
+<div><a href="{% url 'json2csv' %}">json to CSV</a></div>
+<hr>
+
+    {% if allfile %}
+    {% for file in allfile %}
+        {% if file.saved_file %}
+            <p>{{file.file_name}}</p>
+            <a href="{{file.saved_file.url}}" download="{{file.save_file.url}}">download</a>
+            <a href="{% url 'delete' file.id %}">Delete</a>
+            <p>{{file.saved_on}}</p>
+            <hr>
+            {% endif %}
+            {% endfor %}
+            
+       
+   
+{% else %}
+            <h2>No Saved file yet.</h2>
+{% endif %}
+    
+    
+{% else %}
+<a class="btn btn-primary" href="{% url 'account_login' %}">login</a>
+<a class="btn btn-outline-primary" href="{% url 'account_signup' %}">register</a>
+{% endif %}
+{% endblock content %}
