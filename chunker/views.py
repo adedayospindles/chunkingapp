@@ -11,6 +11,8 @@ import os
 import math
 import json
 import csv
+from pathlib import Path
+BASE_DIR = Path(__file__).resolve().parent.parent
 
 # Create your views here.
 # ******************* HOME VIEW *****************************
@@ -36,9 +38,12 @@ def splitCSV(request):
         user_specified_size = request.POST["chunk_size"]
         user_specified_size = int(user_specified_size)
         file_name = default_storage.save(file_data.name, file_data)
+        # file_path = os.path.join(BASE_DIR, file_name)
+        # file_path = f"https://res.cloudinary.com/de0tlraou/raw/upload/v1659605218/media/{file_name}"
         file_path = default_storage.path(file_name)
+        # print(file_path)
 
-        if file_path.split(".")[-1] == 'csv':
+        if file_path.split(".")[-1] == 'csv': 
             file= File.objects.create(user=request.user,uploaded_file=file_path)
             file_size = os.path.getsize(file_path)
             no_file_row = len(pd.read_csv(file_path)) - 1

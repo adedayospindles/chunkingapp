@@ -106,23 +106,23 @@ WSGI_APPLICATION = 'file_chunkproject.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/4.0/ref/settings/#databases
 
-# DATABASES = {
-#     'default': {
-#         'ENGINE': 'django.db.backends.sqlite3',
-#         'NAME': BASE_DIR / 'db.sqlite3',
-#     }
-# }
-
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'd83mid2o2mcgkn',
-        'USER': 'ltwpxhxhhlrwnu',
-        'PASSWORD': 'f322a8a6c010b7786e50356fefdab2b22dd0fe83f41cf92473faf8326a62c1ab',
-        'HOST': 'ec2-44-195-162-77.compute-1.amazonaws.com',
-        'PORT': '5432',
+        'ENGINE': 'django.db.backends.sqlite3',
+        'NAME': BASE_DIR / 'db.sqlite3',
     }
 }
+
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.postgresql_psycopg2',
+#         'NAME': 'd83mid2o2mcgkn',
+#         'USER': 'ltwpxhxhhlrwnu',
+#         'PASSWORD': 'f322a8a6c010b7786e50356fefdab2b22dd0fe83f41cf92473faf8326a62c1ab',
+#         'HOST': 'ec2-44-195-162-77.compute-1.amazonaws.com',
+#         'PORT': '5432',
+#     }
+# }
 
 # Password validation
 # https://docs.djangoproject.com/en/4.0/ref/settings/#auth-password-validators
@@ -185,7 +185,7 @@ STATICFILES_STORAGE = "whitenoise.storage.CompressedManifestStaticFilesStorage"
 #   api_key = config("api_key") ,
 #   api_secret = config("api_secret")
 # )
-DEFAULT_FILE_STORAGE = 'cloudinary_storage.storage.RawMediaCloudinaryStorage'
+# DEFAULT_FILE_STORAGE = 'cloudinary_storage.storage.RawMediaCloudinaryStorage'
 
 CLOUDINARY_STORAGE = {
     'CLOUD_NAME': config("cloud_name"),
