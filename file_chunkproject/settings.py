@@ -28,7 +28,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-z3$!)ywb@5+z&ghsq1scg!!e4c3n#gxv&tw-kpvwj(@6&fz#b2'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = config("DEBUG" , cast=bool)
+DEBUG = True
 
 ALLOWED_HOSTS = ["chunker.herokuapp.com", "127.0.0.1"]
 
@@ -51,8 +51,8 @@ INSTALLED_APPS = [
    "crispy_bootstrap5",
 
    
-    'cloudinary_storage',
-    'cloudinary',
+    # 'cloudinary_storage',
+    # 'cloudinary',
 
     #local
     "chunker.apps.ChunkerConfig"
@@ -180,15 +180,12 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media') #new
 
 STATICFILES_STORAGE = "whitenoise.storage.CompressedManifestStaticFilesStorage"
 
-# cloudinary.config( 
-#   cloud_name = config("cloud_name"), 
-#   api_key = config("api_key") ,
-#   api_secret = config("api_secret")
-# )
+
+
 # DEFAULT_FILE_STORAGE = 'cloudinary_storage.storage.RawMediaCloudinaryStorage'
 
-CLOUDINARY_STORAGE = {
-    'CLOUD_NAME': config("cloud_name"),
-    'API_KEY': config("api_key") ,
-    'API_SECRET': config("api_secret")
-}
+# CLOUDINARY_STORAGE = {
+#     'CLOUD_NAME': config("cloud_name"),
+#     'API_KEY': config("api_key") ,
+#     'API_SECRET': config("api_secret")
+# }

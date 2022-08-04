@@ -1,6 +1,6 @@
 from django.db import models
 from django.contrib.auth.models import AbstractUser
-from cloudinary_storage.storage import RawMediaCloudinaryStorage
+# from cloudinary_storage.storage import RawMediaCloudinaryStorage
 
 # Create your models here.
 
