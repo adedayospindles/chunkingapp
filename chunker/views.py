@@ -95,23 +95,7 @@ def delete(request, pk):
     file.delete()
     return HttpResponse("File deleted successsfully")
 
-# ******************* DOWNLOAD VIEW *****************************
-# def download(request, pk):
-#     file = File.objects.filter(id=pk).first()
-#     name = file.file_name
-#     response = HttpResponse(open(str(settings.MEDIA_ROOT) + f"\\zipped-files\\{name}.zip", 'rb'), content_type='application/zip')
-#     response['Content-Disposition'] = "inline;file-name="+f"{name}.zip"
-#     return response
 
-# def download(request, pk):
-#     file = File.objects.filter(id=pk).first()
-    
-
-
-# def download(request):
-#     response = HttpResponse(open(f"media/books.zip", 'rb'), content_type='application/zip')
-#     response['Content-Disposition'] = "inline;file-name=books.csv"
-#     return response
 
 
 def csvToJson(request):

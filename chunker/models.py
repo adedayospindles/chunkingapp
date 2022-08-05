@@ -14,9 +14,6 @@ class File(models.Model):
     uploaded_file = models.FileField()
     zip_file = models.FileField()
     saved_file = models.FileField()
-    # uploaded_file = models.ImageField(upload_to='raw/', blank=True, storage=RawMediaCloudinaryStorage())
-    # zip_file = models.ImageField(upload_to='raw/', blank=True, storage=RawMediaCloudinaryStorage())
-    # saved_file = models.ImageField(upload_to='raw/', blank=True, storage=RawMediaCloudinaryStorage())
     saved_on = models.DateTimeField(auto_now_add=True)
 
     def __str__(self):

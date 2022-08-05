@@ -12,9 +12,6 @@ https://docs.djangoproject.com/en/4.0/ref/settings/
 
 import os
 from pathlib import Path
-import cloudinary
-import cloudinary.uploader
-import cloudinary.api
 from decouple import config
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
@@ -49,10 +46,6 @@ INSTALLED_APPS = [
    "allauth.account",
    "crispy_forms",
    "crispy_bootstrap5",
-
-   
-    # 'cloudinary_storage',
-    # 'cloudinary',
 
     #local
     "chunker.apps.ChunkerConfig"
@@ -113,16 +106,6 @@ DATABASES = {
     }
 }
 
-# DATABASES = {
-#     'default': {
-#         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-#         'NAME': 'd83mid2o2mcgkn',
-#         'USER': 'ltwpxhxhhlrwnu',
-#         'PASSWORD': 'f322a8a6c010b7786e50356fefdab2b22dd0fe83f41cf92473faf8326a62c1ab',
-#         'HOST': 'ec2-44-195-162-77.compute-1.amazonaws.com',
-#         'PORT': '5432',
-#     }
-# }
 
 # Password validation
 # https://docs.djangoproject.com/en/4.0/ref/settings/#auth-password-validators
@@ -169,6 +152,10 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 LOGIN_REDIRECT_URL = "home"
 ACCOUNT_LOGOUT_REDIRECT = "home"
 
+
+
+ACCOUNT_LOGOUT_ON_GET = True
+
 CRISPY_ALLOWED_TEMPLATE_PACKS = "bootstrap5"
 
 CRISPY_TEMPLATE_PACK = "bootstrap5"
@@ -180,12 +167,3 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media') #new
 
 STATICFILES_STORAGE = "whitenoise.storage.CompressedManifestStaticFilesStorage"
 
-
-
-# DEFAULT_FILE_STORAGE = 'cloudinary_storage.storage.RawMediaCloudinaryStorage'
-
-# CLOUDINARY_STORAGE = {
-#     'CLOUD_NAME': config("cloud_name"),
-#     'API_KEY': config("api_key") ,
-#     'API_SECRET': config("api_secret")
-# }
