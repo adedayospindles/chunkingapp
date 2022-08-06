@@ -38,10 +38,9 @@ def splitCSV(request):
         file_name = default_storage.save(file_data.name, file_data)
         # file_path = os.path.join(BASE_DIR, file_name)
         file_path = default_storage.path(file_name)
-        
 
         if file_path.split(".")[-1] == 'csv': 
-            file= File.objects.create(user=request.user,uploaded_file=file_path)
+            
             file_size = os.path.getsize(file_path)
             no_file_row = len(pd.read_csv(file_path)) - 1
             no_of_chuncked_file = math.ceil(file_size/user_specified_size)
@@ -54,7 +53,6 @@ def splitCSV(request):
                 index += 1
 
         if file_path.split(".")[-1] == 'json':
-            file= File.objects.create(user=request.user,uploaded_file=file_path)
             file_size = os.path.getsize(file_path)
             folder_name = file_path.split(".")[0]
             size = math.ceil(file_size/user_specified_size)
@@ -73,8 +71,9 @@ def splitCSV(request):
            
         shutil.make_archive(outputfile, 'zip', folder_name)
         shutil.rmtree(folder_name)
-        file.file_name = f"{fs}.zip"
-        file.zip_file = f"/{outputfile}.zip"
+        zip_file_name = f"{fs}.zip"
+        zip_file = f"/{outputfile}.zip"
+        file= File.objects.create(user=request.user, file_name=zip_file_name, zip_file=zip_file)
         file.save()
         os.remove(file_path)
         context = {"file": file}
