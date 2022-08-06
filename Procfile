@@ -1,1 +1,1 @@
-web:gunicorn file_chunkproject:app
+web: gunicorn file_chunkproject.wsgi --log-file -
