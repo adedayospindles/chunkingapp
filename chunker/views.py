@@ -36,7 +36,7 @@ def splitCSV(request):
         user_specified_size = request.POST["chunk_size"]
         user_specified_size = int(user_specified_size)
         file_name = default_storage.save(file_data.name, file_data)
-        # file_path = os.path.join(BASE_DIR, file_name)
+        file_name = file_name.split("/")[-1]
         file_path = default_storage.path(file_name)
 
         if file_path.split(".")[-1] == 'csv': 
@@ -52,22 +52,22 @@ def splitCSV(request):
                 chunk.to_csv(f"{folder_name}/file{index}.csv".format(index), index=False)
                 index += 1
 
-        if file_path.split(".")[-1] == 'json':
-            file_size = os.path.getsize(file_path)
-            folder_name = file_path.split(".")[0]
-            size = math.ceil(file_size/user_specified_size)
-            os.makedirs(folder_name)
-            with open(file_path,'r') as infile:
-                o = json.load(infile)
-                index = 0
-                for i in range(0, len(o), size):
-                    with open(f"{folder_name}/file{index}.json".format(index), 'w') as outfile:
-                        index += 1
-                        json.dump(o[i:i+user_specified_size], outfile)
+        # if file_path.split(".")[-1] == 'json':
+        #     file_size = os.path.getsize(file_path)
+        #     folder_name = file_path.split(".")[0]
+        #     size = math.ceil(file_size/user_specified_size)
+        #     os.makedirs(folder_name)
+        #     with open(file_path,'r') as infile:
+        #         o = json.load(infile)
+        #         index = 0
+        #         for i in range(0, len(o), size):
+        #             with open(f"{folder_name}/file{index}.json".format(index), 'w') as outfile:
+        #                 index += 1
+        #                 json.dump(o[i:i+user_specified_size], outfile)
 
 
         fs = folder_name.split("\\")[-1]
-        outputfile = str(settings.MEDIA_ROOT) + f"\\zipped-files\\{fs}"
+        outputfile = str(settings.MEDIA_ROOT) + f"/{fs}"
            
         shutil.make_archive(outputfile, 'zip', folder_name)
         shutil.rmtree(folder_name)
@@ -77,6 +77,7 @@ def splitCSV(request):
         file.save()
         os.remove(file_path)
         context = {"file": file}
+        # context  = {}
         return render(request, "splitcsv.html", context)
         
     return render(request, "splitcsv.html")
