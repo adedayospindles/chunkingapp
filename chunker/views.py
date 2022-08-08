@@ -53,18 +53,18 @@ def splitCSV(request):
                 chunk.to_csv(f"{folder_name}/file{index}.csv".format(index), index=False)
                 index += 1
 
-        # if file_path.split(".")[-1] == 'json':
-        #     file_size = os.path.getsize(file_path)
-        #     folder_name = file_path.split(".")[0]
-        #     size = math.ceil(file_size/user_specified_size)
-        #     os.makedirs(folder_name)
-        #     with open(file_path,'r') as infile:
-        #         o = json.load(infile)
-        #         index = 0
-        #         for i in range(0, len(o), size):
-        #             with open(f"{folder_name}/file{index}.json".format(index), 'w') as outfile:
-        #                 index += 1
-        #                 json.dump(o[i:i+user_specified_size], outfile)
+        if file_path.split(".")[-1] == 'json':
+            file_size = os.path.getsize(file_path)
+            folder_name = file_path.split(".")[0]
+            size = math.ceil(file_size/user_specified_size)
+            os.makedirs(folder_name)
+            with open(file_path,'r') as infile:
+                o = json.load(infile)
+                index = 0
+                for i in range(0, len(o), size):
+                    with open(f"{folder_name}/file{index}.json".format(index), 'w') as outfile:
+                        index += 1
+                        json.dump(o[i:i+user_specified_size], outfile)
 
 
         fs = folder_name.split("/")[-1]
