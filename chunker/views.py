@@ -115,12 +115,17 @@ def splitJSON(request):
              messages.error(request, "invalid size")
              return redirect(request.META.get("HTTP_REFERER"))
             
+        
+            
         file_name = default_storage.save(file_data.name, file_data)
         file_name = file_name.split("/")[-1]
         file_path = default_storage.path(file_name)
 
         if file_path.split(".")[-1] == 'json': 
             file_size = os.path.getsize(file_path)
+            if user_specified_size >= file_size:
+                messages.error(request, "chunk size cannot be equal to or greater than file size")
+                return redirect(request.META.get("HTTP_REFERER"))
             with open(file_path) as json_file:
                 data = json.load(json_file)
                 try:
