@@ -1,0 +1,697 @@
+bookID,title,authors,average_rating,isbn,isbn13,language_code,  num_pages,ratings_count,text_reviews_count,publication_date,publisher
+17601,The Will to Change: Men  Masculinity  and Love,bell hooks,4.36,743456084,9780740000000.0,eng,188,2574,322,12/21/2004,Washington Square Press
+17602,Killing Rage: Ending Racism,bell hooks,4.28,805050272,9780810000000.0,eng,288,1987,106,10/15/1996,Holt Paperbacks
+17603,Where We Stand: Class Matters,bell hooks,4.18,041592913X,9780420000000.0,eng,164,1780,142,10/04/2000,Routledge
+17607,All About Love: New Visions,bell hooks,4.01,688168442,9780690000000.0,eng,240,10928,1144,12/22/1999,William Morrow
+17608,Everybody Was Kung Fu Fighting: Afro-Asian Connections and the Myth of Cultural Purity,Vijay Prashad,3.95,807050113,9780810000000.0,en-US,232,201,21,11/18/2002,Beacon Press
+17609,The Darker Nations: A People's History of the Third World,Vijay Prashad/Howard Zinn,3.98,1565847857,9781570000000.0,eng,384,659,51,2/19/2007,New Press  The
+17610,The Karma Of Brown Folk,Vijay Prashad,4.1,816634394,9780820000000.0,eng,272,344,31,03/12/2001,Univ Of Minnesota Press
+17619,The Negro,W.E.B. Du Bois/Robert Gregg,4.32,812217756,9780810000000.0,eng,284,29,4,5/22/2001,University of Pennsylvania Press
+17624,Democracy Matters: Winning the Fight Against Imperialism,Cornel West,3.95,1594200297,9781590000000.0,eng,240,102,12,09/02/2004,Penguin Press HC  The
+17632,Tyranny of the Majority: Fundamental Fairness in Representative Democracy,Lani Guinier/Stephen L. Carter,3.87,29131693,9780030000000.0,eng,352,41,3,02/01/1995,Free Press
+17635,More Readings From One Man's Wilderness: The Journals of Richard L. Proenneke  1974-1980,Richard Proenneke/John Branson,4.42,160729947,9780160000000.0,eng,496,239,5,01/05/2006,National Park Service
+17639,The Guardship (Thomas Marlowe  #1),James L. Nelson,4.01,380804522,9780380000000.0,eng,384,313,28,01/05/2000,William Morrow Paperbacks
+17643,Before We Were Free,Julia Alvarez,3.87,044023784X,9780440000000.0,en-US,192,4950,837,4/13/2004,Laurel Leaf Library
+17644,Moral Disorder and Other Stories,Margaret Atwood,3.63,385503849,9780390000000.0,eng,255,8270,755,10/17/2006,Nan A. Talese
+17645,The Penelopiad,Margaret Atwood/Laurel Merlington,3.7,1841957178,9781840000000.0,eng,198,29315,2631,10/05/2005,Canongate U.S.
+17646,The Tent,Margaret Atwood,3.7,385516681,9780390000000.0,eng,159,5061,519,01/01/2006,Nan A. Talese
+17650,The Robber Bride,Margaret Atwood,3.83,385491034,9780390000000.0,eng,528,34550,1679,1/20/1998,Anchor
+17654,The Moth Diaries,Rachel Klein,3.49,571219713,9780570000000.0,eng,245,60,12,04/07/2004,Faber & Faber Limited
+17658,Trauma,Graham Masterton,3.55,451205553,9780450000000.0,en-GB,224,344,43,01/01/2002,Signet
+17671,Liars and Saints,Maile Meloy,3.6,743261984,9780740000000.0,eng,272,2270,306,7/13/2004,Scribner
+17673,The Anthropology of Turquoise: Reflections on Desert  Sea  Stone  and Sky,Ellen Meloy,4.04,375708138,9780380000000.0,eng,336,1063,159,07/08/2003,Vintage
+17675,Eating Stone: Imagination and the Loss of the Wild,Ellen Meloy,4.1,140003177X,9781400000000.0,eng,352,462,78,10/17/2006,Vintage
+17679,Writing the Qualitative Dissertation: Understanding by Doing,Judith M. Meloy,3.73,805832890,9780810000000.0,eng,242,9,0,07/03/2001,Psychology Press
+17682,The Dead Beat: Lost Souls  Lucky Stiffs  and the Perverse Pleasures of Obituaries,Marilyn Johnson,3.41,60758767,9780060000000.0,en-US,272,1137,231,1/30/2007,Harper Perennial
+17683,Dead Beat (The Dresden Files  #7),Jim Butcher,4.43,045146091X,9780450000000.0,eng,517,91592,2747,01/01/2006,Roc
+17686,Diaries  1910-1923,Franz Kafka/Max Brod/Joseph Kresh/Martin Greenberg,4.23,805209069,9780810000000.0,eng,521,2090,90,1/21/2009,Schocken
+17687,The Metamorphosis,Franz Kafka,3.81,1419172697,9781420000000.0,en-US,48,395,30,6/17/2004,Kessinger Publishing
+17688,The Metamorphosis  In the Penal Colony  and Other Stories: The Great Short Works of Franz Kafka,Franz Kafka,4.04,684800705,9780680000000.0,eng,352,13846,193,5/22/2000,Scribner
+17690,The Trial,Franz Kafka/Max Brod/Willa Muir/Edwin Muir,3.98,99428644,9780100000000.0,eng,255,168300,3724,04/09/2001,Vintage
+17691,Franz Kafka: The Complete Stories,Franz Kafka/Nabum N. Glazer/John Updike,4.35,805238638,9780810000000.0,en-US,486,59,3,01/01/1987,Schocken
+17692,The Trial,Franz Kafka/Breon Mitchell/Arthur H. Samuelson,3.98,805209999,9780810000000.0,eng,276,4086,372,5/25/1999,Schocken Books
+17694,The Zürau Aphorisms,Franz Kafka/Michael Hofmann/Geoffrey Brock/Roberto Calasso,3.75,805212078,9780810000000.0,eng,160,648,57,12/26/2006,Schocken
+17697,Collected Shorter Fiction: Volume I,Leo Tolstoy/Aylmer Maude/Nigel J. Cooper,4.41,375411720,9780380000000.0,eng,848,72,10,08/07/2001,Everyman's Library
+17698,The Cossacks,Leo Tolstoy/Peter Constantine/Cynthia Ozick,3.79,812975049,9780810000000.0,eng,161,4356,226,2/14/2006,Modern Library
+17701,More Adventures of the Great Brain (Great Brain  #2),John D. Fitzgerald/Mercer Mayer,4.26,142400653,9780140000000.0,eng,160,4850,138,02/09/2004,Puffin Books
+17702,The Dirt: Confessions of the World's Most Notorious Rock Band,Neil Strauss/Vince Neil/Nikki Sixx/Tommy Lee/Mick Mars,4.16,60392886,9780060000000.0,eng,430,436,50,5/22/2001,Dey Street Books
+17707,The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy  #1),Douglas Adams,4.22,671746065,9780670000000.0,eng,216,2796,242,05/01/1991,Pocket Books
+17722,Alice's Adventures in Wonderland & Through the Looking-Glass,Lewis Carroll/John Tenniel,4.07,553213458,9780550000000.0,eng,234,1469,98,05/01/1984,Bantam Classics
+17724,The Awakening,Kate Chopin/Margo Culley,3.65,393960579,9780390000000.0,eng,336,937,72,9/17/1993,W. W. Norton & Company
+17726,Go Down  Moses,William Faulkner,3.93,679732179,9780680000000.0,eng,365,8289,370,1/30/1991,Vintage
+17727,The Books of Magic,Neil Gaiman/John Bolton/Scott Hampton/Charles Vess/Paul Johnson/Roger Zelazny,4.08,1563890828,9781560000000.0,eng,200,13850,481,4/14/1993,Vertigo
+17728,The House of Mirth,Edith Wharton/Nina Bawden,3.95,1844082938,9781840000000.0,eng,351,69014,3180,1/19/2006,Virago
+17730,House of Mirth,Edith Wharton,3.95,1600962203,9781600000000.0,eng,324,220,11,7/30/2008,Waking Lion Press
+17733,The House of Mirth,Edith Wharton/Jeffrey Meyers,3.95,1593081049,9781590000000.0,eng,359,74,9,10/01/2003,Barnes  Noble Classics
+17735,Light (Kefahuchi Tract  #1),M. John Harrison,3.6,553382950,9780550000000.0,eng,310,3732,415,8/31/2004,Spectra
+17743,Beautiful Evidence,Edward R. Tufte,4.15,961392177,9780960000000.0,eng,213,2045,130,11/07/2006,Graphics Press LLC
+17747,The Cognitive Style of PowerPoint: Pitching Out Corrupts Within,Edward R. Tufte,4.08,961392169,9780960000000.0,en-US,31,924,65,01/01/2006,Graphics Press
+17761,Hafen des Unglücks (Aubrey/Maturin Book 11),Patrick O'Brian,4.41,3548256422,9783550000000.0,ger,354,6,0,10/01/2002,Ullstein Buchverlage GmbH & Co. KG / Ullstein Tas
+17762,Manöver um Feuerland (The Far Side of the World) (Aubrey/Maturin Book 10),Patrick O'Brian,4.45,3548254438,9783550000000.0,ger,478,8,0,06/01/2002,Ullstein Tb
+17766,Master and Commander (Aubrey/Maturin Book 1),Patrick O'Brian,4.1,073931565X,9780740000000.0,eng,0,1,0,03/09/2004,Random House Audio
+17770,Post Captain (Aubrey/Maturin Book 2),Patrick O'Brian,4.29,039700804X,9780400000000.0,eng,413,3,0,12/01/1972,Lippincott Williams & Wilkins
+17778,Gefahr im Roten Meer (Treason's Harbour) (Aubrey/Maturin Book 9),Patrick O'Brian,4.38,3548254357,9783550000000.0,ger,412,7,0,05/01/2002,Ullstein Tb
+17780,In the Heart of the Sea: The Tragedy of the Whaleship Essex,Nathaniel Philbrick,4.16,141001828,9780140000000.0,eng,302,72656,4930,05/01/2001,Penguin Books
+17781,Heart of the Sea (Gallaghers of Ardmore  #3),Nora Roberts,4.15,515128554,9780520000000.0,eng,369,24451,537,12/05/2000,Berkley Books
+17783,Corazón de mar (Gallagher  #3),Nora Roberts/Juan Larrea,4.15,8466307257,9788470000000.0,spa,396,12,0,07/01/2002,Punto de Lectura
+17795,Banvard's Folly: Thirteen Tales of People Who Didn't Change the World,Paul  Collins,3.98,312300336,9780310000000.0,eng,320,513,70,05/03/2002,Picador
+17798,Fads and Fallacies in the Name of Science,Martin Gardner,4.06,486203948,9780490000000.0,eng,384,1022,46,06/01/1957,Dover Publications (NY)
+17799,South of the Border  West of the Sun,Haruki Murakami/Philip Gabriel,3.87,99448572,9780100000000.0,eng,190,59657,2612,12/01/2006,Vintage
+17800,Dance Dance Dance,Haruki Murakami,4.04,99448769,9780100000000.0,eng,393,50169,2117,02/07/2002,Vintage
+17803,After Dark,Haruki Murakami/Jay Rubin,3.7,307265838,9780310000000.0,eng,191,80308,4506,05/08/2007,Knopf Publishing Group
+17804,Vintage Murakami,Haruki Murakami,4.03,1400033969,9781400000000.0,eng,182,740,41,01/06/2004,Vintage Books USA
+17807,Gravitation #2,Maki Murakami,3.99,848449487X,9788480000000.0,spa,208,10,0,6/30/2004,Ediciones Glénat España
+17828,The Master and Margarita,Mikhail Bulgakov/Michael Karpelson,4.3,1411683056,9781410000000.0,eng,332,493,47,04/01/2006,Lulu Press
+17830,Bulgakov's the Master and Margarita: The Text as a Cipher,Elena N. Mahlow,5.0,533017424,9780530000000.0,eng,202,4,0,01/01/1975,Vantage Press
+17837,Мастер и Маргарита,Mikhail Bulgakov/Михаил Булгаков,4.3,5040019521,9785040000000.0,rus,640,10,1,9/28/2004,Эксмо
+17841,Foucault's Pendulum,Umberto Eco/William Weaver,3.89,015603297X,9780160000000.0,eng,623,46598,2074,03/05/2007,Mariner Books
+17845,Pendulum: Leon Foucault and the Triumph of Science,Amir D. Aczel,3.72,743464796,9780740000000.0,eng,288,183,25,9/14/2004,Washington Square Press
+17846,The House of Mirth,Edith Wharton/Jeffrey Meyers,3.95,1593081537,9781590000000.0,eng,348,360,67,8/26/2004,Barnes  Noble Classics
+17850,The House of Mirth,Edith Wharton/R.W.B. Lewis,3.95,814749763,9780810000000.0,eng,335,10,0,01/01/1977,New York University Press
+17861,The Family Trade (The Merchant Princes  #1),Charles Stross,3.52,765348217,9780770000000.0,eng,308,4691,355,05/01/2005,Tor Fantasy
+17862,Toast  and Other Stories,Charles Stross,3.8,809556030,9780810000000.0,eng,247,935,34,12/13/2005,Cosmos Books (OH)
+17863,Accelerando,Charles Stross,3.88,441014151,9780440000000.0,eng,415,16527,971,07/01/2006,Ace Books
+17866,Glasshouse,Charles Stross,3.87,441014038,9780440000000.0,en-US,335,8975,464,6/27/2006,Ace Books
+17867,The Hidden Family (The Merchant Princes  #2),Charles Stross,3.57,765352052,9780770000000.0,eng,309,3344,127,05/02/2006,Tor Fantasy
+17872,Lobsters,Charles Stross/Shandra Marie/Jared Doreck,3.83,1884612466,9781880000000.0,eng,1,158,5,08/11/2005,AudioText
+17873,Antibodies,Charles Stross/Shandra Marie/Jared Doreck,3.46,1884612474,9781880000000.0,eng,1,67,4,08/11/2005,AudioText
+17876,Notes from Underground  White Nights  The Dream of a Ridiculous Man  and Selections from The House of the Dead,Fyodor Dostoyevsky/Andrew R. MacAndrew/Ben Marcus,4.18,451529553,9780450000000.0,eng,233,71824,1607,11/02/2004,Signet
+17877,The House of the Dead,Fyodor Dostoyevsky/Ergin Altay,4.05,486434095,9780490000000.0,eng,247,11252,399,4/22/2004,Dover Publications
+17878,The Village of Stepanchikovo,Fyodor Dostoyevsky/Ignat Avsey,3.87,140446583,9780140000000.0,eng,224,1570,80,12/01/2001,Penguin Book Limited
+17879,Crime and Punishment,Fyodor Dostoyevsky/Larissa Volokhonsky/Richard Pevear,4.21,679420290,9780680000000.0,eng,564,6950,381,5/25/1993,Random House
+17880,The Gambler,Fyodor Dostoyevsky/Jonathan Franzen,3.89,184391123X,9781840000000.0,eng,160,82,8,10/01/2005,Hesperus Press
+17881,Notes from Underground & The Double,Fyodor Dostoyevsky/Jessie Coulson,4.2,140442529,9780140000000.0,eng,287,4706,151,7/30/1972,Penguin Books
+17883,Notes from Underground & A Confession (Everyman's Library),A.D.P. Briggs/Leo Tolstoy/Fyodor Dostoyevsky,3.76,460874489,9780460000000.0,eng,256,17,1,6/15/1994,Everymans Library
+17890,The Gambler/Bobok/A Nasty Story,Fyodor Dostoyevsky/Jessie Coulson,3.99,140441794,9780140000000.0,en-US,240,576,41,5/27/1966,Penguin Books
+17891,The Idiot,Fyodor Dostoyevsky/Constance Garnett,4.18,486432130,9780490000000.0,en-US,540,72,6,12/12/2003,Dover Publications
+17893,Netochka Nezvanova,Fyodor Dostoyevsky/Jane Kentish,3.81,140444556,9780140000000.0,eng,176,2590,127,8/29/1985,Penguin Classics
+17905,Plays 5: Arcadia / The Real Thing / Night and Day / Indian Ink / Hapgood,Tom Stoppard,4.29,571197515,9780570000000.0,en-US,608,572,33,12/01/2000,Farrar  Straus and Giroux
+17908,Rock 'n' Roll,Tom Stoppard,3.71,802143075,9780800000000.0,eng,144,951,60,05/10/2007,Grove Press
+17914,The Real Thing,Tom Stoppard,3.94,571125298,9780570000000.0,en-US,112,3553,140,4/17/2000,Farrar  Straus and Giroux
+17915,Arcadia,Tom Stoppard,4.19,1568651376,9781570000000.0,eng,97,48,3,05/01/1995,Doubleday Books
+17918,Plays 1: The Real Inspector Hound / After Magritte / Dirty Linen / New-Found-Land / Dogg's Hamlet  Cahoot's Macbeth,Tom Stoppard,4.03,571177654,9780570000000.0,eng,211,78,13,4/15/1996,Faber & Faber
+17922,Every Good Boy Deserves Favor & Professional Foul,Tom Stoppard,3.9,802150454,9780800000000.0,en-GB,188,190,10,3/28/1994,Grove Press
+17926,Lord Malquist and Mr. Moon,Tom Stoppard,3.41,802142710,9780800000000.0,eng,200,192,23,8/15/2006,Grove Press
+17944,The Gunslinger (The Dark Tower #1),Stephen King,3.96,451160525,9780450000000.0,eng,315,1902,227,07/01/1989,Signet
+17945,Everything and Nothing,Jorge Luis Borges/Eliot Weinberger/John M. Fein/James E. Irby/Donald A. Yates,4.38,811214001,9780810000000.0,eng,108,593,37,4/17/1999,New Directions
+17946,Seven Nights,Jorge Luis Borges/Eliot Weinberger,4.33,811209059,9780810000000.0,eng,121,1037,60,5/29/1985,New Directions Publishing Corporation
+17947,Museo: Textos Ineditos,Adolfo Bioy Casares,4.17,9500424134,9789500000000.0,spa,261,6,0,10/01/2002,Emecé Editores
+17950,Obra Poética,Jorge Luis Borges,4.49,9500426161,9789500000000.0,spa,645,50,3,06/01/2005,Emecé Editores
+17961,Collected Fictions,Jorge Luis Borges/Andrew Hurley,4.58,140286802,9780140000000.0,eng,565,18874,791,9/30/1999,Penguin Classics Deluxe Edition
+17971,The Eternal Frontier: An Ecological History of North America and Its Peoples,Tim Flannery,4.06,802138888,9780800000000.0,eng,432,588,69,4/17/2002,Grove Press
+17976,Hope Springs Eternal (Prairie River  #4),Kristiana Gregory,4.27,439440033,9780440000000.0,eng,176,130,7,07/01/2005,Scholastic Paperbacks
+17977,The Ancestor's Tale: A Pilgrimage to the Dawn of Evolution,Richard Dawkins,4.13,061861916X,9780620000000.0,eng,688,20232,609,09/02/2005,Mariner Books
+17982,The Reverse of the Medal (Aubrey & Maturin #11),Patrick O'Brian,4.41,6499260,9780010000000.0,eng,261,186,12,04/01/2010,HarperCollins
+17983,The Reverse of the Medal (Aubrey/Maturin  #11),Patrick O'Brian/Simon Vance,4.41,786178183,9780790000000.0,en-GB,0,3598,93,02/01/2006,Blackstone Audiobooks
+17986,Teleny or the Reverse of the Medal,Oscar Wilde,3.67,1595690360,9781600000000.0,eng,138,985,63,03/07/2006,MONDIAL
+17994,The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography,Simon Singh,4.29,385495323,9780390000000.0,eng,412,16531,977,8/29/2000,Anchor
+17998,The Eternity Code (Artemis Fowl  #3),Eoin Colfer,4.04,786856289,9780790000000.0,en-US,309,1660,125,05/03/2005,Miramax
+18005,How I Became a Pirate,Melinda Long/David Shannon,4.08,152018484,9780150000000.0,eng,44,24098,586,09/01/2003,HMH Books for Young Readers
+18013,The Pirate Dictionary,Terry Breverton,3.7,1589802438,9781590000000.0,eng,189,51,7,7/31/2004,Pelican Publishing Company
+18016,Mulliner Nights (Mr. Mulliner  #3),P.G. Wodehouse,4.11,1400079616,9781400000000.0,eng,240,1174,75,04/12/2005,Vintage
+18017,Life at Blandings,P.G. Wodehouse,4.35,140059032,9780140000000.0,en-US,608,2651,47,01/05/1988,Penguin Books
+18018,Jill the Reckless,P.G. Wodehouse,4.02,1585676608,9781590000000.0,eng,290,666,82,04/07/2005,Harry N. Abrams
+18019,The Code of the Woosters: Jeeves to the Rescue,P.G. Wodehouse/Jonathan Cecil,4.36,1572705485,9781570000000.0,eng,7,172,26,09/07/2006,AudioGO
+18021,P.G. Wodehouse in His Own Words,P.G. Wodehouse/Tony Ring/Barry Day,4.07,1585673935,9781590000000.0,eng,320,48,6,4/28/2003,Harry N. Abrams
+18022,Jeeves and the Mating Season (Jeeves  #9),P.G. Wodehouse/Jonathan Cecil,4.26,1572703199,9781570000000.0,eng,7,109,22,04/07/2003,AudioGO
+18025,Something Fresh (Blandings Castle  #1),P.G. Wodehouse,4.16,1585676586,9781590000000.0,eng,284,5311,391,04/07/2005,Harry N. Abrams
+18027,The Clicking of Cuthbert,P.G. Wodehouse,3.93,1406929980,9781410000000.0,eng,162,6,1,11/03/2006,Hard Press
+18029,Ring for Jeeves (Jeeves  #10),P.G. Wodehouse,4.01,1585675245,9781590000000.0,eng,208,2785,183,04/12/2004,Harry N. Abrams
+18031,Ukridge,P.G. Wodehouse,3.89,1585674796,9781590000000.0,eng,272,1019,83,9/15/2003,Harry N. Abrams
+18032,Jeeves and the Tie That Binds (Jeeves  #14),P.G. Wodehouse,4.23,743203623,9780740000000.0,eng,205,2781,130,11/01/2000,Touchstone
+18035,Right Ho  Jeeves (Jeeves  #6),P.G. Wodehouse,4.32,140690483X,9781410000000.0,eng,224,8193,443,11/03/2006,Hard Press
+18039,Blandings Castle (Blandings Castle  #3),P.G. Wodehouse,4.18,1585673382,9781590000000.0,eng,301,1370,70,10/23/2002,Harry N. Abrams
+18041,Mr. Mulliner Speaking,P.G. Wodehouse,4.01,1841591386,9781840000000.0,en-US,232,1497,48,03/03/2005,Everyman Library / Overlook Press
+18042,Laughing Gas,P.G. Wodehouse,3.89,1585672327,9781590000000.0,eng,286,1723,129,01/01/2002,Harry N. Abrams
+18047,The Adventures of Sally,P.G. Wodehouse,3.78,1426423705,9781430000000.0,en-US,232,10,0,5/29/2008,BiblioLife
+18053,Meet Mr. Mulliner,P.G. Wodehouse,4.06,1585672750,9781590000000.0,eng,203,1224,89,5/13/2002,Harry N. Abrams
+18055,Eggs  Beans  and Crumpets,P.G. Wodehouse,4.11,1841591068,9781840000000.0,eng,224,898,60,10/27/2000,Overlook Press
+18057,A Damsel in Distress,P.G. Wodehouse,4.08,1406953210,9781410000000.0,eng,216,3526,355,11/03/2006,rbooks
+18061,Uncle Fred in the Springtime (Blandings Castle  #6),P.G. Wodehouse,4.24,1841591300,9781840000000.0,eng,288,1703,108,4/15/2004,Everyman
+18062,The Best of Wodehouse: An Anthology,P.G. Wodehouse/John Mortimer,4.41,307266613,9780310000000.0,eng,840,413,46,6/19/2007,Everyman's Library
+18064,The World of Mr. Mulliner,P.G. Wodehouse,4.32,140281703,9780140000000.0,eng,624,345,30,7/29/1999,Penguin Books Ltd
+18067,Cocktail Time,P.G. Wodehouse,4.13,1585675741,9781590000000.0,eng,304,648,51,10/21/2004,Harry N. Abrams
+18072,The Waste Lands (The Dark Tower #3),Stephen King/Ned Dameron,4.24,451173317,9780450000000.0,eng,590,1013,96,01/01/1993,Signet Book
+18073,Jeeves in the Offing (Jeeves  #12),P.G. Wodehouse,4.17,1841591165,9781840000000.0,eng,208,28,4,09/12/2002,Everyman
+18074,Jeeves and The Feudal Spirit (Jeeves  #11),P.G. Wodehouse,4.32,1841591017,9781840000000.0,eng,240,25,1,9/20/2001,Everyman's Library
+18077,Piccadilly Jim,P.G. Wodehouse,4.02,1585676160,9781590000000.0,eng,302,2673,184,10/21/2004,Harry N. Abrams
+18081,Joy in the Morning (Jeeves  #8),P.G. Wodehouse,4.34,1841591157,9781840000000.0,eng,296,38,0,3/14/2002,Everyman
+18089,The Mating Season (Jeeves  #9),P.G. Wodehouse,4.26,1841591076,9781840000000.0,eng,272,59,2,9/20/2001,Everyman
+18098,Indiscretions of Archie,P.G. Wodehouse,3.87,742632598,9780740000000.0,eng,215,693,78,05/01/2000,Classic Books
+18119,The Subtle Knife (His Dark Materials  #2),Philip Pullman,4.13,440238145,9780440000000.0,en-US,288,4750,337,09/09/2003,Laurel Leaf Library
+18122,The Amber Spyglass  (His Dark Materials  #3),Philip Pullman,4.09,440238153,9780440000000.0,eng,467,237072,6358,09/09/2003,Laurel Leaf
+18127,The Eyes of the Dragon,Stephen King/David Palladini,3.93,451166582,9780450000000.0,en-US,380,2925,285,12/08/1987,Signet Book
+18132,The Voyage of the “Dawn Treader” (The Chronicles of Narnia  #3),C.S. Lewis/Pauline Baynes,4.09,20442602,9780020000000.0,eng,216,2977,250,01/01/1970,Macmillan Publishing Company/Collier Books
+18133,Lolita,Vladimir Nabokov/John Ray Jr.,3.89,679723161,9780680000000.0,eng,317,19513,2191,6/13/1997,Vintage International
+18134,William Shakespeare’s: Twelfth Night (Shakespeare Retellings  #6),Bruce Coville/Kathryn Hewitt,4.11,803723180,9780800000000.0,eng,48,150,14,03/10/2003,Dial
+18135,Romeo and Juliet,William Shakespeare/Paul Werstine/Barbara A. Mowat,3.74,743477111,9780740000000.0,eng,368,1893917,14637,01/01/2004,Simon Schuster
+18136,Romeo and Juliet,William Shakespeare/Rex Gibson,3.74,521618703,9780520000000.0,en-US,228,425,30,08/01/2005,Cambridge University Press
+18140,Romeo and Juliet,William Shakespeare/Michael Sheen/Kate Beckinsale/Fiona  Shaw/Norman Rodway,3.74,521625629,9780520000000.0,eng,3,18,0,10/23/1997,Naxos Audiobooks
+18144,Ohio Class (Silent Service #5),H. Jay Riker,3.84,60524391,9780060000000.0,eng,416,44,4,7/25/2006,Avon
+18146,Seawolf Class (Silent Service #3),H. Jay Riker,3.96,380804689,9780380000000.0,eng,416,65,5,7/30/2002,Avon Books
+18160,The Art of Deception: Controlling the Human Element of Security,Kevin D. Mitnick/William L. Simon/Steve Wozniak,3.76,076454280X,9780760000000.0,eng,352,4565,283,10/17/2003,Wiley
+18172,Hardball: Are You Playing to Play or Playing to Win?,George Stalk Jr./Rob Lachenauer/Robert Lachenauer/John  Butman,3.49,1591391679,9781590000000.0,eng,192,84,9,10/01/2004,Harvard Business Review Press
+18182,A Theory of Fun for Game Design,Raph Koster/Will Wright,3.94,1932111972,9781930000000.0,en-CA,256,2113,181,11/06/2004,Paraglyph Press
+18184,The Complete Theory Fun Factory: Music Theory Puzzles and Games for the Early Grades,Ian        Martin/Katie Elliott,5.0,851621813,9780850000000.0,eng,96,1,0,06/01/2004,Boosey & Hawkes Inc
+18185,The Pillow Book,Sei Shōnagon/Ivan Morris,4.02,231073372,9780230000000.0,eng,419,3786,275,12/30/1991,Columbia University Press
+18190,Bachelor Brothers' Bed & Breakfast Pillow Book,Bill Richardson,3.77,312194404,9780310000000.0,eng,208,325,42,10/15/1998,St. Martin's Griffin
+18194,The Cyberiad,Stanisław Lem/Michael Kandel/Daniel Mróz,4.18,156027593,9780160000000.0,en-US,295,7842,397,12/16/2002,Harcourt
+18202,Christianity for Modern Pagans: Pascal's Pensées - Edited  Outlined & Explained,Peter Kreeft/Blaise Pascal,4.37,898704529,9780900000000.0,en-US,341,418,39,09/01/1993,Ignatius Press
+18212,Jacques the Fatalist,Denis Diderot/David Coward,3.84,192838741,9780190000000.0,eng,304,4891,102,9/16/1999,Oxford University Press
+18214,Jacques der Fatalist und sein Herr,Denis Diderot,3.84,315009335X,9783150000000.0,ger,360,22,0,01/01/1972,Reclam  Ditzingen
+18215,Pictorial Encyclopedia of Trades and Industry  Vol 1,Denis Diderot/Charles Coulston Gillispie,3.6,486274284,9780490000000.0,eng,239,5,0,1/18/1993,Dover Publications
+18217,Rameau's Nephew / D'Alembert's Dream,Denis Diderot/Leonard Tancock,3.67,140441735,9780140000000.0,eng,237,1292,67,10/28/1976,Penguin Books
+18225,Theory of Colours,Johann Wolfgang von Goethe/Deane B. Judd,4.06,262570211,9780260000000.0,eng,468,694,20,3/15/1970,MIT Press
+18226,Maxims and Reflections,Johann Wolfgang von Goethe/Peter Hutchinson/Elisabeth Stopp,3.82,140447202,9780140000000.0,eng,208,280,23,03/01/1999,Penguin Books
+18240,War and Peace,Leo Tolstoy,4.11,3895086908,9783900000000.0,en-US,1500,126,9,05/09/1999,Konemann
+18241,War and Peace,Leo Tolstoy/Anthony Briggs/Orlando Figes,4.11,067003469X,9780670000000.0,eng,1412,1228,93,1/19/2006,Viking Adult
+18242,A Savage War of Peace: Algeria  1954-1962,Alistair Horne,4.23,1590172183,9781590000000.0,eng,608,1895,178,10/10/2006,New York Review of Books
+18243,War and Peace,Leo Tolstoy/Constance Garnett/A.N. Wilson,4.11,375760644,9780380000000.0,eng,1388,850,134,07/09/2002,Modern Library
+18245,War and Peace,Leo Tolstoy/Orlando Figes/Anthony Briggs,4.11,143039997,9780140000000.0,eng,1408,516,113,12/01/2006,Penguin Books
+18246,War and Peace and War: The Rise and Fall of Empires,Peter Turchin,4.16,452288193,9780450000000.0,en-US,416,276,36,2/27/2007,Plume
+18251,Great Expectations,Charles Dickens,3.77,140620168,9780140000000.0,eng,443,905,61,1/13/1994,Penguin Books
+18253,Great Expectations,Charles Dickens/Linda Jennings,3.77,140366814,9780140000000.0,eng,417,109,4,06/01/1995,Puffin Books
+18255,Oliver Twist,Charles Dickens,3.86,486424537,9780490000000.0,eng,368,2077,83,12/30/2002,Dover Publications
+18257,Oliver Twist,Charles Dickens/Fred Kaplan,3.86,039396292X,9780390000000.0,eng,624,178,17,12/17/1992,W.W. Norton & Company
+18260,Oliver Twist,Charles Dickens/George Cruikshank/Jill Muller,3.86,1593082061,9781590000000.0,eng,478,348,47,10/25/2004,Barnes  Noble Classics
+18261,The Nibelungenlied,Unknown/A.T. Hatto,3.87,140441379,9780140000000.0,eng,404,4052,163,8/26/2004,Penguin Classics
+18265,Gargantua and Pantagruel,François Rabelais/Thomas Urquhart/Pierre Le Motteux,3.71,679431373,9780680000000.0,eng,807,51,11,05/10/1994,Alfred A. Knopf  Inc.
+18266,Gargantua and Pantagruel,François Rabelais/M.A. Screech,3.71,140445501,9780140000000.0,eng,1041,12005,297,10/26/2006,Penguin Classics
+18273,Beyond Good and Evil: Prelude to a Philosophy of the Future,Friedrich Nietzsche/Walter Kaufmann,4.01,394703375,9780390000000.0,eng,256,50,6,12/17/1989,Vintage
+18279,Phenomenology of Perception,Maurice Merleau-Ponty/Colin Smith,4.15,415278414,9780420000000.0,eng,544,5078,77,05/03/2005,Routledge
+18280,Introduction to Phenomenology,Dermot Moran,4.18,415183731,9780420000000.0,eng,592,217,19,02/05/2000,Routledge
+18281,Introduction to Phenomenology,Robert Sokolowski,3.98,521667925,9780520000000.0,eng,248,316,36,1/27/2000,Cambridge University Press
+18282,The Basic Problems of Phenomenology (Studies in Phenomenology & Existential Philosophy),Martin Heidegger/Albert Hofstadter,4.29,025320478X,9780250000000.0,en-US,432,467,16,08/01/1988,Indiana University Press
+18283,The Phenomenology of Mind  Volume II,Georg Wilhelm Friedrich Hegel/James Black Baillie,4.0,1596057734,9781600000000.0,ger,372,1,0,2/16/2006,Cosimo Classics
+18284,Experimental Phenomenology: An Introduction,Don Ihde,3.73,887061990,9780890000000.0,eng,155,44,1,6/30/1986,State University of New York Press
+18287,Critique of Pure Reason,Immanuel Kant/J.M.D. Meiklejohn,3.94,486432548,9780490000000.0,eng,480,72,10,11/17/2003,Dover Publications
+18288,Critique of Pure Reason,Immanuel Kant/Paul Guyer/Allen W. Wood,3.94,521657296,9780520000000.0,eng,796,23607,375,2/28/1999,Cambridge University Press
+18290,Critique of Pure Reason,Immanuel Kant/Werner S. Pluhar/Patricia Kitcher/James W. Ellington,3.94,872202577,9780870000000.0,eng,1096,180,14,12/01/1996,Hackett Publishing Company  Inc.
+18291,Critique of Pure Reason,Immanuel Kant/Marcus Weigelt/F. Max Müller,3.94,140447474,9780140000000.0,eng,784,254,35,11/29/2007,Penguin Books Ltd
+18294,Critique of Pure Reason (Studies in the History of Philosophy),Immanuel Kant/Humphrey Palmer,3.94,773491678,9780770000000.0,eng,140,17,0,01/01/1992,Edwin Mellen Press
+18297,The Anime Encyclopedia: A Guide to Japanese Animation Since 1917,Jonathan Clements/Helen McCarthy,4.04,1933330104,9781930000000.0,eng,867,25,5,11/01/2006,Stone Bridge Press
+18305,Unpublished Writings from the Period of Unfashionable Observations (Complete Works 11),Friedrich Nietzsche/Richard T. Gray,4.06,804728844,9780800000000.0,eng,536,2,0,01/01/2000,Stanford University Press
+18310,Thus Spake Zarathustra: A Book for All and None,Friedrich Nietzsche,4.06,1406947199,9781410000000.0,eng,356,275,20,11/03/2006,Penguin
+18314,The Picture of Dorian Gray,Oscar Wilde,4.08,1557424292,9781560000000.0,eng,187,329,21,10/10/2005,Wildside Press
+18315,The Picture of Dorian Gray,Oscar Wilde,4.08,1420925288,9781420000000.0,en-US,124,838,52,01/01/2005,Digireads.com
+18324,Haussmann  or the Distinction,Paul La Farge,3.65,312420927,9780310000000.0,eng,379,157,21,10/02/2002,Picador
+18328,The Artist of the Missing,Paul La Farge/Stephen Alcorn,3.58,374525803,9780370000000.0,eng,256,99,10,06/04/1999,Farrar  Strauss & Giroux-3pl
+18333,Reluctant Runaway (To Catch a Thief #2),Jill Elizabeth Nelson,3.71,1590526872,9781590000000.0,en-US,352,90,12,3/20/2007,Multnomah
+18334,Kentucky Straight: Stories,Chris Offutt,4.03,067973886X,9780680000000.0,eng,192,876,89,10/27/1992,Vintage
+18335,Out of the Woods,Chris Offutt,4.05,684853760,9780680000000.0,eng,176,480,61,2/22/2000,Simon  Schuster
+18337,No Heroes: A Memoir of Coming Home,Chris Offutt,3.87,684865521,9780680000000.0,eng,272,193,34,04/02/2003,Simon  Schuster
+18338,The Castle Keeps,Andrew J. Offutt,3.57,425021874,9780430000000.0,en-US,191,19,3,7/30/1972,Berkley
+18341,Conan: Sword of Skelos,Andrew J. Offutt,3.94,765340216,9780770000000.0,eng,224,1427,5,2/18/2002,Tor Fantasy
+18348,"Incest: From ""A Journal of Love"": The Unexpurgated Diary of Anaïs Nin  1932-1934",Anaïs Nin/Rupert Pole/Gunther Stuhlmann,3.99,151443661,9780150000000.0,eng,418,908,54,10/01/1992,Houghton Mifflin Harcourt
+18349,"Fire: From ""A Journal of Love"": The Unexpurgated Diary of Anaïs Nin  1934-1937",Anaïs Nin,4.13,156003902,9780160000000.0,eng,448,585,31,7/22/1996,Mariner Books
+18350,In Favor of the Sensitive Man and Other Essays,Anaïs Nin,4.02,156444453,9780160000000.0,eng,180,520,40,04/01/1976,Mariner Books
+18353,Anaïs Nin: A Biography,Deirdre Bair,3.99,140255257,9780140000000.0,eng,672,632,37,07/01/1996,Penguin Books
+18361,Fire: From A Journal of Love - The Unexpurgated Diary of Anaïs Nin (1934-1937),Anaïs Nin/Gunther Stuhlmann,4.13,151000883,9780150000000.0,eng,448,196,6,5/15/1995,Houghton Mifflin Harcourt
+18362,The Diary of Anaïs Nin  Vol. 6: 1955-1966,Anaïs Nin/Gunther Stuhlmann,4.13,156260328,9780160000000.0,eng,432,319,11,11/03/1977,Mariner Books
+18365,"Nearer the Moon: From ""A Journal of Love"": The Unexpurgated Diary of Anaïs Nin  1937-1939",Anaïs Nin/Gunther Stuhlmann,4.23,151000891,9780150000000.0,eng,396,168,16,11/01/1996,Houghton Mifflin
+18366,The Early Diary of Anaïs Nin  Vol. 3: 1923-1927,Anaïs Nin,4.18,156272504,9780160000000.0,eng,320,147,7,3/22/1985,Mariner Books
+18370,Henry and June: From the Unexpurgated Diary of Anaïs Nin,Anaïs Nin,3.9,151400032,9780150000000.0,eng,274,151,19,12/31/1986,Houghton Mifflin Harcourt P
+18373,Flowers for Algernon,Daniel Keyes,4.12,156030306,9780160000000.0,eng,311,337596,9949,05/01/2005,Harvest Books
+18374,Flowers for Algernon,Daniel Keyes,4.12,435123432,9780440000000.0,en-US,218,190,21,3/31/1989,Heinemann
+18380,Algernon  Charlie  and I: A Writer's Journey: Plus the Complete Original Short Novelette Version of Flowers for Algernon,Daniel Keyes,4.06,1929519001,9781930000000.0,eng,223,15,3,2/14/2004,Challenge Press  Inc./Challcrest Press
+18383,Jane Eyre,Charlotte Brontë,4.12,3717519646,9783720000000.0,ger,784,432,26,03/01/2001,Manesse Verlag
+18384,The Death of Ivan Ilyich and Other Stories,Leo Tolstoy,4.11,1840224533,9781840000000.0,eng,256,320,33,12/05/2004,Wordsworth Editions
+18385,The Death of Ivan Ilych & Other Stories,Leo Tolstoy,4.11,1593080697,9781590000000.0,eng,400,263,37,12/15/2003,Barnes  Noble Classics
+18392,The Lost Years of Merlin,T.A. Barron,3.98,441010288,9780440000000.0,eng,304,12117,452,07/02/2002,Ace
+18394,The Mirror of Merlin,T.A. Barron,4.06,441009654,9780440000000.0,eng,288,6661,54,7/30/2002,Ace
+18395,The Wings of Merlin,T.A. Barron,4.11,441010245,9780440000000.0,eng,288,6211,63,1/28/2003,Ace
+18403,El Club Dante,Matthew Pearl/Vicente Villacampa,3.38,8432217204,9788430000000.0,spa,586,156,9,03/01/2006,Planeta Publishing
+18404,El club Dante,Matthew Pearl/Vicente Villacampa,3.38,8432296325,9788430000000.0,spa,464,57,2,8/30/2004,Seix Barral
+18405,Gone with the Wind,Margaret Mitchell,4.29,446675539,9780450000000.0,eng,1037,999139,15323,04/01/1999,Warner Books
+18412,The Wind Done Gone,Alice Randall,3.07,618219064,9780620000000.0,eng,224,1698,283,04/08/2002,Mariner Books
+18413,Utopia,Thomas More/Clarence H. Miller,3.53,300084293,9780300000000.0,eng,200,438,45,02/08/2001,Yale University Press
+18414,Utopia,Thomas More/Paul Turner,3.53,140449108,9780140000000.0,eng,135,45460,1731,05/06/2003,Penguin Classics
+18419,The Kissing Hand,Audrey Penn/Ruth E. Harper/Nancy M. Leak,4.43,1933718005,9781930000000.0,en-GB,32,57737,1628,10/15/1993,Tanglewood
+18420,Hands of Light: A Guide to Healing Through the Human Energy Field,Barbara Ann Brennan/Jos. A. Smith,4.27,553345397,9780550000000.0,eng,320,10878,106,02/01/1990,Bantam
+18422,Gifted Hands: The Ben Carson Story,Ben Carson/Cecil Murphey,4.21,310214696,9780310000000.0,eng,224,11874,1544,11/26/1996,Zondervan
+18425,Shake Hands with the Devil,Roméo Dallaire,4.24,99478935,9780100000000.0,en-GB,563,242,34,02/03/2005,Arrow
+18427,In the Name of Love and Other True Cases (Crime Files  #4),Ann Rule,4.04,067179356X,9780670000000.0,eng,414,1353,53,01/01/1998,Pocket Books
+18431,The Rule of Four,Ian Caldwell/Dustin Thomason,3.23,440241359,9780440000000.0,eng,450,25111,1691,6/28/2005,Dell Publishing Company
+18432,The Real Rule of Four: The Unauthorized Guide to the New York Times #1 Bestseller,Joscelyn Godwin,3.46,1932857087,9781930000000.0,eng,208,88,5,11/01/2005,Disinformation Books
+18438,Time For Kids: Butterflies!,David Bjerklie,3.97,60782137,9780060000000.0,eng,32,21,0,2/21/2006,HarperCollins
+18443,Macbeth,William Shakespeare/Robert S. Miola/Janet Adelman/Stephen Orgel/Peter Holland,3.9,393977862,9780390000000.0,eng,416,739,30,11/26/2003,W. W. Norton & Company
+18444,Macbeth,William Shakespeare/Kenneth Muir,3.9,1903436486,9781900000000.0,eng,255,605,41,1/31/1997,Bloomsbury Arden Shakespeare
+18446,Macbeth,William Shakespeare/Roma Gill,3.9,198321465,9780200000000.0,eng,160,156,14,1/20/2005,Oxford University Press
+18448,Death of a Celebrity (Hamish Macbeth  #17),M.C. Beaton,3.84,446612049,9780450000000.0,eng,274,2977,183,01/01/2003,Warner Books
+18449,The Best of the Journal of Irreproducible Results,George H. Scherr/Richard Liebmann-Smith,4.32,894805959,9780890000000.0,en-US,195,40,4,01/10/1989,Workman Publishing Company
+18455,The Spy Who Loved Me (James Bond  #10),Ian Fleming,3.4,142003263,9780140000000.0,eng,198,8053,460,09/02/2003,Penguin Books
+18461,Conversations with Jerzy Kosinski,Jerzy Kosiński/Tom Teicholz,3.69,878056262,9780880000000.0,eng,242,26,3,05/01/1993,University Press of Mississippi
+18486,Frankenstein Makes a Sandwich,Adam Rex,4.21,152057668,9780150000000.0,eng,40,1911,276,09/01/2006,Harcourt
+18488,Frankenstein  or the Modern Prometheus,Mary Wollstonecraft Shelley/Margaret Brantley,3.79,743487583,9780740000000.0,eng,324,12897,780,05/01/2004,Pocket Books
+18489,Frankenstein,Mary Wollstonecraft Shelley/J. Paul Hunter,3.79,393964582,9780390000000.0,en-US,336,2188,171,12/17/1995,W. W. Norton & Company
+18496,Mary Shelley: Her Life  Her Fiction  Her Monsters,Anne K. Mellor,3.9,415901472,9780420000000.0,eng,308,80,13,12/15/1989,Routledge
+18500,The Faerie Queene: Books I to III,Edmund Spenser/Douglas Brooks-Davies,3.79,460873911,9780460000000.0,eng,575,33,3,11/15/1993,Everyman Paperbacks
+18503,The Faerie Queene,Edmund Spenser,3.56,1840221089,9781840000000.0,en-US,896,42,5,06/01/2001,Wordsworth Editions
+18517,To the Lighthouse,Virginia Woolf/Eudora Welty,3.78,156907399,9780160000000.0,en-US,209,4116,300,12/27/1989,Harcourt
+18518,The Diary of Virginia Woolf  Volume One: 1915-1919,Virginia Woolf/Anne Olivier Bell/Quentin Bell,4.32,156260360,9780160000000.0,eng,356,1281,40,5/15/1979,Mariner Books
+18519,The Diary of Virginia Woolf  Volume Five: 1936-1941,Virginia Woolf/Anne Olivier Bell/Andrew McNeillie,4.5,156260409,9780160000000.0,eng,424,231,8,9/30/1985,Mariner Books
+18520,The Diary of Virginia Woolf  Volume Three: 1925-1930,Virginia Woolf/Anne Olivier Bell/Andrew McNeillie,4.42,156260387,9780160000000.0,eng,408,485,14,9/14/1981,Mariner Books
+18521,A Room of One's Own,Virginia Woolf,4.14,141183535,9780140000000.0,eng,112,80536,3436,01/01/2000,Penguin Books
+18525,Dr. Faustus,Christopher Marlowe,3.8,486282082,9780490000000.0,eng,64,45469,935,10/20/1994,Dover Publications
+18526,The Complete Plays,Christopher Marlowe/Robert Lindsey/Frank Romany,4.07,140436332,9780140000000.0,eng,752,2428,50,11/27/2003,Penguin Classics
+18533,Doctor Faustus and Other Plays,Christopher Marlowe/Eric Rasmussen/David Bevington,3.98,192834452,9780190000000.0,eng,503,1712,40,05/07/1998,Oxford University Press
+18534,Cyrano de Bergerac,Edmond Rostand/Brian Hooker/Walter Hampden,4.06,553213601,9780550000000.0,eng,208,410,62,11/01/1950,Bantam Classics
+18545,Rosencrantz and Guildenstern Are Dead,Tom Stoppard,4.06,802132758,9780800000000.0,eng,126,73863,1618,1/21/1994,Grove Press
+18546,King Lear,William Shakespeare/Stanley Wells,3.91,192839926,9780190000000.0,eng,336,233,15,04/12/2001,Oxford University Press  USA
+18547,King Lear  Macbeth  Indefinition  and Tragedy,Stephen  Booth,4.11,1877275514,9781880000000.0,eng,180,18,3,06/01/2002,Cybereditions Corp
+18549,A Break with Charity: A Story about the Salem Witch Trials,Ann Rinaldi,3.79,152046828,9780150000000.0,eng,320,5052,417,07/01/2003,HMH Books for Young Readers
+18551,A Break With Charity: A Story of the Salem Witch Trials,Ann Rinaldi,3.79,785735488,9780790000000.0,eng,297,37,6,04/01/1994,Turtleback Books
+18553,The Cay (The Cay  #1),Theodore Taylor,3.76,044022912X,9780440000000.0,en-US,156,29126,2227,04/08/2003,Laurel Leaf
+18556,The Queen of Whale Cay: The Eccentric Story of 'Joe' Carstairs  Fastest Woman on Water,Kate Summerscale/Joe Carstairs,3.69,140276130,9780140000000.0,eng,256,393,81,06/01/1999,Penguin Books
+18561,Everest: Mountain Without Mercy,Broughton Coburn/David Breashears/Tim Cahill,4.03,792269845,9780790000000.0,eng,256,36,2,04/01/2003,National Geographic
+18564,The Summit (Everest  #3),Gordon Korman,3.96,439411378,9780440000000.0,eng,154,2584,106,10/01/2002,Scholastic Paperbacks
+18574,Everest: Expedition to the Ultimate,Reinhold Messner,3.93,189857345X,9781900000000.0,eng,286,256,14,09/01/1999,Baton Wicks
+18576,Everything on a Waffle (Coal Harbour #1),Polly Horvath,3.72,374422087,9780370000000.0,eng,150,9839,767,09/08/2004,Sunburst
+18579,Summer of my German Soldier,Bette Greene,3.68,142406511,9780140000000.0,en-US,240,832,91,4/20/2006,Puffin Books
+18591,Hamlet (Oxford Bookworms Library: Stage 2),Alistair McCallum/William Shakespeare,3.89,194232204,9780190000000.0,eng,54,164,6,10/01/2005,Oxford University Press  USA
+18596,By Myself and Then Some,Lauren Bacall,3.95,61127914,9780060000000.0,eng,512,2799,170,10/31/2006,It Books
+18600,Touching the Void: The True Story of One Man's Miraculous Survival,Joe Simpson,4.22,60730552,9780060000000.0,eng,218,44074,1405,02/03/2004,Harper Perennial
+18603,The Mercy of Thin Air,Ronlyn Domingue,3.83,743278828,9780740000000.0,eng,336,4718,656,6/20/2006,Washington Square Press
+18610,Thin Air (Spenser  #22),Robert B. Parker/David Dukes,3.9,425152901,9780430000000.0,en-US,320,4055,141,04/01/1996,G.P. Putnam's Sons
+18615,Princess Sultana's Daughters,Jean Sasson,3.89,038547444X,9780390000000.0,eng,229,59,5,06/01/1994,Doubleday Books
+18628,The State of the Art,Iain M. Banks,3.84,189238938X,9781890000000.0,eng,188,46,6,08/01/2005,Night Shade
+18629,Excession (Culture  #5),Iain M. Banks,4.21,1857233948,9781860000000.0,eng,451,173,15,6/13/1996,Orbit
+18630,The Player of Games (Culture  #2),Iain M. Banks,4.27,61053562,9780060000000.0,eng,293,46139,1648,02/01/1997,HarperPrism
+18631,Feersum Endjinn,Iain M. Banks,3.82,553374591,9780550000000.0,eng,311,320,18,06/01/1995,Spectra/Bantam Books (NYC)
+18637,Use of Weapons,Iain M. Banks,4.18,553292242,9780550000000.0,eng,389,210,14,03/01/1992,Bantam Books (NY)
+18638,Le Sens du vent,Iain M. Banks,4.2,2221095529,9782220000000.0,fre,404,7,0,9/30/2002,Robert Laffont
+18639,Two Girls  Fat and Thin,Mary Gaitskill,3.64,684843129,9780680000000.0,eng,320,1632,150,2/27/1998,Simon  Schuster
+18640,Three Novels & Five Short Stories,Daphne du Maurier,4.12,517349175,9780520000000.0,eng,677,33,2,12/12/1988,Random House Value Publishing
+18646,Galileo's Daughter: A Historical Memoir of Science  Faith and Love,Dava Sobel,3.76,140280553,9780140000000.0,eng,420,24290,1323,11/01/2000,Penguin Books (NYC)
+18648,Galileo's Daughter,Dava Sobel,3.76,1857027124,9781860000000.0,eng,448,124,18,9/15/2000,Fourth Estate Ltd
+18653,Shop in the Name of Love (The Cheetah Girls #2),Deborah Gregory/Paul Mantell,3.64,786813857,9780790000000.0,eng,132,54,5,9/15/1999,Jump at the Sun
+18655,Shopgirl,Steve Martin,3.43,786866586,9780790000000.0,eng,130,1229,147,09/11/2000,Hyperio
+18660,The Secret Garden: Talking Beetles and Signaling Trees: The Hidden Ways Gardens Communicate,David Bodanis,4.16,671868616,9780670000000.0,eng,187,5,0,11/01/1993,Touchstone Books
+18667,E=mc2: A Biography of the World's Most Famous Equation,David Bodanis/Ralph L. Fowler,4.09,802713521,9780800000000.0,en-US,352,163,20,09/01/2000,Walker Books
+18671,The Botany of Desire: A Plant's Eye View of the World,Michael Pollan,4.06,747563004,9780750000000.0,en-US,291,110,11,03/01/2006,Bloomsbury Publishing PLC
+18683,Meeting God at Every Turn,Catherine Marshall,4.36,080079298X,9780800000000.0,eng,256,213,13,09/01/2002,Chosen Books
+18699,My Life,Bill Clinton,3.73,375414576,9780380000000.0,en-US,957,807,49,6/22/2004,Knopf Publishing Group
+18700,My Life  Volume I: The Early Years,Bill Clinton,3.82,1400096715,9781400000000.0,en-US,646,206,15,5/31/2005,Vintage
+18710,Murder on the Yellow Brick Road (Toby Peters  #2),Stuart M. Kaminsky,3.63,743400003,9780740000000.0,eng,192,454,45,05/01/2000,iBooks
+18718,Down the Yellow Brick Road:The Making of The Wizard of Oz,Doug McClelland/Ted Sennett,3.92,515040967,9780520000000.0,eng,159,3,2,05/01/1976,Pyramid Books
+18722,Alentejo Blue,Monica Ali,2.72,743293037,9780740000000.0,eng,304,788,104,6/20/2006,Scribner Book Company
+18723,Brick Lane,Monica Ali,3.41,743243315,9780740000000.0,eng,432,23848,1465,06/02/2004,Scribner
+18728,No Ordinary Time: Franklin and Eleanor Roosevelt: The Home Front in World War II,Doris Kearns Goodwin,4.18,684804484,9780680000000.0,eng,633,37093,1171,10/01/1995,Simon & Schuster
+18736,Going to Pieces Without Falling Apart: A Buddhist Perspective on Wholeness,Mark Epstein/Charlie Conrad,3.9,767902351,9780770000000.0,eng,200,4473,228,06/01/1999,Harmony
+18741,One More For The Road,Ray Bradbury,3.69,743440749,9780740000000.0,eng,289,21,3,04/07/2003,Earthlight
+18745,Female Chauvinist Pigs: Women and the Rise of Raunch Culture,Ariel Levy,3.68,743284283,9780740000000.0,en-US,236,8511,765,10/03/2006,Free Press
+18749,Half of a Yellow Sun,Chimamanda Ngozi Adichie,4.32,1400044162,9781400000000.0,eng,433,71280,5494,09/12/2006,Knopf
+18750,Beauty's Punishment (Sleeping Beauty  #2),A.N. Roquelaure/Anne Rice,3.62,452281431,9780450000000.0,eng,233,22255,710,05/01/1999,Penguin Books
+18753,The World's Last Night: And Other Essays,C.S. Lewis,4.18,156027712,9780160000000.0,en-GB,132,1097,117,11/04/2002,Mariner Books
+18757,Last Night: Stories,James Salter,3.9,1400078415,9781400000000.0,eng,132,1825,186,3/14/2006,Vintage
+18758,The Last Night of Ballyhoo,Alfred Uhry,3.71,1559361409,9781560000000.0,en-US,96,259,16,10/01/1997,Theatre Communications Group
+18761,Civilization and Its Discontents,Sigmund Freud/Louis Menand,3.78,393059952,9780390000000.0,eng,192,215,18,1/17/2005,W. W. Norton  Company
+18762,Civilization and Its Discontents,Sigmund Freud/James Strachey,3.78,393096238,9780390000000.0,eng,121,170,19,12/01/1961,W.W. Norton & Company  Inc. (NY)
+18765,I  Claudius (Claudius  #1),Robert Graves,4.27,067972477X,9780680000000.0,eng,468,45108,1853,10/23/1989,Vintage
+18770,The Modern Mind: An Intellectual History of the 20th Century,Peter Watson,4.26,60084383,9780060000000.0,eng,847,588,56,7/23/2002,Harper Perennial
+18771,Origins of the Modern Mind: Three Stages in the Evolution of Culture and Cognition,Merlin Donald,4.16,674644840,9780670000000.0,eng,424,94,9,3/15/1993,Harvard University Press
+18772,Beyond the Post-Modern Mind: The Place of Meaning in a Global Civilization,Huston Smith,4.24,835608301,9780840000000.0,en-US,295,69,9,7/25/2003,Quest Books
+18789,Sanctuary,William Faulkner,3.64,679748148,9780680000000.0,eng,317,9336,544,12/06/1993,Vintage
+18790,The Portable Faulkner,William Faulkner/Malcolm Cowley,4.29,014243728X,9780140000000.0,eng,650,776,22,2/25/2003,Penguin Books
+18792,One Matchless Time: A Life of William Faulkner,Jay Parini,3.97,60935553,9780060000000.0,en-US,528,193,34,6/14/2005,Harper Perennial
+18795,The Guermantes Way (In Search of Lost Time  #3),Marcel Proust/C.K. Scott Moncrieff/Terence Kilmartin/D.J. Enright,4.3,375752331,9780380000000.0,eng,834,451,80,11/03/1998,The Modern Library New York
+18798,The Guermantes Way  (In Search of Lost Time  #3),Marcel Proust/Mark Treharne/Christopher Prendergast,4.3,143039229,9780140000000.0,eng,619,4345,246,5/31/2005,Penguin Classics
+18799,Sodom and Gomorrah (In Search of Lost Time  #4),Marcel Proust/Christopher Prendergast/John Sturrock,4.35,143039318,9780140000000.0,eng,557,3243,172,11/01/2005,Penguin Classics
+18800,In Search of Lost Time  Vol. 2: Within a Budding Grove  Part 2 & The Guermantes' Way,Marcel Proust/C.K. Scott Moncrieff/Terence Kilmartin,4.57,1841598976,9781840000000.0,eng,888,48,1,6/29/2001,Everyman's Library
+18801,The Captive & The Fugitive (In Search of Lost Time  #5-6),Marcel Proust/C.K. Scott Moncrieff/Terence Kilmartin/D.J. Enright,4.39,375753117,9780380000000.0,eng,957,1924,143,2/16/1999,Modern Library
+18802,Finding Time Again (In Search of Lost Time #7),Marcel Proust/Ian Patterson/Christopher Prendergast,4.49,141180366,9780140000000.0,eng,374,181,43,10/02/2003,Penguin
+18803,The Way by Swann’s  (In Search of Lost Time #1),Marcel Proust/Lydia Davis/Christopher Prendergast,4.14,141180315,9780140000000.0,eng,489,318,52,10/02/2003,Penguin Classics
+18807,Dostoevsky: The Mantle of the Prophet  1871-1881,Joseph Frank,4.56,691115699,9780690000000.0,eng,800,101,12,09/02/2003,Princeton University Press
+18808,Dostoevsky,Richard Freeborn,3.76,1904341276,9781900000000.0,eng,183,55,6,10/01/2005,Haus Publishing
+18812,Dostoevsky: The Stir of Liberation  1860-1865,Joseph Frank,4.51,691014523,9780690000000.0,eng,416,118,15,11/21/1988,Princeton University Press
+18815,Dostoevsky  Kierkegaard  Nietzsche and Kafka,William Hubben,3.57,684825899,9780680000000.0,eng,192,78,10,5/13/1997,Charles Scribner's Sons
+18816,Problems of Dostoevsky's Poetics,Mikhail Bakhtin/Caryl Emerson,4.34,816612285,9780820000000.0,eng,334,641,29,6/21/1984,University Of Minnesota Press
+18817,Dostoevsky: The Years of Ordeal  1850-1859,Joseph Frank,4.43,691014221,9780690000000.0,eng,336,151,22,1/21/1987,Princeton University Press
+18822,The Possessed,Fyodor Dostoyevsky/Constance Garnett/Elizabeth Dalton,4.27,1593082509,9781590000000.0,eng,768,504,52,02/01/2005,Barnes & Noble
+18824,The Idiot,Fyodor Dostoyevsky/Constance Garnett/Joseph Frank,4.18,1593083475,9785170000000.0,eng,559,125,13,01/06/2005,Barnes  Noble Classics
+18825,Money,Martin Amis,3.71,99461889,9780100000000.0,eng,394,19967,732,04/07/2005,Vintage
+18826,House of Meetings,Martin Amis,3.41,1400044553,9781400000000.0,eng,241,1917,206,1/16/2007,Alfred A. Knopf
+18828,The Rachel Papers,Martin Amis,3.59,679734589,9780680000000.0,eng,240,8180,346,9/29/1992,Vintage
+18829,Yellow Dog,Martin Amis,2.79,1400077273,9781400000000.0,eng,352,1449,94,01/04/2005,Vintage
+18831,Success,Martin Amis,3.66,679734481,9780680000000.0,eng,224,2191,101,04/03/1991,Vintage
+18832,Koba the Dread: Laughter and the Twenty Million,Martin Amis,3.83,1400032202,9781400000000.0,eng,306,1182,110,09/09/2003,Vintage
+18833,Dead Babies,Martin Amis,3.32,067973449X,9780680000000.0,eng,206,6348,162,04/03/1991,Vintage
+18834,Beginning Again: An Autobiography of The Years 1911 to 1918,Leonard Woolf,3.81,156116804,9780160000000.0,eng,263,64,8,10/18/1989,Mariner Books
+18835,Virginia Woolf: A Biography,Quentin Bell,4.17,156935805,9780160000000.0,eng,576,2583,66,3/20/1974,Mariner Books
+18837,Cliffs Notes on Woolf's Mrs. Dalloway,Gary K. Carey,3.09,764544578,9780760000000.0,eng,72,10,2,12/12/2003,Cliffs Notes
+18839,Orlando,Virginia Woolf,3.87,141184272,9780140000000.0,eng,228,42153,2071,9/28/2000,Penguin Classics
+18840,The Common Reader,Virginia Woolf/Andrew McNeillie,4.16,015602778X,9780160000000.0,eng,272,1136,58,11/04/2002,Mariner Books
+18842,A Room of One's Own,Virginia Woolf/Mark Hussey/Susan Gubar,4.14,156030411,9780160000000.0,en-US,112,878,81,08/01/2005,Mariner Books
+18843,Women and Writing,Virginia Woolf/Michèle Barrett,4.07,156028069,9780160000000.0,eng,216,244,13,3/31/2003,A Harvest Book/Harcourt  Inc.
+18844,Flush,Virginia Woolf/Trekkie Ritchie,3.83,156319527,9780160000000.0,eng,204,3567,336,10/04/1976,Mariner Books
+18846,Virginia Woolf,Hermione Lee,4.26,375701362,9780380000000.0,eng,893,2807,113,10/05/1999,Vintage
+18849,The Letters of Virginia Woolf: Volume Six  1936-1941,Virginia Woolf/Nigel Nicolson/Joanne Trautmann,4.48,156508877,9780160000000.0,eng,576,96,2,9/30/1982,Mariner Books
+18850,On Being Ill,Virginia Woolf/Hermione Lee,4.02,1930464061,9781930000000.0,eng,63,1083,96,10/01/2002,Paris Press
+18852,The Years,Virginia Woolf,3.77,141185325,9780140000000.0,eng,444,2867,174,2/28/2002,Penguin Classics
+18853,The Letters of Virginia Woolf: Volume Four  1929-1931,Virginia Woolf/Nigel Nicolson/Joanne Trautmann,4.41,156508842,9780160000000.0,en-US,480,106,2,5/15/1981,Mariner Books
+18854,Three Guineas,Virginia Woolf/Mark Hussey/Jane Marcus,3.87,156031639,9780160000000.0,eng,352,2423,125,07/03/2006,Mariner Books
+18860,The Little Red Lighthouse and the Great Gray Bridge,Hildegarde Hoyt Swift/Lynd Ward,4.26,152045732,9780150000000.0,eng,64,2276,101,11/01/2003,Houghton Mifflin Company
+18861,The Eagle (The Lighthouse Family  #3),Cynthia Rylant/Preston McDaniels,4.08,068986311X,9780690000000.0,eng,64,176,15,10/01/2005,Beach Lane Books
+18862,The Storm (The Lighthouse Family  #1),Cynthia Rylant/Preston McDaniels,4.18,068984882X,9780690000000.0,eng,80,445,86,09/01/2003,Beach Lane Books
+18867,The Art of Maurice Sendak,Selma G. Lanes,4.43,810980630,9780810000000.0,eng,258,796,28,09/01/1998,Harry N. Abrams
+18874,The Poet  the Warrior  the Prophet,Rubem A. Alves,4.43,334028965,9780330000000.0,eng,148,27,6,9/28/2002,SCM Press
+18877,The Warrior Prophet (The Prince of Nothing  #2),R. Scott Bakker,3.95,1585677280,9781590000000.0,en-US,624,10570,221,10/25/2005,Overlook TP
+18878,The Belgariad  Vol. 1: Pawn of Prophecy / Queen of Sorcery / Magician's Gambit (The Belgariad  #1-3),David Eddings,4.28,345456327,9780350000000.0,eng,644,14418,385,8/27/2002,Del Rey Books
+18879,The Belgariad  Vol. Two: Castle of Wizardry / Enchanters' End Game (The Belgariad  #4-5),David Eddings,4.39,345456319,9780350000000.0,eng,483,7083,140,8/27/2002,Del Rey
+18880,The Younger Gods (The Dreamers  #4),David Eddings/Leigh Eddings,3.34,446613320,9780450000000.0,eng,420,4541,85,03/01/2007,Grand Central Publishing
+18881,The Malloreon  Vol. 1: Guardians of the West / King of the Murgos / Demon Lord of Karanda (The Malloreon  #1-3),David Eddings,4.34,345483863,9780350000000.0,eng,816,4839,71,8/30/2005,Del Rey
+18882,The Malloreon  Vol. 2: Sorceress of Darshiva / The Seeress of Kell (The Malloreon  #4-5),David Eddings,4.36,345483871,9780350000000.0,eng,528,5457,59,8/30/2005,Del Rey
+18884,Polgara the Sorceress,David Eddings/Leigh Eddings,4.09,345422554,9780350000000.0,eng,754,25145,291,12/26/1998,Del Rey Books
+18888,Mistress of Magic (The Mists of Avalon  #1),Marion Zimmer Bradley/Davina Porter,4.12,1556908687,9781560000000.0,eng,14,12,4,04/01/1993,Recorded Books
+18892,The Forest House (Avalon  #2),Marion Zimmer Bradley/Diana L. Paxson,3.86,451454243,9780450000000.0,eng,462,15171,322,04/01/1995,Roc
+18902,Book of Nightmares (Diadem  Worlds of Magic  #6),John Peel,4.12,738706124,9780740000000.0,eng,192,334,2,03/08/2005,Llewellyn Publications
+18906,The Nightmare Room: The Nightmare Begins! (The Nightmare Room  #1-3),R.L. Stine,3.88,60766743,9780060000000.0,en-US,432,94,7,5/24/2005,HarperCollins
+18910,The Parallax View,Slavoj Žižek,4.0,262240513,9780260000000.0,eng,433,1027,51,02/10/2006,MIT Press (MA)
+18911,Looking Awry: An Introduction to Jacques Lacan through Popular Culture,Slavoj Žižek,4.04,026274015X,9780260000000.0,eng,188,1316,51,09/08/1992,MIT Press
+18913,The Puppet and the Dwarf: The Perverse Core of Christianity,Slavoj Žižek,3.85,262740257,9780260000000.0,eng,196,630,40,8/29/2003,The MIT Press
+18923,Zizek: A Critical Introduction,Sarah   Kay,3.46,745622089,9780750000000.0,eng,195,37,4,4/29/2003,Polity Press
+18926,Conversations with Žižek,Slavoj Žižek/Glyn Daly,3.88,745628974,9780750000000.0,eng,171,117,1,12/30/2003,Polity Press
+18929,Marcovaldo,Italo Calvino/William Weaver,3.89,156572044,9780160000000.0,eng,128,5813,276,11/16/1983,Mariner Books
+18930,The Uses of Literature,Italo Calvino/Patrick Creagh,4.07,156932504,9780160000000.0,eng,341,900,32,10/21/1987,Mariner Books
+18931,Please Stop Laughing at Me... One Woman's Inspirational Story,Jodee Blanco,3.85,1580628362,9781580000000.0,en-US,288,9662,897,03/01/2003,Adams Media
+18937,In the Beginning...Was the Command Line,Neal Stephenson,3.8,380815931,9780380000000.0,en-US,151,6638,329,11/09/1999,William Morrow Paperbacks
+18942,The Extraordinary Cases of Sherlock Holmes,Arthur Conan Doyle,4.21,140367055,9780140000000.0,eng,277,552,37,06/01/1994,Puffin Books
+18943,Confessions of an Ugly Stepsister,Gregory Maguire,3.53,60987529,9780060000000.0,en-US,372,53782,3344,10/03/2000,William Morrow Paperbacks
+18947,Jane Austen For Dummies,Joan Elizabeth Klingel Ray,4.03,470008296,9780470000000.0,eng,362,524,62,08/01/2006,John Wiley
+18952,The Rediscovery of Man,Cordwainer Smith,4.14,1857988191,9781860000000.0,eng,368,2396,98,5/13/1999,Gollancz
+18956,Homicide: A Year on the Killing Streets,David Simon,4.38,805080759,9780810000000.0,eng,646,12071,837,8/22/2006,Holt McDougal
+18957,The Corner: A Year in the Life of an Inner-City Neighborhood,David Simon/Edward Burns,4.43,767900316,9780770000000.0,eng,576,4404,434,6/15/1998,Broadway Books
+18959,El Libertador: Writings of Simón Bolívar,Simón Bolívar/Frederick H. Fornoff/David Bushnell,3.84,195144813,9780200000000.0,eng,288,7,1,5/15/2003,Oxford University Press  USA
+18962,Hands Collected: The Books of Simon Perchik,Simon Perchik/David Baratier,4.25,188635085X,9781890000000.0,eng,566,4,0,01/01/2000,Pavement Saw Press
+18963,Morgoth's Ring (The History of Middle-Earth  #10),J.R.R. Tolkien/Christopher Tolkien,4.13,395680921,9780400000000.0,eng,478,1619,44,12/14/1993,Houghton Mifflin Harcourt
+18964,The War of the Jewels (The History of Middle-Earth  #11),J.R.R. Tolkien/Christopher Tolkien,3.93,395710413,9780400000000.0,eng,470,3329,15,12/06/1994,Houghton Mifflin Harcourt
+18966,The Silmarillion,J.R.R. Tolkien/Christopher Tolkien,3.92,261102427,9780260000000.0,eng,384,292,40,02/07/1999,HarperCollins
+18967,The Sillymarillion: An Unauthorized Parody of J.R.R. Tolkien's Classic the Silmarillion,Donald  Lloyd,3.54,1593600259,9781590000000.0,eng,192,25,6,9/28/2004,Cold Spring Press
+18977,The Silmarillion,J.R.R. Tolkien/Christopher Tolkien,3.92,48231533,9780050000000.0,eng,441,368,44,03/12/1979,Unwin Paperbacks
+18981,Hayao Miyazaki: Master of Japanese Animation,Helen McCarthy,3.93,1880656418,9781880000000.0,en-US,240,317,19,09/01/1999,Stone Bridge Press
+18984,Cliffs Notes on Frank's The Diary of Anne Frank,Dorothea Shefer-Vanson/CliffsNotes/Anne Frank,4.32,822003902,9780820000000.0,eng,64,70,1,07/10/1984,Cliffs Notes
+18990,The Honourable Schoolboy,John le Carré,3.95,743457919,9780740000000.0,eng,589,11733,513,10/29/2002,Scribner Book Company
+19022,Valparaiso,Don DeLillo,3.33,033042694X,9780330000000.0,eng,107,383,21,04/01/2004,Pan MacMillan
+19040,No More Water in the Tub!,Tedd Arnold/Mark Buehner,3.95,140564306,9780140000000.0,eng,32,214,38,12/01/1998,Puffin Books
+19041,Big Red Tub,Julia Jarman/Adrian    Reynolds,4.03,439672325,9780440000000.0,eng,32,241,29,12/01/2004,Orchard
+19043,Tabby in the Tub (Animal Ark  #29),Ben M. Baglio/Linda Chapman/Jenny Gregory,3.96,439343909,9780440000000.0,eng,139,768,33,08/01/2003,Scholastic Paperbacks
+19052,June Bug (Murder-by-Month Mystery #2),Jess Lourey/J.H. Lourey/Jessica Lourey,3.56,738709123,9780740000000.0,eng,229,764,71,03/08/2007,Midnight Ink
+19056,Wickett's Remedy,Myla Goldberg,3.27,1400078121,9781400000000.0,eng,370,1557,231,10/10/2006,Anchor Books
+19057,I Am the Messenger,Markus Zusak/Emmanuel Pailler,4.07,375836675,9780380000000.0,eng,357,110898,11457,05/09/2006,Alfred A. Knopf Borzoi Books
+19062,Getting the Girl (Wolfe Brothers  #3),Markus Zusak,3.7,043938950x,9780440000000.0,eng,256,4327,385,06/01/2004,Push
+19063,The Book Thief,Markus Zusak/Cao Xuân Việt Khương,4.37,375831002,9780380000000.0,eng,552,1516367,86881,3/14/2006,Alfred A. Knopf
+19065,Fighting Ruben Wolfe (Wolfe Brothers  #2),Markus Zusak/Stig Wemyss,3.84,439241871,9780440000000.0,eng,224,3105,223,06/01/2002,Push
+19066,Underdog (Wolfe Brothers  #1),Markus Zusak,3.38,3473352349,9783470000000.0,eng,153,2591,207,05/01/1999,Ravensburger Buchverlag
+19067,Nicomachean Ethics,Aristotle/Martin Ostwald,3.94,23895306,9780020000000.0,en-US,352,265,20,01/11/1962,Prentice Hall/Simon & Schuster Company (Englewood Cliffs  NJ)
+19068,The Nicomachean Ethics,Aristotle/James Alexander Kerr Thomson/Jonathan Barnes/Hugh Tredennick,3.94,140449493,9780140000000.0,eng,329,23683,472,1/29/2004,Penguin Classics
+19072,Nicomachean Ethics,Aristotle/Hippocrates George Apostle,3.94,911589031,9780910000000.0,eng,372,13,0,05/01/1984,Peripatetic Press
+19075,Madame Bovary,Gustave Flaubert/Geoffrey Wall/Michèle Roberts,3.67,140449124,9780140000000.0,eng,327,3620,394,12/31/2002,Penguin Classics
+19078,Madame Bovary (Critical Editions),Gustave Flaubert/Margaret Cohen/Eleanor Marx,3.67,393979172,9780390000000.0,en-US,576,401,33,12/19/2004,W.W. Norton & Company
+19081,Madame Bovary,Gustave Flaubert/Donada  Peters,3.67,1400132746,9781400000000.0,eng,0,3,0,10/01/2006,Tantor Media
+19082,The Complete Works: The Revised Oxford Translation  Vol. 1,Aristotle/Jonathan Barnes,4.43,691099502,9780690000000.0,eng,1757,2318,17,09/01/1984,Bollingen/Princeton University Press (NJ)
+19083,Politics,Aristotle,3.94,486414248,9780490000000.0,eng,368,26727,274,11/15/2000,Dover Publications
+19084,Aristotle's Ethics (SparkNotes Literature Guides),SparkNotes,3.0,158663822X,9781590000000.0,eng,80,2,0,6/13/2003,SparkNotes
+19088,The Politics and The Constitution of Athens,Aristotle/Stephen Everson,3.98,521484006,9780520000000.0,eng,327,407,12,10/13/1996,Cambridge University Press
+19090,Middlemarch,George Eliot/Megan McDaniel/Lynne Sharon Schwartz/Lynn Sharon Schwartz,3.96,1593080239,9781590000000.0,eng,848,503,121,04/01/2003,Barnes  Noble Classics
+19093,Middlemarch,George Eliot/Harriet Walter,3.96,141804513,9780140000000.0,eng,6,50,14,1/28/2003,Penguin Audio UK
+19099,Silas Marner,George Eliot,3.64,1591940486,9781590000000.0,eng,279,165,6,5/31/2006,Townsend Press
+19100,1984,George Orwell/Mauricio Molina/Miguel Martínez Sarmiento,4.18,9685270880,9789690000000.0,spa,301,451,42,08/01/2002,Lectorum
+19103,The Complete Tales of Nikolai Gogol  Volume 1,Nikolai Gogol/Constance Garnett/Leonard J. Kent,4.32,226300684,9780230000000.0,en-US,302,311,14,4/15/1985,University of Chicago Press
+19104,The Overcoat and Other Short Stories,Nikolai Gogol,4.21,486270572,9780490000000.0,rus,103,8944,196,2/21/1992,Dover Publications
+19106,The Nose,Nikolai Gogol/Kevin Hawkes,3.89,688104649,9780690000000.0,eng,31,12968,446,9/29/1994,HarperCollins Publishers
+19108,Dead Souls,Nikolai Gogol/Richard Pevear/Larissa Volokhonsky,3.99,1400043190,9781400000000.0,eng,445,388,49,9/21/2004,Everyman's Library
+19117,Fathers and Sons,Ivan Turgenev/George Reavy/Jane Costlow,3.96,451529693,9780450000000.0,eng,244,49911,1127,02/01/2005,Signet Book
+19118,Father to Son  (The Destroyer  #129),Warren Murphy/Richard Sapir/James Mullaney,4.11,373632444,9780370000000.0,eng,349,60,4,10/01/2002,Gold Eagle
+19124,Children of the Star (Children of the Star  #1-3),Sylvia Engdahl,4.24,1892065142,9781890000000.0,eng,728,168,12,01/10/2000,Meisha Merlin Publishing
+19125,From Far Away,Robert Munsch/Michael Martchenko/Saoussan Askar,4.0,155037396X,9781550000000.0,eng,33,219,21,02/01/1995,Annick Press
+19126,From Far Away  Vol. 01,Kyoko Hikawa/Trina Robbins/Yuko Sawada/Walden Wong,4.31,1591165997,9781590000000.0,eng,200,5827,125,11/09/2004,VIZ Media
+19129,Silos  Politics and Turf Wars: A Leadership Fable about Destroying the Barriers That Turn Colleagues Into Competitors,Patrick Lencioni,4.05,787976385,9780790000000.0,eng,224,2677,166,02/01/2006,Jossey-Bass
+19134,Moral Politics: How Liberals and Conservatives Think,George Lakoff,4.03,226467716,9780230000000.0,eng,471,1260,130,05/01/2002,University Of Chicago Press
+19135,'Salem's Lot,Stephen King/Ron McLarty,4.02,743536959,9780740000000.0,en-US,0,56,5,1/19/2004,Simon & Schuster Audio
+19136,El misterio de Salem's Lot,Stephen King/Marta I. Guastavino,4.02,8484504794,9788480000000.0,spa,509,16,3,12/17/2002,Plaza & Janes Editores  S.A.
+19137,'Salem's Lot,Stephen King,4.02,451098277,9780450000000.0,eng,817,18,3,08/01/1976,Signet
+19144,Prodigal Blues,Gary A. Braunbeck/Deena Warner,4.25,1587671093,9781590000000.0,eng,304,221,28,05/01/2006,Cemetery Dance Publications
+19148,The Divine Comedy  Vol. I: Inferno,Dante Alighieri/Mark Musa,4.0,140444416,9780140000000.0,eng,432,305,19,11/28/1984,Penguin Classics
+19152,The Divine Comedy I: Hell,Dante Alighieri/Dorothy L. Sayers,4.0,140440062,9780140000000.0,eng,347,696,75,1/27/2005,Penguin Classics
+19155,The Divine Comedy  Vol. 1: Inferno,Dante Alighieri/Mark Musa,4.0,142437220,9780140000000.0,eng,432,2172,166,2/27/2003,Penguin Classics
+19156,Could Do Better: Why Children Underachieve and What to Do About It,Harvey P. Mandel/Sander I. Marcus/Loral Dean,3.8,047115847X,9780470000000.0,eng,291,2,0,8/13/1996,Wiley
+19163,Inferno,Dante Alighieri/Allen Mandelbaum/Barry Moser/Gabriel Marruzzo/Laury Magnus,4.0,553213393,9780550000000.0,eng,396,1075,86,08/03/2004,Bantam Books
+19164,Purgatorio (La Divina Commedia #2),Dante Alighieri/Robert M. Durling,4.02,195087453,9780200000000.0,ita,704,15675,244,04/08/2004,Oxford University Press  USA
+19165,Dante Alighieri's Divine Comedy  the Inferno,Dante Alighieri,4.0,812034112,9780810000000.0,en-US,101,5,0,10/01/1984,Barron's Educational Series
+19166,The Portable Dante,Dante Alighieri/Mark Musa,4.22,142437549,9780140000000.0,eng,654,278,38,7/29/2003,Penguin Books
+19171,Purgatorio (The Divine Comedy  #2),Dante Alighieri/Allen Mandelbaum/Laury Magnus/Anthony Oldcorn/Daniel Feldman/Barry Moser,4.02,055321344X,9780550000000.0,eng,413,460,33,08/03/2004,Bantam Books
+19172,The Divine Comedy  Vol. 3: Paradise,Dante Alighieri/Mark Musa,3.95,140444432,9780140000000.0,eng,433,378,32,7/31/1986,Penguin Classics
+19173,The Divine Comedy  Vol. 2: Purgatory,Dante Alighieri/Mark Musa,4.02,140444424,9780140000000.0,eng,399,764,49,5/30/1985,Penguin Classics
+19176,Vita Nuova,Dante Alighieri/Mark Musa,3.87,253201624,9780250000000.0,eng,210,67,10,4/22/1973,Indiana University Press
+19178,The Rime of the Ancient Mariner and Other Poems,Samuel Taylor Coleridge/Stanley Appelbaum,3.94,486272664,9780490000000.0,eng,76,3058,78,9/18/1992,Dover Publications
+19179,Beowulf,Unknown/Burton Raffel,3.44,451527402,9780450000000.0,eng,160,2753,150,09/01/1999,Signet Classics
+19180,Beowulf: A Dual-Language Edition,Unknown/Howell D. Chickering,3.44,1400096227,9781400000000.0,eng,464,246,32,2/14/2006,Anchor
+19181,Beowulf: A New Telling,Robert Nye,3.5,440905605,9780440000000.0,eng,94,1690,326,3/15/1982,Dell
+19182,Beowulf,Michael Morpurgo/Michael Foreman,3.85,763632066,9780760000000.0,eng,96,51,8,10/24/2006,Candlewick Press
+19193,Seamus Heaney,Helen Vendler,4.07,674002059,9780670000000.0,eng,208,61,10,03/01/2000,Harvard University Press
+19199,The Spirit Level: Poems,Seamus Heaney,4.14,374525110,9780370000000.0,eng,82,94,12,04/10/1997,Farrar  Straus and Giroux
+19243,New Selected Poems 1966-1987,Seamus Heaney,4.19,571143725,9780570000000.0,eng,246,356,19,03/04/2002,Faber and Faber
+19254,Finders Keepers: Selected Prose  1971-2001,Seamus Heaney,4.15,571210910,9780570000000.0,en-GB,432,16,0,04/07/2003,Faber and Faber
+19257,Canopy: A Work for Voice and Light in Harvard Yard,David   Ward/Parveen Adams/Seamus Heaney/Ivan Gaskell,0.0,916724948,9780920000000.0,eng,63,0,0,12/31/1997,Arts Publications
+19259,Electric Light,Seamus Heaney,3.94,571207987,9780570000000.0,en-GB,81,30,2,3/19/2001,Faber and Faber
+19263,Norden,Seamus Heaney,4.09,3446187499,9783450000000.0,ger,127,2,0,08/01/1996,Carl Hanser
+19279,Norte,Seamus Heaney/Margarita Ardanaz,4.09,8475173462,9788480000000.0,spa,155,6,1,11/28/1992,Hiperión
+19282,The Odyssey,Homer/Robert Fitzgerald/Seamus Heaney,3.76,1857150945,9781860000000.0,eng,509,48,3,10/08/1992,Everyman
+19290,Paradise Lost,John Milton/Scott Elledge,3.82,393962938,9780390000000.0,eng,688,421,40,3/17/1993,W. W. Norton & Company
+19293,Tolkien: The Illustrated Encyclopaedia,David Day,4.13,684839792,9780680000000.0,eng,288,3965,25,09/01/1996,Touchstone
+19295,Ten Days to Self-Esteem,David D. Burns,3.96,688094554,9780690000000.0,eng,336,436,19,3/17/1999,William Morrow Paperbacks
+19298,The Swords of Night and Day (The Drenai Saga  #11),David Gemmell,4.32,552146781,9780550000000.0,eng,640,6954,93,04/01/2005,Corgi
+19302,Pippi Longstocking,Astrid Lindgren/Florence Lamborn/Louis S. Glanzman,4.13,142402494,9780140000000.0,eng,160,147067,2558,4/21/2005,Puffin Books
+19307,Pippi in the South Seas,Astrid Lindgren/Gerry Bothmer,4.11,670557110,9780670000000.0,en-US,126,15193,173,9/18/1959,Viking Books for Young Readers
+19308,Pippi Goes on Board,Astrid Lindgren/Florence Lamborn/Nancy Seligsohn,4.12,140309594,9780140000000.0,eng,140,10399,156,2/24/1977,Puffin Books
+19311,The Children of Noisy Village,Astrid Lindgren/Ilon Wikland/Florence Lamborn,4.29,014032609X,9780140000000.0,eng,128,5920,205,02/02/1988,Puffin Books
+19312,The Brothers Lionheart,Astrid Lindgren/Ilon Wikland/Jill M. Morgan,4.36,1930900244,9781930000000.0,eng,231,20235,453,12/31/2004,Purple House Press
+19313,Christmas in Noisy Village,Astrid Lindgren/Ilon Wikland/Florence Lamborn,4.18,140503447,9780140000000.0,en-US,32,830,41,10/29/1981,Puffin Books
+19314,Ronia  the Robber's Daughter,Astrid Lindgren/Patricia Crampton,4.3,140317201,9780140000000.0,eng,176,16327,444,02/05/1985,Puffin Books
+19315,Happy Times in Noisy Village,Astrid Lindgren/Ilon Wikland/Florence Lamborn,4.3,1883937663,9781880000000.0,eng,128,600,35,07/01/2003,Ignatius Press
+19316,Pippi Calzaslargas (Pippi Calzaslargas  #1),Astrid Lindgren/Blanca Ríos/Richard Kennedy,4.13,8426131921,9788430000000.0,spa,137,85,14,07/01/2005,Editorial Juventud
+19318,The Tomten,Astrid Lindgren/Harald Wiberg,4.24,698115910,9780700000000.0,eng,32,1599,109,10/06/1997,The Putnam & Grosset Group
+19319,Lotta on Troublemaker Street,Astrid Lindgren/Robin Preiss Glasser,3.98,689846738,9780690000000.0,eng,55,1429,24,10/01/2001,Aladdin Paperbacks
+19321,The Tale of Peter Rabbit,Beatrix Potter,4.18,723247706,9780720000000.0,eng,72,188842,1575,03/07/2002,Warne
+19322,The Tale of Peter Rabbit: A Pop-up Adventure,Beatrix Potter,4.18,723257043,9780720000000.0,en-US,16,19,2,02/02/2006,Warne
+19323,Tale of Peter Rabbit,Beatrix Potter,4.18,723249865,9780720000000.0,eng,80,17,2,10/21/2004,Warne
+19327,The Tale of Peter Rabbit,Beatrix Potter,4.18,723258732,9780720000000.0,eng,80,36,4,12/28/2006,Warne
+19331,Beatrix Potter's Journal,Beatrix Potter,4.36,723258058,9780720000000.0,eng,32,350,42,10/19/2006,Warne
+19333,The World of Peter Rabbit (Original Peter Rabbit  Books 1-23),Beatrix Potter,4.62,723257639,9780720000000.0,eng,1072,220,14,05/04/2006,Warne
+19335,Beatrix Potter: A Life in Nature,Linda Lear,4.03,312369344,9780310000000.0,eng,584,1328,184,01/09/2007,St. Martin's Press
+19337,The Tale of the Flopsy Bunnies,Beatrix Potter,4.19,072324779X,9780720000000.0,eng,58,5209,130,03/07/2002,Warne
+19347,Treasure Island,Chris Tait/Robert Louis Stevenson/Lucy Corvino/Arthur Pober,3.83,1402713185,9781400000000.0,eng,160,798,39,03/01/2005,Sterling
+19350,The Epic of Gilgamesh,Anonymous/N.K. Sandars,3.68,848805011,9780850000000.0,eng,127,39,6,06/01/1976,Amereon Limited
+19351,The Epic of Gilgamesh,Anonymous/N.K. Sandars,3.68,141026286,9780140000000.0,eng,120,54162,1368,05/04/2006,Penguin Books Limited
+19352,The Epic of Gilgamesh,Anonymous/Maureen Kovacs,3.68,804717117,9780800000000.0,eng,122,314,42,08/01/1989,Stanford University Press
+19353,The Evolution of the Gilgamesh Epic,Jeffrey H. Tigay,3.82,865165467,9780870000000.0,eng,384,11,1,2/21/2003,Bolchazy-Carducci Publishers
+19354,The Gilgamesh Epic and Old Testament Parallels,Alexander Heidel,3.95,226323986,9780230000000.0,eng,280,58,8,9/15/1963,Phoenix Books/University of Chicago Press (IL)
+19361,The Scarlet Letter and Other Writings,Nathaniel Hawthorne/Eugene Hudson Long/Seymour L. Gross/Richard C. Beatty/Sculley Bradley/Richmond Croom Beatty,3.59,393956539,9780390000000.0,eng,443,237,17,02/01/1978,W. W. Norton & Company
+19370,The Adventures of Huckleberry Finn,Mark Twain/Scott McKowen/Arthur Pober,3.82,1402726007,9781400000000.0,eng,305,364,27,10/28/2006,Sterling
+19371,The Adventures of Huckleberry Finn,Mark Twain/Peter Coveney,3.82,141439645,9780140000000.0,eng,394,1980,66,1/30/2003,Penguin Books
+19373,Mark Twain's Adventures of Huckleberry Finn,Mark Twain/Richard P. Wasowski,3.82,764587277,9780760000000.0,eng,264,12,0,05/01/2001,Hungry Minds
+19377,Collected Tales  Sketches  Speeches  & Essays 1852–1890,Mark Twain/Louis J. Budd,4.29,940450364,9780940000000.0,eng,1120,67,6,10/15/1992,Library of America
+19379,Mark Twain's Own Autobiography: The Chapters from the North American Review,Mark Twain/Michael J. Kiskis,3.8,299125408,9780300000000.0,eng,301,9,1,10/01/1990,University of Wisconsin Press
+19381,Candide,Voltaire/Robert M. Adams,3.77,393960587,9780390000000.0,fre,224,695,55,3/19/1991,W. W. Norton and Company
+19382,Candide and Other Stories (World's Classics),Voltaire/Roger Pearson,3.94,192807269,9780190000000.0,en-US,301,3368,101,07/06/2006,Oxford University Press
+19383,Cliffs Notes on Voltaire's Candide,James K. Lowers/CliffsNotes/Voltaire,3.4,822002833,9780820000000.0,eng,80,9,3,3/29/1965,Cliffs Notes
+19384,Candide: or  Optimism,Voltaire/Peter Constantine/Diane Johnson,3.77,812972015,9780810000000.0,eng,144,221,29,10/11/2005,Modern Library
+19386,Candide and Related Writings,Voltaire/David Wootton,3.8,872205460,9780870000000.0,fre,190,114,10,9/15/2000,Hackett Publishing Company  Inc.
+19390,Philosophical Dictionary,Voltaire/Theodore Besterman,4.09,014044257X,9780140000000.0,en-US,400,1394,45,9/27/1979,Penguin Classics
+19393,What Is Goth?,Aurelio Voltaire,4.1,1578633222,9781580000000.0,eng,96,466,31,08/01/2004,Weiser Books
+19396,The Picture of Dorian Gray,Oscar Wilde/Andrew Elfenbein,4.08,321427130,9780320000000.0,eng,352,123,10,10/01/2006,Pearson
+19397,The Real Trial of Oscar Wilde,Merlin Holland,4.04,000715805X,9780010000000.0,eng,384,189,14,10/05/2004,Harper Perennial
+19398,Complete Shorter Fiction,Oscar Wilde/Isobel Murray,4.15,192833766,9780190000000.0,eng,288,1192,26,03/05/1998,Oxford University Press
+19399,The Unmasking of Oscar Wilde,Joseph Pearce,4.25,1586170260,9781590000000.0,eng,412,112,13,6/15/2005,Ignatius Press
+19400,The Decline and Fall of the Roman Empire,Edward Gibbon/Daniel J. Boorstin/Giovanni Battista Piranesi/Hans-Friedrich Mueller,3.98,375758119,9780380000000.0,eng,1312,9320,292,08/12/2003,Modern Library
+19401,The Decline and Fall of the Roman Empire,Edward Gibbon/Daniel J. Boorstin/Hans-Friedrich Mueller/Giovanni Battista Piranesi,3.98,345478843,9780350000000.0,eng,1258,32,8,03/01/2003,Modern Library
+19403,The Decline and Fall of the Roman Empire,Edward Gibbon/Hugh Trevor-Roper,3.98,753818817,9780750000000.0,eng,680,35,4,08/04/2005,Phoenix
+19406,The Decline and Fall of the Roman Empire,Edward Gibbon,3.98,1857151925,9781860000000.0,eng,1952,19,1,10/01/1994,Everyman Chess
+19409,The Christians and the Fall of Rome (Great Ideas),Edward Gibbon,3.56,143036246,9780140000000.0,en-US,96,217,20,09/06/2005,Penguin
+19411,The Portable Gibbon: The Decline and Fall of the Roman Empire,Edward Gibbon/Dero A. Saunders/Charles Alexander Robinson Jr.,3.98,140150609,9780140000000.0,eng,691,2,1,6/30/1977,Penguin Books
+19412,They Cage the Animals at Night,Jennings Michael Burch,4.32,451159411,9780450000000.0,eng,304,7999,670,10/01/1985,Signet
+19413,The Quilter's Homecoming (Elm Creek Quilts  #10),Jennifer Chiaverini,4.04,743260228,9780740000000.0,en-US,320,3865,248,04/10/2007,Simon  Schuster
+19416,Absolutely Normal Chaos,Sharon Creech,3.92,330397818,9780330000000.0,en-GB,201,28,3,09/07/2007,MacMillan Children's Books
+19428,The Abominable Snowman Doesn't Roast Marshmallows (The Adventures of the Bailey School Kids  #50),Debbie Dadey/Marcia Thornton Jones,3.82,439650372,9780440000000.0,eng,96,402,19,03/01/2005,Scholastic Paperbacks
+19430,Santa Claus Doesn't Mop Floors (The Adventures of the Bailey School Kids  #3),Debbie Dadey/Marcia Thornton Jones/John Steven Gurney,3.75,590444778,9780590000000.0,en-US,80,1146,42,10/01/1991,Scholastic Paperbacks
+19432,Angels Don't Know Karate (The Adventures Of The Bailey School Kids  #23),Debbie Dadey/Marcia Thornton Jones/John Steven Gurney,3.8,590849026,9780590000000.0,en-US,67,741,26,11/01/1996,Scholastic
+19433,Werewolves Don't Run for President (The Adventures of the Bailey School Kids  #49),Debbie Dadey/Marcia Thornton Jones/John Steven Gurney,3.84,439650364,9780440000000.0,eng,96,262,14,10/01/2004,Scholastic Paperbacks
+19435,Vampires Don't Wear Polka Dots (The Adventures of the Bailey School Kids  #1),Debbie Dadey/Marcia Thornton Jones/John Steven Gurney,3.81,059043411X,9780590000000.0,en-US,80,6983,215,01/01/1991,Scholastic Paperbacks
+19436,Werewolves Don't Go to Summer Camp (The Adventures of the Bailey School Kids  #2),Debbie Dadey/Marcia Thornton Jones/John Steven Gurney,3.82,590440616,9780590000000.0,eng,96,2175,76,07/01/1991,Scholastic Paperbacks
+19437,Phantoms Don't Drive Sports Cars (The Adventures of the Bailey School Kids  #32),Debbie Dadey/Marcia Thornton Jones/John Steven Gurney,3.76,590189824,9780590000000.0,eng,80,408,18,09/01/1998,Scholastic Paperbacks
+19439,My Perfect Life (Confessions of a Teenage Drama Queen  #2),Dyan Sheldon,3.32,076362828X,9780760000000.0,eng,208,460,39,03/03/2005,Candlewick Press
+19444,Be Happy or I'll Scream!: My Deranged Quest for the Perfect Husband  Family  and Life,Sheri Lynch,3.71,312342349,9780310000000.0,en-US,240,162,34,02/06/2007,St. Martin's Griffin
+19445,A Guide to the Words of My Perfect Teacher,Ngawang Pelzang/Padmakara Translation Group/Patrul Rinpoche/Alak Zenkar,4.61,1590300734,9781590000000.0,eng,336,79,0,6/22/2004,Shambhala
+19448,All-American Girl (All-American Girl  #1),Meg Cabot,3.74,64472779,9780060000000.0,eng,398,59683,1728,7/22/2003,HarperTrophy
+19452,Ready or Not (All-American Girl  #2),Meg Cabot,3.4,60724501,9780060000000.0,eng,238,22149,737,08/01/2005,HarperCollins Publishers
+19456,Ready or Not (All-American Girl  #2),Meg Cabot,3.4,786282827,9780790000000.0,en-US,238,86,8,04/12/2006,Thorndike Press
+19462,The Perfect Score (It's All About Attitude #5),Julie Kenner,3.24,373792735,9780370000000.0,eng,240,110,9,7/25/2006,Harlequin
+19469,The Face on the Milk Carton (Janie Johnson  #1),Caroline B. Cooney,3.73,038532328X,9780390000000.0,eng,192,49975,2360,4/13/1996,Delacorte Press
+19474,Teen Angst? Naaah...,Ned Vizzini,3.9,044023767X,9780440000000.0,eng,279,3146,270,8/13/2002,Laurel Leaf Library
+19475,It's Kind of a Funny Story,Ned Vizzini,4.13,786851961,9780790000000.0,eng,444,704,111,04/01/2006,Disney-Hyperion
+19476,Be More Chill,Ned Vizzini,3.68,786809965,9780790000000.0,eng,287,9836,1202,09/01/2005,Disney-Hyperion
+19483,Collected Prose: Autobiographical Writings  True Stories  Critical Essays  Prefaces  and Collaborations with Artists,Paul Auster,4.04,031242468X,9780310000000.0,eng,528,273,20,03/01/2005,Picador
+19484,Hand to Mouth: A Chronicle of Early Failure,Paul Auster,3.62,312422326,9780310000000.0,eng,176,1575,89,08/01/2003,Picador
+19485,The Book of Illusions,Paul Auster,3.85,571212182,9780570000000.0,eng,336,486,57,09/04/2003,Faber and Faber
+19487,City of Glass: The Graphic Novel,Paul Karasik/David Mazzucchelli/Paul Auster/Art Spiegelman,3.93,571226337,9780570000000.0,eng,144,1628,66,02/03/2005,Faber & Faber
+19496,Moonraker,Ian Fleming,3.74,141187565,9780140000000.0,en-GB,247,120,13,06/03/2004,Penguin Books  Limited (UK)
+19498,Moonraker's Bride,Madeleine Brent,4.31,285620649,9780290000000.0,eng,352,2281,302,01/01/1973,Souvenir Press
+19501,Eat  Pray  Love,Elizabeth Gilbert,3.55,143038419,9780140000000.0,eng,368,1362264,47620,02/01/2007,Riverhead Books
+19503,Eat  Pray  Love: One Woman's Search for Everything Across Italy  India and Indonesia,Elizabeth Gilbert,3.55,1415926697,9781420000000.0,eng,13,112,41,09/01/2006,Books on Tape
+19506,The World as Will and Representation  Vol. 1,Arthur Schopenhauer/Judith Norman/E.F.J. Payne/Alistair Welchman/Christropher Janaway,4.19,486217612,9780490000000.0,eng,534,7475,126,06/01/1966,Dover Publications
+19508,The Schopenhauer Cure,Irvin D. Yalom,4.22,60938102,9780060000000.0,eng,358,9550,455,01/03/2006,Harper Perennial Modern Classics
+19510,Essays and Aphorisms,Arthur Schopenhauer/R.J. Hollingdale,4.17,140442278,9780140000000.0,eng,240,6222,169,8/26/1976,Penguin Classics
+19511,Essay on the Freedom of the Will,Arthur Schopenhauer/Konstantin Kolenda,4.15,486440117,9780490000000.0,eng,128,379,20,05/06/2005,Dover Publications
+19512,Schopenhauer: A Very Short Introduction,Christopher Janaway,3.81,192802593,9780190000000.0,eng,137,346,26,2/21/2002,Oxford University Press
+19528,The Mandarins,Simone de Beauvoir/Leonard M. Friedman,4.14,7203942,9780010000000.0,eng,752,3250,194,05/03/2005,Harper Perennial
+19531,Les Mandarins: Tome 2,Simone de Beauvoir,4.2,2070367703,9782070000000.0,fre,500,98,10,06/09/1972,Folio
+19532,Die Mandarins von Paris,Simone de Beauvoir,4.14,3499107619,9783500000000.0,ger,1040,61,5,01/01/2000,Rowohlt Tb.
+19534,The Brothers K,David James Duncan,4.38,055337849X,9780550000000.0,eng,645,12703,1665,06/01/1996,Dial Press Trade Paperback
+19542,Where the Wild Things Are,Maurice Sendak,4.22,60254920,9780060000000.0,eng,40,8704,483,12/26/2012,HarperCollins
+19546,野獸國 (漢聲精選世界最佳兒童圖畫書．心理成長類  #36),Maurice Sendak,4.22,9575881044,9789580000000.0,zho,36,27,4,03/01/1987,英文漢聲出版股份有限公司
+19552,Essentials of Classic Italian Cooking,Marcella Hazan/Karin Kretschmann,4.16,039458404X,9780390000000.0,eng,704,15222,163,10/27/1992,Knopf Publishing Group
+19560,The Italians: A Full-Length Portrait Featuring Their Manners and Morals,Luigi Barzini/Joan Emerson,3.83,684825007,9780680000000.0,eng,352,578,41,07/03/1996,Touchstone
+19563,Peking to Paris,Luigi  Barzini/L.P. De Castelvecchio,3.79,912050268,9780910000000.0,eng,308,25,0,12/01/1973,Open Court Publishing Company
+19564,The Lost Lunar Baedeker: Poems of Mina Loy,Mina Loy/Roger L. Conover,4.17,374525072,9780370000000.0,eng,256,1469,63,04/08/1997,Farrar  Straus and Giroux
+19571,Paris Was Yesterday  1925-1939,Janet Flanner/Irving Drutman,3.85,156709902,9780160000000.0,eng,264,257,33,4/18/1988,Mariner Books
+19578,Lost Boy Lost Girl,Peter Straub,3.48,449149919,9780450000000.0,eng,368,4017,296,9/28/2004,Ballantine Books
+19580,Shadowland,Peter Straub,3.91,425188221,9780430000000.0,eng,468,10293,253,03/04/2003,Berkley
+19581,Ghost Story,Peter Straub,3.95,671685635,9780670000000.0,eng,567,61330,1520,09/01/1989,Pocket Books / Simon & Schuster  Inc.
+19587,Territoires (Le talisman des territoires  #2),Stephen King/Peter Straub/Bernard Cohen,4.01,2221093836,9782220000000.0,fre,556,18,1,10/21/2002,Laffont
+19593,Floating Dragon,Peter Straub,3.84,425189643,9780430000000.0,eng,595,10727,140,08/05/2003,Berkley
+19595,The Color of Water: A Black Man's Tribute to His White Mother,James   McBride,4.09,159448192X,9781590000000.0,en-US,328,1597,157,02/07/2006,Riverhead Books
+19596,Color: A Natural History of the Palette,Victoria Finlay,3.78,812971426,9780810000000.0,en-US,464,61033,558,12/30/2003,Random House Trade Paperbacks
+19599,Vincent's Colors,Vincent van Gogh/Metropolitan Museum of Art/William Lach,4.16,811850994,9780810000000.0,eng,48,329,49,9/29/2005,Chronicle Books
+19605,Flinx's Folly (Pip & Flinx #9),Alan Dean Foster,3.94,345450396,9780350000000.0,eng,288,1755,21,9/28/2004,Del Rey
+19608,The Doctor's House,Ann Beattie,2.96,743235010,9780740000000.0,eng,288,164,23,02/11/2003,Scribner
+19610,Chilly Scenes of Winter,Ann Beattie,3.91,679732349,9780680000000.0,en-GB,288,1045,100,01/02/1991,Vintage
+19613,What Life Was Like in the Realm of Elizabeth: England  AD 1533-1603 (What Life Was Like),Time-Life Books,3.72,783554567,9780780000000.0,eng,144,59,7,5/24/1999,Time Life Medical
+19614,What Life Was Like In the Age of Chivalry: Medieval Europe  AD 800-1500 (What Life Was Like),Denise Dersin,3.77,783554516,9780780000000.0,eng,168,126,12,5/24/1999,Time Life Medical
+19615,What Life Was Like on the Banks of the Nile: Egypt  3050-30 BC,Denise Dersin,4.0,809493780,9780810000000.0,eng,192,199,17,5/24/1999,Time Life Books
+19617,What Life Was Like at the Rebirth of Genius: Renaissance Italy  AD 1400-1550 (What Life Was Like),Richard Stapleford/Time-Life Books,4.0,783554613,9780780000000.0,eng,168,41,3,09/01/1999,Time Life Medical
+19618,What Life Was Like Among Druids and High Kings: Celtic Ireland  AD 400-1200 (What Life Was Like),Robin Chapman Stacey,3.64,783554559,9780780000000.0,eng,144,123,13,5/24/1999,Time Life Medical
+19619,What Life Was Like Amid Splendor and Intrigue: Byzantine Empire  AD 330-1453,Ellen Anker/Denise Dersin,3.68,783554575,9780780000000.0,eng,144,49,2,5/24/1999,Time Life Medical
+19620,What Life Was Like in the Time of War and Peace: Imperial Russia  AD 1696-1917 (What Life Was Like),Time-Life Books,3.75,783554591,9780780000000.0,eng,144,47,7,09/01/1999,Time Life Medical
+19621,What Life Was Like in the Jewel in the Crown: British India  AD 1600-1905,Time-Life Books,3.66,783554605,34406054602.0,eng,168,44,4,09/01/1999,Time Life Medical
+19631,Birds of America,Lorrie Moore,4.11,312241224,9780310000000.0,eng,291,12321,951,9/23/1999,Picador USA
+19633,Self-Help,Lorrie Moore,4.2,571145345,9780570000000.0,eng,176,78,9,01/10/1998,Faber & Faber
+19634,Who Will Run the Frog Hospital?,Lorrie Moore,3.79,1400033829,9781400000000.0,eng,160,6419,628,4/13/2004,Vintage
+19661,Family Matters,Rohinton Mistry,4.02,037570342X,9780380000000.0,eng,500,19200,785,11/18/2003,Vintage
+19662,Tales from Firozsha Baag [Jan 01  2002] Mistry  Rohinton,Rohinton Mistry,3.94,571218857,9780570000000.0,eng,250,83,17,01/01/2002,Faber and Faber & Penguin India
+19668,Without Remorse (John Clark  #1; Jack Ryan Universe Publication Order #6),Tom Clancy,4.18,425143325,9780430000000.0,eng,750,53936,1004,08/01/1994,Berkley Books
+19669,Clave Red Rabbit (Jack Ryan  #2),Tom Clancy/Enric Tremps,3.67,8408065068,9788410000000.0,spa,720,8,0,02/01/2006,Planeta Publishing
+19670,Debt of Honor (Jack Ryan  #7),Tom Clancy,4.05,425147584,9780430000000.0,eng,990,39521,469,08/01/1995,Berkley Books
+19671,The Archimedes Effect (Tom Clancy's Net Force  #10),Steve Perry/Larry Segriff/Tom Clancy/Steve Pieczenik,3.98,425204243,9780430000000.0,eng,336,1276,12,02/07/2006,Berkley
+19672,Hidden Agendas (Tom Clancy's Net Force  #2),Steve Perry/Tom Clancy/Steve Pieczenik,3.76,425171396,9780430000000.0,eng,366,4138,39,10/28/1999,Berkley
+19673,Marine: A Guided Tour of a Marine Expeditionary Unit (Guided Tour),Tom Clancy,3.83,425154548,9780430000000.0,eng,336,646,11,11/01/1996,Berkley
+19674,The Teeth of the Tiger (Jack Ryan Universe  #12),Tom Clancy,3.64,141004924,9780140000000.0,eng,625,18128,467,8/26/2004,Penguin Books Ltd.
+19675,Executive Orders (Jack Ryan  #8),Tom Clancy,4.06,6479758,9780010000000.0,eng,1273,39577,436,01/01/1998,HarperCollins
+19676,State of War (Tom Clancy's Net Force  #7),Steve Perry/Tom Clancy/Steve Pieczenik/Larry Segriff,3.86,425188132,9780430000000.0,eng,384,1329,24,03/04/2003,Berkley
+19677,Every Man a Tiger: The Gulf War Air Campaign (Commanders),Tom Clancy/Chuck Horner,3.75,425207366,9780430000000.0,eng,640,14,2,12/06/2005,Berkley Books
+19679,Wild Card (Tom Clancy's Power Plays  #8),Jerome Preisler/Tom Clancy/Martin Greenberg,3.96,425199118,9780430000000.0,eng,352,835,13,11/02/2004,Berkley
+19681,Carrier: A Guided Tour of an Aircraft Carrier (Guided Tour),Tom Clancy/Leon A. Edney,3.82,425166821,9780430000000.0,eng,368,583,11,02/01/1999,Berkley
+19682,Cloak and Dagger (Tom Clancy's Net Force Explorers  #17),John Helfers/Russell Davis/Tom Clancy/Steve Pieczenik,4.0,425183033,9780430000000.0,eng,208,58,0,03/04/2003,Berkley
+19683,Cybernation (Tom Clancy's Net Force  #6),Steve Perry/Tom Clancy/Steve Pieczenik,3.76,425182673,9780430000000.0,eng,368,1789,19,11/01/2001,Berkley
+19684,Virtual Vandals (Tom Clancy's Net Force Explorers  #1),Diane Duane/Tom Clancy/Steve Pieczenik,4.01,425161730,9780430000000.0,eng,192,3414,16,02/01/1999,Berkley
+19685,Cutting Edge (Tom Clancy's Power Plays  #6),Jerome Preisler/Tom Clancy/Martin Greenberg,3.86,425187055,9780430000000.0,eng,432,1218,11,11/05/2002,Berkley
+19686,Mission of Honor (Tom Clancy's Op-Center  #9),Jeff Rovin/Tom Clancy/Steve Pieczenik,3.91,425186709,9780430000000.0,eng,432,1557,25,06/04/2002,Berkley Books
+19687,The Bear and the Dragon (John Clark  #3),Tom Clancy,3.82,425180964,9780430000000.0,eng,1137,21401,382,08/01/2001,Berkley Books
+19688,Breaking Point (Tom Clancy's Net Force  #4),Steve Perry/Tom Clancy/Steve Pieczenik,3.7,425176932,9780430000000.0,eng,368,8119,32,10/01/2000,Berkley
+19689,Airborne: A Guided Tour Of An Airborne Task Force,Tom Clancy,3.77,425157709,9780430000000.0,eng,326,448,5,11/01/1997,Berkley
+19707,Red Rabbit (Jack Ryan  #2),Tom Clancy,3.67,399148701,9780400000000.0,eng,640,23018,514,8/26/2002,G.P. Putnam's Sons
+19712,John Deere Farm Tractors: A History of the John Deere Tractor,Randy Leffingwell,4.22,879387556,9780880000000.0,eng,192,22,1,09/01/1993,Motorbooks International
+19764,Corvette: Fifty Years,Randy Leffingwell/David Newhardt,4.06,760320063,9780760000000.0,eng,384,15,1,10/23/2004,Motorbooks
+19768,Tough to Tackle,Matt Christopher/Harvey Kidder,3.87,316140589,9780320000000.0,eng,139,389,24,9/30/1987,Little  Brown Books for Young Readers
+19780,Complete Guide to OneNote,W. Frederick Zimmerman/Chris Pratley,4.25,1590592166,9781590000000.0,eng,412,4,0,11/17/2003,Apress
+19786,The Goon Show  Volume 4: My Knees Have Fallen Off!,NOT A BOOK,5.0,563388692,9780560000000.0,eng,2,3,0,04/01/1996,BBC Physical Audio
+19787,The Goon Show: Moriarty Where Are You?,NOT A BOOK,4.43,563388544,9780560000000.0,eng,2,0,0,3/30/2005,BBC Physical Audio
+19788,The Goon Show  Volume 11: He's Fallen in the Water!,NOT A BOOK,5.0,563388323,9780560000000.0,eng,2,2,0,10/02/1995,BBC Physical Audio
+19792,Power: Die 48 Gesetze Der Macht,Robert Greene/Birgit Brandau/Hartmut Schickert,4.18,3423362480,9783420000000.0,ger,536,39,4,10/01/2001,Deutscher Taschenbuch Verlag
+19794,The Echo Maker,Richard Powers,3.38,374146357,9780370000000.0,eng,451,7087,1119,10/17/2006,Farrar Straus Giroux
+19795,Power vs. Force,David R. Hawkins,4.2,1561709336,9781560000000.0,en-US,341,7167,376,03/05/2002,Hay House
+19797,The Power of Art,Simon Schama,3.88,61176109,9780060000000.0,en-US,448,15804,96,11/10/2006,Ecco
+19801,Goodbye  Darkness: A Memoir of the Pacific War,William Manchester,4.18,316501115,9780320000000.0,eng,401,4936,174,04/12/2002,Back Bay Books
+19802,A World Lit Only by Fire: The Medieval Mind and the Renaissance: Portrait of an Age,William Manchester,3.85,316545562,9780320000000.0,eng,322,9807,745,06/01/1993,Back Bay Books
+19803,The Last Lion 2: Winston Spencer Churchill: Alone  1932-40,William Manchester,4.48,316545120,9780320000000.0,eng,756,240,27,10/28/1988,Little  Brown & Company
+19807,The Glory and the Dream: A Narrative History of America 1932-72,William Manchester,4.43,553345893,9780550000000.0,eng,1397,1429,115,07/01/1984,Little  Brown & Company (Boston/Toronto)
+19808,The Last Lion: Winston Spencer Churchill: Visions of Glory  1874-1932,William Manchester,4.42,316545031,9780320000000.0,en-US,992,335,38,5/30/1983,Little  Brown & Company
+19809,The Last Lion: Winston Spencer Churchill: Visions of Glory 1874-1932,William Manchester,4.42,385313489,9780390000000.0,eng,992,9659,467,04/01/1984,Delta
+19818,Moon-Flash (Kyreol  #1-2),Patricia A. McKillip,3.74,142403016,9780140000000.0,eng,304,348,13,3/17/2005,Firebird
+19819,Harrowing the Dragon,Patricia A. McKillip,3.94,441014437,9780440000000.0,eng,308,1602,86,11/07/2006,Ace Books
+19820,Cygnet (Cygnet  #1-2),Patricia A. McKillip,4.07,441014836,9780440000000.0,en-US,406,543,35,03/06/2007,Ace Books
+19822,Solstice Wood (Winter Rose  #2),Patricia A. McKillip,3.76,441014658,9780440000000.0,eng,278,1715,141,01/02/2007,Ace Books
+19823,Od Magic,Patricia A. McKillip,3.98,441013341,9780440000000.0,eng,315,3140,265,06/06/2006,Ace Books
+19844,25 Ways to Win with People: How to Make Others Feel Like a Million Bucks,John C. Maxwell/Les Parrott III,4.11,785260943,9780790000000.0,eng,208,1710,114,06/05/2005,HarperCollins Leadership
+19847,Winning with People Workbook,John C. Maxwell,4.22,785260900,9780790000000.0,eng,256,8,1,09/10/2005,HarperCollins Leadership
+19858,Thornhold (The Harpers  #16; Songs & Swords  #4),Elaine Cunningham,3.67,078691808X,9780790000000.0,eng,384,1023,9,12/27/2011,Wizards of the Coast
+19859,The Best of the Realms: The Stories of Elaine Cunningham (Forgotten Realms: The Best of the Realms  #3),Elaine Cunningham,3.98,786942886,9780790000000.0,en-GB,345,164,6,05/08/2007,Wizards of the Coast
+19885,Changeling Storytellers Guide,Mark  Hunter/Ian Lemke,3.36,1565047087,9781570000000.0,eng,139,28,0,08/01/1998,White Wolf Games Studio
+19888,The Blood Wood (Earthdawn 6113),FASA Corporation/Ian Lemke/Louis J. Prosperi,3.71,1555603130,9781560000000.0,eng,152,31,1,06/01/1997,FASA Corporation
+19894,Basin and Range,John McPhee,4.19,374516901,9780370000000.0,eng,240,2781,178,04/01/1982,Farrar  Straus and Giroux
+19897,The Deltoid Pumpkin Seed,John McPhee,3.95,374516359,9780370000000.0,eng,192,380,18,09/01/1992,Farrar  Straus and Giroux
+19898,Assembling California,John McPhee,4.17,374523932,9780370000000.0,eng,294,1595,120,02/01/1994,Farrar  Straus and Giroux
+19903,Qué Se Puede Esperar Cuando Se Está Esperando,Heidi Murkoff/Arlene Eisenberg,3.77,076113686X,9780760000000.0,spa,624,27,2,1/31/2006,Workman Publishing Company
+19908,Master of Swords (Mageverse #4),Angela Knight,4.2,425209210,9780430000000.0,eng,294,2801,45,10/03/2006,Berkley Sensation
+19909,Master of the Night (Mageverse #1),Angela Knight,3.88,425198804,9780430000000.0,eng,296,4637,125,10/05/2004,Berkley Sensation
+19910,Master of Wolves (Mageverse  #3),Angela Knight,4.17,425207439,9780430000000.0,eng,294,3798,56,04/04/2006,Berkley
+19911,Captive Dreams,Angela Knight/Diane Whiteside,3.91,425207757,9780430000000.0,en-US,336,1354,60,09/05/2006,Berkley Trade
+19912,Master of Dragons (Mageverse #5),Angela Knight,4.22,425214249,9780430000000.0,eng,293,3190,56,06/05/2007,Berkley Sensation
+19913,Master of the Moon (Mageverse #2),Angela Knight,4.14,425203573,9780430000000.0,eng,336,2882,56,05/03/2005,Berkley Sensation
+19914,Jane's Warlord (Warlord #1),Angela Knight,3.97,425196844,9780430000000.0,eng,320,2552,94,06/01/2004,Berkley Sensation
+19916,Over The Moon (Mageverse #3.5),Angela Knight/MaryJanice Davidson/Virginia Kantra/Sunny,3.9,425213439,9780430000000.0,eng,330,3681,92,01/02/2007,Berkley Sensation
+19949,Mr. and Mistress (Dynasties: The Elliotts #5),Heidi Betts,3.37,373767234,9780370000000.0,eng,185,191,16,05/09/2006,Silhouette
+19961,Artesia Volume 1,Mark Smylie,3.98,193238622X,9781930000000.0,eng,192,242,24,9/20/2011,Archaia
+19981,Law of Enclosures,Dale Peck,3.65,067100347X,9780670000000.0,eng,320,72,2,02/01/1997,Washington Square Press
+19983,The Drift House: The First Voyage,Dale Peck,3.65,159990005X,9781600000000.0,eng,437,618,69,11/01/2006,Bloomsbury Publishing PLC
+19997,Through a Brazen Mirror,Delia Sherman/Cortney Skinner/Ellen Kushner,3.37,1885865244,9781890000000.0,eng,100,116,12,2/25/2015,Circlet Press
+19998,The Porcelain Dove,Delia Sherman,3.41,452272262,9780450000000.0,eng,416,206,28,07/01/1994,Plume
+20001,Interfictions: An Anthology of Interstitial Writing,Delia Sherman/Theodora Goss/K. Tempest Bradford/Karen Jordan Allen/Rachel Pollack/Veronica Schanoes/Mikal Trimm/Colin Greenland/Vandana Singh/Matthew Cheney/Léa Silhol/Adrián Ferrero/Holly Phillips/Catherynne M. Valente/Christopher Barzak/Leslie What/Anna Tambour/Joy Marchand/Jon Singer/Csilla Kleinheincz/Michael J. DeLuca,3.77,1931520240,9781930000000.0,eng,291,229,20,04/01/2007,Small Beer Press
+20002,The Fall of the Kings (Riverside  #3),Ellen Kushner/Delia Sherman,3.65,553585940,9780550000000.0,eng,510,1869,128,9/30/2003,Bantam
+20019,Killing Time,Cynthia Harrod-Eagles,3.98,380732025,9780380000000.0,en-US,280,12,1,02/01/1999,Avon Books
+20021,The Tangled Thread (Morland Dynasty  #10),Cynthia Harrod-Eagles,4.32,751506478,9780750000000.0,eng,474,305,8,09/01/1987,Little  Brown Book Group
+20022,The Flood-Tide (Morland Dynasty  #9),Cynthia Harrod-Eagles,4.25,075150646X,9780750000000.0,eng,428,318,7,02/01/1986,Little  Brown Book Group
+20023,The White Road (Morland Dynasty  #28),Cynthia Harrod-Eagles,4.27,751533459,9780750000000.0,eng,480,195,8,11/01/2006,Little  Brown Book Group
+20024,The Maiden (The Morland Dynasty  #8),Cynthia Harrod-Eagles,4.27,751506451,9780750000000.0,eng,413,330,11,02/01/1985,Little  Brown Book Group
+20025,The Oak Apple (Morland Dynasty  #4),Cynthia Harrod-Eagles,4.18,751506419,9780750000000.0,eng,403,460,20,05/01/2001,Little  Brown Book Group
+20026,The Emperor (The Morland Dynasty  #11),Cynthia Harrod-Eagles,4.28,751506486,9780750000000.0,eng,512,261,6,08/01/1988,Little  Brown Book Group
+20051,The Nature of the Child,Jerome Kagan,3.42,465048528,9780470000000.0,eng,352,12,1,5/13/1994,Basic Books
+20059,Confessions of a Pagan Nun,Kate Horsley,3.87,1570629137,9781570000000.0,eng,191,1768,266,09/10/2002,Shambhala
+20071,Westminster Abby,Micol Ostow,3.41,142404136,9780140000000.0,eng,192,1169,83,05/05/2005,Speak
+20074,Changelings,Anne McCaffrey/Elizabeth Ann Scarborough,3.77,345470036,9780350000000.0,en-US,320,1818,60,12/26/2006,Del Rey
+20075,Dragon's Fire (Pern  #19),Anne McCaffrey/Todd McCaffrey,3.98,345480287,9780350000000.0,eng,366,7923,171,08/01/2006,Del Rey Books
+20076,Maelstrom,Anne McCaffrey/Elizabeth Ann Scarborough,3.88,345470044,9780350000000.0,eng,237,1088,37,1/31/2007,Del Rey Books
+20086,The Mark of the Crown (Star Wars: Jedi Apprentice  #4),Jude Watson,3.73,590519344,9780590000000.0,eng,131,2319,63,10/01/1999,Scholastic Inc.
+20097,The Sea,John Banville/John      Lee,3.51,739333771,9780740000000.0,eng,0,42,12,8/15/2006,Random House Audio
+20117,Joy Within,Joan Goldstein/Manuela Soares,4.38,671763792,9780670000000.0,en-US,144,8,3,11/15/1990,Simon  Schuster
+20118,Butch/Femme,Manuela Soares/Judy Grahn/Nisa Donnelly,3.62,517702223,9780520000000.0,eng,64,13,1,04/04/1996,Crown Publishing Group (NY)
+20126,Expository Writing: Mini-Lessons * Strategies * Activities,Tara McCarthy/Drew Hires/Jaime Lucero/Vincent Ceci,4.33,590103873,9780590000000.0,eng,88,3,0,04/01/1998,Teaching Resources
+20127,Persuasive Writing: Mini-Lessons  Strategies  Activities,Tara MacCarthy/Drew Hires,3.2,590209345,9780590000000.0,eng,64,5,1,08/01/1998,Scholastic
+20157,McDougal Littell Science: Student Edition Grade 6 Earth Science 2006,McDougal Littell/Douglas W. Carnine,2.0,618615385,9780620000000.0,eng,972,3,0,04/12/2005,McDougal Littel
+20164,Daisy Bates: Civil Rights Crusader from Arkansas,Grif Stockley,3.55,1578068010,9781580000000.0,eng,340,11,3,10/18/2005,University Press of Mississippi
+20174,The Loftier Way: Tales from the Ancient American Frontier,Blaine M. Yorgason/Brenton G. Yorgason,3.78,087747785X,9780880000000.0,eng,131,9,2,12/28/1985,Deseret Book Company
+20179,A Higher Justice (The Trials of Kit Shannon #5),James Scott Bell,4.26,764226460,9780760000000.0,eng,303,175,18,09/01/2003,Bethany House Publishers
+20181,Plot & Structure: Techniques and Exercises for Crafting a Plot That Grips Readers from Start to Finish,James Scott Bell,4.1,158297294X,9781580000000.0,eng,234,4480,439,10/06/2004,Writer's Digest Books
+20182,Deadlock,James Scott Bell,3.96,310243882,9780310000000.0,eng,319,327,20,10/06/2002,Zondervan
+20183,Breach of Promise,James Scott Bell,4.0,310243874,9780310000000.0,eng,345,368,36,2/15/2004,Zondervan
+20219,Keats's Poetry and Prose,John Keats/Jeffrey N. Cox,4.3,393924912,9780390000000.0,eng,673,291,10,08/01/2008,W. W. Norton & Company
+20233,A False Mirror (Inspector Ian Rutledge  #9),Charles Todd,4.02,60786736,9780060000000.0,eng,384,2519,225,01/09/2007,William Morrow
+20234,Wings of Fire (Inspector Ian Rutledge  #2),Charles Todd,3.99,312965680,9780310000000.0,eng,323,5029,438,5/15/1999,St. Martin's Paperbacks
+20235,A Cold Treachery (Inspector Ian Rutledge  #7),Charles Todd,4.15,553586610,9780550000000.0,eng,416,2997,265,8/30/2005,Bantam
+20236,The Murder Stone,Charles Todd,3.83,553586602,9780550000000.0,eng,416,1492,175,8/31/2004,Bantam
+20237,Legacy of the Dead (Inspector Ian Rutledge  #4),Charles Todd,4.15,553583158,9780550000000.0,eng,356,4081,316,06/01/2001,Bantam Books
+20238,A Fearsome Doubt (Inspector Ian Rutledge  #6),Charles Todd,4.04,553583174,9780550000000.0,eng,384,2815,258,7/29/2003,Bantam
+20239,Watchers of Time (Inspector Ian Rutledge  #5),Charles Todd,3.99,553583166,9780550000000.0,eng,421,3194,326,7/30/2002,Bantam
+20240,Search the Dark (Inspector Ian Rutledge  #3),Charles Todd,4.01,312971281,9780310000000.0,eng,310,3896,324,5/15/2000,St. Martin's Press
+20241,Bill Bryson's African Diary,Bill Bryson,3.44,385605145,9780390000000.0,eng,63,264,22,12/02/2002,Doubleday
+20249,Hunters of Dune (Dune Chronicles  #7),Brian Herbert/Kevin J. Anderson,3.65,765312921,9780770000000.0,eng,524,10798,274,8/22/2006,Tor Books
+20250,The Battle Of Corrin (Legends of Dune  #3),Brian Herbert/Kevin J. Anderson,3.74,340823372,9780340000000.0,eng,624,59,2,09/01/2004,Hodder & Stoughton Ltd
+20252,House Corrino (Prelude to Dune #3),Brian Herbert/Kevin J. Anderson,3.68,553580337,9780550000000.0,eng,667,12257,167,8/27/2002,Spectra Books
+20253,House Harkonnen (Prelude to Dune #2),Brian Herbert/Kevin J. Anderson,3.67,553580302,9780550000000.0,eng,733,13161,206,8/28/2001,Spectra Books
+20254,Doctor Who: The Inside Story,Gary Russell,4.22,056348649X,9780560000000.0,eng,256,273,10,10/26/2006,BBC Books
+20258,Doctor Who Short Trips: Repercussions,Gary Russell/Peter Anghelides/J. Shaun Lyon/Jon de Burgh Miller/Eddie Robson/Todd Green/Andy Russell/Andrew Collins/Kathryn Sullivan/Iain McLaughlin/Mark Michalowski/Joseph Lidster/Trevor Baxendale/Colin Brake/Claire Bartlett/Sarah Groenewegen/Trey Korte/Andy Frankham-Allen,3.38,1844350487,9781840000000.0,eng,246,42,5,07/01/2004,Big Finish
+20264,Gerontius,James Hamilton-Paterson,3.74,1862074933,9781860000000.0,eng,272,4,2,4/17/2002,Not Avail
+20287,Hellstrom's Hive,Frank Herbert,3.69,553144383,9780550000000.0,eng,312,41,3,3/23/1982,Bantam Books (NY)
+20315,The Dark City (Eliot Ness  #1),Max Allan Collins,3.88,727862421,9780730000000.0,eng,233,49,5,08/01/2005,Severn House Publishers
+20316,Bullet Proof (Eliot Ness  #3),Max Allan Collins,3.98,727862987,9780730000000.0,eng,197,31,2,12/20/2005,Severn House Publishers
+20323,The Penguin Companion to European Literature,Anthony Thorlby,4.5,140510354,9780140000000.0,eng,907,1,0,5/30/1969,Penguin Books
+20327,West To Eden,Gloria Goldreich,3.77,380706016,9780380000000.0,eng,501,2,0,12/01/1988,Avon Books

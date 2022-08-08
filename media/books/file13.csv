@@ -1,0 +1,697 @@
+bookID,title,authors,average_rating,isbn,isbn13,language_code,  num_pages,ratings_count,text_reviews_count,publication_date,publisher
+35246,Mary Shelley‘s Frankenstein,Mary Wollstonecraft Shelley/Anca Munteanu,3.79,764587269,9780760000000.0,eng,240,147,3,4/15/2001,Cliffs Notes
+35248,Essential Monster of Frankenstein  Vol. 1,Gary Friedrich/Doug Moench/John Buscema/Mike Ploog/Val Mayerick,3.62,785116346,9780790000000.0,eng,496,69,7,10/20/2004,Marvel Comics
+35249,Frankenstein,Mary Wollstonecraft Shelley,3.79,074325578X,9780740000000.0,en-US,448,20,6,01/01/2004,Kaplan Publishing
+35252,Frankenstein,Mary Wollstonecraft Shelley,3.79,1419542249,9781420000000.0,en-US,450,17,3,10/30/2006,Kaplan
+35254,The Memoirs of Elizabeth Frankenstein,Theodore Roszak,3.56,553576372,9780550000000.0,eng,440,233,24,10/01/1996,Bantam
+35255,The Essential Frankenstein,Mary Wollstonecraft Shelley/Leonard Wolf/Christopher H. Bing,3.79,452269687,9780450000000.0,eng,357,42,6,10/01/1993,Plume
+35258,Father of Frankenstein,Christopher Bram,4.1,452273374,9780450000000.0,eng,276,587,48,04/01/1996,Plume
+35261,Frankenstein,Mary Wollstonecraft Shelley,3.79,076660828X,9780770000000.0,en-GB,189,84,4,7/30/2004,Modern Publishing
+35268,The Walrus Was Paul: The Great Beatle Death Clues,R. Gary Patterson/Jay Fox,3.72,684850621,9780680000000.0,eng,208,441,39,10/29/1998,Touchstone
+35270,Harpo Speaks!,Harpo Marx/Rowland Barber,4.41,879100362,9780880000000.0,eng,482,2006,239,07/01/2004,Limelight Editions
+35273,Groucho  Harpo  Chico  and Sometimes Zeppo: A History of the Marx Brothers and a Satire on the Rest of the World,Joe Adamson,4.07,671470728,9780670000000.0,eng,464,9,1,01/01/1983,Simon & Schuster
+35283,Topsail Island: Mayberry by the Sea,Ray McAllister/Vicki McAllister,3.94,895873311,9780900000000.0,eng,228,40,13,07/01/2006,John F. Blair  Publisher
+35287,Take on Me (Secret Lives of Daytime Divas  #1),Sarah Mayberry,3.69,373793189,9780370000000.0,eng,249,499,46,2/27/2007,Harlequin Blaze
+35288,All Over You (Secret Lives of Daytime Divas  #2),Sarah Mayberry,3.73,373793243,9780370000000.0,eng,251,521,35,3/27/2007,Harlequin Blaze
+35289,The 33 Strategies of War,Robert Greene/Joost Elffers,4.3,670034576,9780670000000.0,en-US,496,8005,383,1/19/2006,Viking
+35291,Jimmy Stewart: A Biography,Marc Eliot,3.85,1400052211,9781400000000.0,eng,463,955,95,11/06/2006,Harmony
+35292,Jimmy Stewart: Bomber Pilot,Starr Smith/Walter Cronkite,3.93,760328242,9780760000000.0,eng,320,441,57,11/15/2006,Zenith Press
+35295,Jimmy Stewart: The Truth Behind the Legend,Michael Munn,3.97,1569803102,9781570000000.0,eng,317,212,35,5/30/2006,Barricade Books
+35308,Dirt (Stone Barrington  #2),Stuart Woods,3.89,61094234,9780060000000.0,en-US,448,6279,274,08/07/1997,HarperTorch
+35313,La Ley del Exito,Paramahansa Yogananda,4.44,876121512,9780880000000.0,spa,32,0,0,06/01/1998,Self-Realization Fellowship Publishers
+35324,Incident at Exeter,John G. Fuller,3.56,425039293,9780430000000.0,en-US,221,51,7,4/15/1978,Berkley Books (NY)
+35329,The Body Remembers: The Psychophysiology of Trauma and Trauma Treatment,Babette Rothschild,4.27,393703274,9780390000000.0,eng,208,1506,45,10/17/2000,W. W. Norton  Company
+35332,Remember (Redemption  #2),Karen Kingsbury/Gary Smalley,4.43,842356290,9780840000000.0,eng,432,18445,388,01/01/2003,Tyndale House Publishers
+35334,A Summer to Remember (Bedwyn Prequels  #2),Mary Balogh,4.08,440236630,9780440000000.0,eng,361,7791,360,03/04/2003,Dell
+35335,Because I Remember Terror  Father  I Remember You,Sue William Silverman,4.11,820321753,9780820000000.0,en-US,288,725,61,09/02/1999,University of Georgia Press
+35347,The Last Story (Remember Me  #3),Christopher Pike,3.65,689854595,9780690000000.0,eng,256,2208,62,09/01/2002,Simon Pulse
+35348,A Place Where the Sea Remembers,Sandra Benítez,3.62,671892673,9780670000000.0,eng,176,757,103,02/05/1995,Scribner
+35349,She Who Remembers (Kwani  #1),Linda Lay Shuler,4.03,451211448,9780450000000.0,eng,496,6737,148,08/05/2003,NAL Trade
+35350,What the Body Remembers,Shauna Singh Baldwin,3.89,385496052,9780390000000.0,eng,471,2340,153,1/16/2001,Anchor
+35352,Long Gone Lonesome Blues (The Texas Brands  #4),Maggie Shayne,4.25,373078544,9780370000000.0,eng,251,398,15,04/01/1998,Silhouette
+35365,Remember When (Foster Saga  #1),Judith McNaught,3.95,1416530746,9781420000000.0,eng,418,10632,252,4/25/2006,Pocket Books
+35368,A Kiss to Remember (Once Upon a Time  #3),Teresa Medeiros,3.89,553581856,9780550000000.0,eng,353,3634,201,4/30/2002,Bantam
+35400,Star Wars: The Complete Visual Dictionary,James Luceno/David West Reynolds/Ryder Windham,4.33,756622387,9780760000000.0,eng,272,1094,40,9/25/2006,DK Children
+35402,Star Wars: The Ultimate Visual Guide,Daniel  Wallace/Ryder Windham,4.33,756630525,9780760000000.0,eng,160,945,17,3/19/2007,DK Children
+35404,Star Wars Complete Locations,James Luceno/Kerrie Dougherty/Simon Beecroft/Kristin Lund/Hans Jenssen/Richard Chasemore,4.31,756614198,9780760000000.0,eng,175,141,9,12/31/2005,DK Publishing (Dorling Kindersley)
+35406,Lego Star Wars: Prima Official Game Guide,Michael Littlefield,4.62,761554912,9780760000000.0,eng,128,27,2,09/12/2006,Prima Games
+35407,Star Wars: The New Essential Guide to Alien Species,Ann Margaret Lewis/Helen Keier/Chris Trevas/William O'Connor,4.18,034547760X,9780350000000.0,eng,227,259,11,10/31/2006,Del Rey
+35409,Star Wars:  The New Essential Chronology,Daniel  Wallace/Mark Chiarello/Tommy Lee Edwards/John Van Fleet,4.3,345449010,9780350000000.0,eng,256,642,11,10/25/2005,Del Rey
+35412,The Swarm War (Star Wars: Dark Nest  #3),Troy Denning,3.49,345463056,9780350000000.0,eng,357,3852,55,12/27/2005,Del Rey Books
+35413,Star Wars: Empire  Volume 7: The Wrong Side of the War,Welles Hartley/Davide Fabbri/Christian Dalla Vecchia,3.79,1593077092,9781590000000.0,eng,144,109,7,1/30/2007,Dark Horse Books
+35414,Allegiance (Star Wars),Timothy Zahn,3.99,345477383,9780350000000.0,eng,324,6874,280,1/30/2007,Del Rey
+35415,Creating the Worlds of Star Wars: 365 Days,John Knoll/J.W. Rinzler,4.13,810959364,9780810000000.0,eng,744,87,10,10/01/2005,Harry N. Abrams
+35417,Star Wars: Clone Wars  Volume 1: The Defense of Kamino and Other Tales,John Ostrander/W. Haden Blackman,3.85,1569719624,9781570000000.0,eng,128,911,38,9/15/2003,Dark Horse Books
+35419,The Making of Star Wars (Star Wars:  The Making of  #1),J.W. Rinzler/Peter  Jackson,4.53,345494768,9780350000000.0,eng,362,1198,95,4/24/2007,Del Rey
+35421,Star Wars:  The New Essential Guide to Weapons & Technology,W. Haden Blackman,4.08,345449037,9780350000000.0,eng,224,211,7,10/26/2004,Del Rey
+35422,The Star Wars Cookbook II: Darth Malt and More Galactic Recipes,Wesley Martin/Frankie Frankeny,3.86,811828034,9780810000000.0,eng,60,205,15,07/01/2000,Chronicle Books
+35424,You Can Draw: Star Wars,Bonnie Burton/Matt Busch/Tom Hodges,4.05,075662343X,9780760000000.0,eng,96,48,11,1/15/2007,DK Children
+35425,Star Wars: Empire  Volume 6: In the Shadows of Their Fathers,Thomas Andrews/Scott Allie,3.68,1593076274,9781590000000.0,eng,144,124,10,11/07/2006,Dark Horse Books
+35426,Star Wars:  The New Essential Guide to Vehicles & Vessels,W. Haden Blackman/Ian Fullwood,4.12,345449029,9780350000000.0,eng,200,209,7,9/30/2003,Del Rey
+35427,Star Wars: Knights of the Old Republic  Vol. 1: Commencement (Star Wars: Knights of the Old Republic  #1),John Jackson Miller/Travis Charest/Michael Atiyeh/Brian Ching/Travel Foreman,4.07,1593076401,9781590000000.0,eng,152,1791,100,12/05/2006,Dark Horse Comics
+35428,The Star Wars Poster Book,Stephen J. Sansweet/Peter Vilmur,4.5,811848833,9780810000000.0,eng,320,60,2,9/29/2005,Chronicle Books
+35431,Star Wars: Clone Wars  Volume 9: Endgame,John Ostrander/Welles Hartley/Jan Duursema,4.11,1593075537,9781590000000.0,eng,144,422,25,08/08/2006,Dark Horse Books
+35432,Wookiee Cookies: A Star Wars Cookbook,Robin  Davis/Frankie Frankeny,3.93,811821846,9780810000000.0,eng,132,952,57,09/01/1998,Chronicle Books
+35433,Star Wars:  The New Essential Guide to Characters,Daniel  Wallace/Michael Sutfin,3.98,345449002,9780350000000.0,eng,224,365,3,4/23/2002,Del Rey
+35434,The Star Wars Trilogy,George Lucas/Donald F. Glut/James Kahn,4.25,345475828,9780350000000.0,eng,705,4365,138,8/31/2004,Del Rey
+35437,Star Wars Tales  Vol. 1,Dave Land/Peter David/Dave Cooper/Dan Jolley/Doug Wheatley/Tom Fowler/Kilian Plunkett/Sean Phillips/Ryder Windham/John Ostrander/Jan Duursema/Timothy Zahn/Darko Macan/Rich Handley/Igor Kordey/Ron Marz/Rich Hedden/Rick Leonardi/Claudio Castellini/Martin Egeland/Lovern Kindzierski/Chris Brunner/Peet Janes/Jim Woodring,3.89,1569716196,9781570000000.0,eng,220,932,36,1/27/2004,Dark Horse Books
+35439,Complete Star Wars Trilogy Scrapbook Re-issue,David Levithan/Ryder Windham/Marc Cotta Vaz,3.14,439681308,9780440000000.0,eng,64,7,1,10/01/2004,Scholastic Paperbacks
+35440,Star Wars: Clone Wars  Volume 6: On the Fields of Battle,John Ostrander/Jan Duursema,4.04,1593073526,9781590000000.0,eng,168,487,18,08/02/2005,Dark Horse Books
+35441,Star Wars: Clone Wars  Volume 8: The Last Siege  the Final Truth,John Ostrander/Jan Duursema/Dan Parsons,4.1,1593074824,9781590000000.0,eng,144,424,20,04/11/2006,Dark Horse Books
+35448,Star by Star (Star Wars: The New Jedi Order  #9),Troy Denning,3.95,99410389,9780100000000.0,eng,605,7740,108,10/03/2002,Arrow
+35450,Star Wars: Episode III - Revenge of the Sith: The Visual Dictionary,James Luceno/John Goodson/Robert E. Barnes,4.16,756611288,9780760000000.0,eng,64,748,18,04/02/2005,DK Children
+35451,The Wildlife of Star Wars,Terryl Whitlatch/Bob Carrau,4.42,811828697,9780810000000.0,eng,173,417,27,09/01/2001,Chronicle Books
+35454,The Dharma of Star Wars,Matthew Bortolin,4.03,861714970,9780860000000.0,eng,224,371,37,4/15/2005,Wisdom Publications
+35455,Star Wars: Rebellion  Vol. 1: My Brother  My Enemy,Rob Williams/Michel Lacombe,3.94,1593077114,9781590000000.0,eng,128,518,23,2/27/2007,Dark Horse
+35456,Star Wars: Empire  Volume 1: Betrayal,Scott Allie/Ryan Benjamin/Curtis Arnold,3.82,1569719640,9781570000000.0,eng,96,621,32,08/05/2003,Dark Horse Books
+35458,Revenge of the Sith (Star Wars: Novelizations  #3),Matthew Woodring Stover/George Lucas,4.14,345428838,9780350000000.0,eng,418,11804,671,04/02/2005,Lucas Books
+35459,Star Wars:  Revenge of the Sith Incredible Cross-Sections,Curtis Saxton/Hans Jenssen/Richard Chasemore,4.21,756611296,9780760000000.0,eng,32,100,4,04/02/2005,DK Children
+35460,Star Wars: Clone Wars Adventures  Volume 6,W. Haden Blackman/Matt Fillbach/Shawn Fillbach/Ronda Pattison/Mike Kennedy/Stewart McKenney/Rick Lacy/Dan Jackson/Michael David Thomas/Joshua Elliott,3.78,1593075677,9781590000000.0,eng,88,176,10,8/23/2006,Dark Horse Books
+35462,Star Wars: Empire  Volume 5: Allies and Adversaries,Ron Marz/Jeremy Barlow/Brandon Badeaux,3.51,1593074662,9781590000000.0,eng,120,135,9,2/28/2006,Dark Horse Books
+35465,Yoda: Dark Rendezvous,Sean Stewart,3.88,345463099,9780350000000.0,eng,329,3972,116,11/23/2004,Del Rey
+35474,Not a Genuine Black Man: Or  How I Claimed My Piece of Ground in the Lily-White Suburbs,Brian Copeland,4.04,1401302335,9781400000000.0,eng,272,351,78,07/11/2006,Hachette Books
+35475,Black Man of the Nile and His Family,Yosef A.A. Ben-Jochannan,4.53,933121261,9780930000000.0,eng,442,185,8,11/22/1996,Black Classic Press
+35476,Black Elk Speaks: Being the Life Story of a Holy Man of the Oglala Sioux,Black Elk/John G. Neihardt,4.13,803283857,9780800000000.0,eng,270,10390,447,11/01/2004,Bison Books
+35479,Ring of Fire (Ring of Fire Anthology  #1),Eric Flint/David Weber/Mercedes Lackey/Dave Freer/Andrew Dennis/Virginia DeMarce/Loren K. Jones/S.L. Viehl/Anette M. Pedersen/Jonathan Cresswell/Scott Washburn/Deann Allen/Mike Turner/Greg Donahue/Walt Boyes/Jody Dorsett/K.D. Wentworth,3.9,1416509089,9781420000000.0,eng,722,1970,64,10/01/2005,Baen
+35481,1635: The Cannon Law (Assiti Shards  #8),Eric Flint/Andrew Dennis,3.76,1416509380,9781420000000.0,eng,420,1336,35,9/26/2006,Baen
+35485,Five Rings of Fire (Able Team  #11),Tom Arnett/Dick Stivers/Don Pendleton,3.64,373612117,9780370000000.0,eng,0,39,2,2/23/1984,Gold Eagle
+35488,Cash,Johnny Cash/Patrick   Carr,4.07,60727535,9780060000000.0,eng,310,17107,566,10/07/2003,HarperOne
+35489,Johnny Cash,Michael Streissguth,3.79,306813688,9780310000000.0,eng,334,285,25,09/04/2006,Da Capo Press
+35491,Controversy Creates Cash,Eric Bischoff/Jeremy Roberts,3.62,141652729X,9781420000000.0,en-GB,389,1154,56,10/17/2006,World Wrestling Entertainment Books
+35499,Side Effects,Amy Goldman Koss,3.87,1596432942,9781600000000.0,eng,144,904,179,10/03/2006,Roaring Brook Press
+35514,Myths of Light: Eastern Metaphors of the Eternal (Collected Work),Joseph Campbell/David Kudler,4.43,1577314034,9781580000000.0,eng,224,345,17,5/16/2003,New World Library
+35515,The Inner Reaches of Outer Space: Metaphor as Myth and as Religion (Collected Worksl),Joseph Campbell,4.22,1577312090,9781580000000.0,en-GB,160,971,49,01/09/2002,New World Library
+35519,The Power of Myth,Joseph Campbell/Bill Moyers,4.29,385418868,9780390000000.0,eng,320,38720,1451,06/01/1988,Anchor
+35539,The Beatles: The Biography,Bob Spitz,4.15,316013315,9780320000000.0,eng,983,9041,417,10/10/2005,Little Brown
+35543,Here  There and Everywhere: My Life Recording the Music of the Beatles,Geoff Emerick/Howard Massey/Elvis Costello,4.25,1592402690,9781590000000.0,eng,400,4381,255,03/01/2007,Avery Publishing Group
+35547,The Beatles: 365 Days,Simon Wells,4.18,810959119,9780810000000.0,eng,744,99,12,11/01/2005,Harry N. Abrams
+35552,A Hard Day's Write: The Stories Behind Every Beatles Song,Steve Turner,4.18,60844094,9780060000000.0,eng,224,156,10,10/18/2005,It Books
+35553,Shout! The Beatles in Their Generation,Philip Norman,4.03,743235657,9780740000000.0,eng,546,4624,137,2/15/2005,Fireside
+35558,The Beatles Illustrated Lyrics,Alan Aldridge/The Beatles,4.26,157912058X,9781580000000.0,eng,272,1360,34,05/01/2005,Black Dog & Leventhal Publishers
+35561,The Beatles' Story on Capitol Records  Part Two: The Albums,Bruce Spizer,4.72,966264924,9780970000000.0,eng,264,29,0,01/01/2010,Four Ninety-Eight Productions
+35574,The Rough Guide to The Beatles,Chris Ingham,3.91,1843537206,9781840000000.0,eng,325,50,4,09/01/2006,Rough Guides
+35578,The Beatles Complete - Updated Edition,The Beatles,4.47,881885959,73999960822.0,eng,303,64,0,12/01/1986,Hal Leonard Publishing Corporation
+35581,The Love You Make: An Insider's Story of the Beatles,Peter     Brown/Steven Gaines/Anthony DeCurtis,4.08,451207351,9780450000000.0,eng,464,2491,110,11/05/2002,NAL
+35592,Magic Circles: The Beatles in Dream and History,Devin McKinney,3.88,067401636X,9780670000000.0,eng,432,56,6,10/18/2004,Harvard University Press
+35602,A Day in the Life: The Music and Artistry of the Beatles,Mark Hertsgaard,4.16,385315171,9780390000000.0,eng,448,1116,46,03/01/1996,Delta
+35633,Complete Beatles Chronicle  The,Mark Lewisohn/Peter  Guzzardi,4.39,517581000,9780520000000.0,eng,365,19,0,9/22/1992,Harmony
+35652,The Beatles Diary  Vol 1: From Liverpool to London (Falk Symposium),Keith Badman/Keith Badman,4.56,711983089,9780710000000.0,eng,376,13,0,02/01/2001,Omnibus Press
+35655,Two of Us: The Story of a Father  a Son  and the Beatles,Peter J. Smith,3.53,618251456,9780620000000.0,en-US,206,51,12,02/04/2004,Houghton Mifflin Harcourt
+35666,A Hard Day's Write: The Stories Behind Every Beatles Song,Steve Turner,4.18,62736981,9780060000000.0,eng,224,2072,100,11/01/1999,HarperResource
+35668,The Beatles,Hunter Davies,4.1,393328864,9780390000000.0,en-US,416,69,5,4/17/2006,W. W. Norton  Company
+35669,Complete Idiot's Guide to The Beatles,Richard Buskin/Allan Kozinn,3.73,28621301,9780030000000.0,eng,384,15,2,12/01/1997,Alpha
+35689,Beatles: Every Little Thing,Maxwell Mackenzie,3.83,380796988,9780380000000.0,en-US,224,72,12,12/01/1998,It Books
+35710,Margot Fonteyn,Meredith Daneman,4.03,140165304,9780140000000.0,eng,704,256,17,08/04/2005,Penguin
+35711,A General Theory of Love,Thomas Lewis/Fari Amini/Richard Lannon,4.11,375709223,9780380000000.0,eng,288,3675,422,01/09/2001,Vintage
+35722,Mad Cowboy: Plain Truth from the Cattle Rancher Who Won't Eat Meat,Howard F. Lyman/Glen Merzer,4.13,684854465,9780680000000.0,en-US,224,1877,171,08/02/2001,Scribner
+35724,The Life You Were Born to Live,Dan Millman,4.11,1567313981,9781570000000.0,eng,464,19,1,09/01/2000,MJF Books
+35729,Lover Eternal (Black Dagger Brotherhood  #2),J.R. Ward,4.35,451218043,9780450000000.0,eng,464,155348,5325,03/07/2006,Signet
+35735,The Silmarillion  Volume 3,J.R.R. Tolkien/Martin Shaw,4.19,553525026,9780550000000.0,eng,0,60,4,09/01/1998,Random House Audio
+35750,Sodom and Gomorrah (In Search of Lost Time  #4),Marcel Proust/C.K. Scott Moncrieff/Terence Kilmartin/D.J. Enright,4.35,375753109,9780380000000.0,eng,784,377,66,2/16/1999,Modern Library Classics
+35751,Swanns Way (In Search of Lost Time #1),Marcel Proust,4.14,701137681,9780700000000.0,eng,534,19,1,10/01/1992,Chatto and Windus
+35757,Missing Persons and Mistaken Identities: Women and Gender in Ancient Israel,Phyllis A. Bird,3.8,800631285,9780800000000.0,eng,304,10,0,01/01/1997,Augsburg Fortress Publishing
+35760,Mistaken Identity,Nayantara Sahgal,2.98,8172235224,9788170000000.0,eng,324,0,0,12/30/2016,Harper Collins
+35781,The Skeptic's Dictionary: A Collection of Strange Beliefs  Amusing Deceptions  and Dangerous Delusions,Robert Todd Carroll,4.02,471272426,9780470000000.0,eng,446,531,11,07/01/2003,Wiley
+35786,The Bush Dyslexicon: Observations on a National Disorder,Mark Crispin Miller,3.56,393322963,9780390000000.0,eng,370,209,19,6/17/2002,W. W. Norton  Company
+35787,Extraordinary Popular Delusions & the Madness of Crowds (Great Minds),Charles Mackay,3.88,1573928917,9781570000000.0,eng,724,33,4,05/01/2001,Prometheus Books
+35790,Extraordinary Popular Delusions and the Madness of Crowds/Confusión de Confusiones (Marketplace Book),Martin S. Fridson/Charles Mackay/Joseph de La Vega,3.91,471133124,9780470000000.0,en-GB,224,35,3,12/29/1995,Wiley
+35792,The Crowd/Extraordinary Popular Delusions & the Madness of Crowds,Gustave Le Bon/Charles Mackay,3.93,934380236,9780930000000.0,eng,288,406,24,11/01/1993,Wasendorf & Associates Inc
+35805,The Capture (Guardians of Ga'Hoole  #1),Kathryn Lasky,3.9,439405572,9780440000000.0,eng,222,22125,1232,06/01/2003,Scholastic Paperbacks
+35806,The Journey (Guardians of Ga'Hoole  #2),Kathryn Lasky,4.0,439405580,9780440000000.0,en-US,242,11354,404,09/01/2003,Scholastic  Inc.
+35807,The Rescue (Guardians of Ga'Hoole  #3),Kathryn Lasky,4.07,439405599,9780440000000.0,eng,198,10154,278,01/01/2004,Scholastic  Inc.
+35810,The Night Journey,Kathryn Lasky,3.77,142403229,9780140000000.0,eng,160,279,57,3/17/2005,Puffin Books
+35811,The Collected Stories of Arthur C. Clarke,Arthur C. Clarke,4.29,312878605,9780310000000.0,eng,966,4150,138,1/14/2002,Tom Doherty Associates/Orb Books
+35815,Sunstorm (A Time Odyssey  #2),Arthur C. Clarke/Stephen Baxter,3.83,345452518,9780350000000.0,eng,356,4049,154,2/28/2006,Del Rey Books
+35819,Lair of the White Worm,Bram Stoker,2.86,646418424,9780650000000.0,eng,120,2276,244,10/01/2002,Deodand Publishing
+35822,Best Ghost and Horror Stories,Bram Stoker/Richard Dalby,3.52,486297160,9780490000000.0,eng,272,55,7,11/02/2011,Dover Publications
+35825,The Blonde on the Street Corner,David Goodis,3.71,1852424478,9781850000000.0,en-US,155,284,26,1/15/1998,Serpent's Tail
+35826,Of Tender Sin,David Goodis/Adrian Wootton,3.69,1852426748,9781850000000.0,en-US,181,150,24,2/16/2001,Serpent's Tail
+35827,The Moon in the Gutter,David Goodis/Adrian Wootton,3.65,1852424494,9781850000000.0,en-US,183,350,40,12/08/1998,Serpent's Tail
+35835,Dear Peter Rabbit,Alma Flor Ada/Leslie Tryon,4.13,1416912339,9781420000000.0,en-US,32,7,0,01/01/2006,Aladdin Paperbacks
+35846,The Chocolate-Covered Contest (Nancy Drew  #151),Carolyn Keene,3.89,067103443X,9780670000000.0,en-US,160,520,17,09/01/1999,Aladdin
+35848,Ghost Stories (Nancy Drew),Carolyn Keene,3.75,671691325,9780670000000.0,eng,160,337,12,10/01/1989,Aladdin
+35860,The Humor of the American Cowboy,Stan Hoig/Nick Eggenhofer,3.43,803273592,9780800000000.0,eng,200,3,1,07/01/2006,Bison Books
+35870,Ghost in the Shell (Ghost in the Shell  #1),Masamune Shirow,4.18,1593072287,9781590000000.0,eng,350,8456,302,6/20/2006,Dark Horse Comics
+35875,Ghost in the Shell,Masamune Shirow,4.18,1845760182,9781850000000.0,en-GB,368,61,3,2/25/2005,Titan
+35878,Ghost in the Shell 2: Innocence: After The Long Goodbye,Masaki Yamada/Yuji Oniki/Carl Gustav Horn/Daigo Shinma/Keita Saeki/Mamoru Oshii/Shinji Maki,3.97,1421513943,9781420000000.0,eng,196,21,3,7/17/2007,VIZ Media LLC
+35880,At the Edge (Psychic Triplet Trilogy  #1),Cait London,3.79,61140503,9780060000000.0,en-US,384,273,21,5/29/2007,Avon
+35882,Tallchief: The Hunter (The Tallchiefs #9),Cait London,4.12,373764197,9780370000000.0,eng,192,47,1,1/25/2002,Silhouette Desire
+35886,With Her Last Breath,Cait London,3.66,006000181X,9780060000000.0,en-US,384,112,11,6/24/2003,Avon
+35888,Tallchief For Keeps (The Tallchiefs #3),Cait London,4.2,373483376,9780370000000.0,eng,296,65,2,12/25/1996,Silhouette
+35895,The Sgt. Rock Archives  Vol. 3,Robert Kanigher/Joe Kubert/Russ Heath/Mark Chiarello/Jerry Grandinetti/Irv Novack,4.47,1401204104,9781400000000.0,eng,224,19,2,08/01/2005,DC Comics
+35896,The Sgt. Rock Archives  Vol. 1,Robert Kanigher/Bob Haney/Joe Kubert/Jerry Grandinetti,4.2,1563898411,9781560000000.0,eng,240,47,1,05/01/2002,DC Comics
+35903,Sgt. Rock: The Prophecy,Joe Kubert,3.47,1401212484,9781400000000.0,en-US,144,76,11,04/07/2007,DC Comics
+35907,Sgt. Frog  Vol. 13 (Sgt. Frog  #13),Mine Yoshizaki,4.23,1427802114,9781430000000.0,eng,192,77,1,06/01/2007,TokyoPop
+35908,The Elements of Style,William Strunk Jr./E.B. White,4.19,24181900,9780020000000.0,en-US,85,217,16,12/12/1991,MacMillan Publishing Company
+35921,On Basilisk Station (Honor Harrington  #1),David Weber,4.13,1416509372,9781420000000.0,eng,458,33456,1424,7/26/2005,Baen Books
+35924,The Lure of the Basilisk (The Lords of Dûs  #1),Lawrence Watt-Evans,3.71,1587155877,9781590000000.0,eng,208,493,17,11/01/2001,Wildside Press
+35925,Love Smart: Find the One You Want--Fix the One You Got,Phillip C. McGraw,3.56,074329243X,9780740000000.0,en-US,283,817,73,12/26/2006,Free Press
+35926,Love Smart: Find the One You Want--Fix the One You Got,Phillip C. McGraw,3.56,743272099,9780740000000.0,en-US,284,69,14,12/06/2005,Free Press
+35927,Smart Love,Martha Heineman Pieper/William J. Pieper,3.91,1558321829,9781560000000.0,eng,272,97,10,05/01/2001,Harvard Common Press
+35958,Sagwa  the Chinese Siamese Cat,Amy Tan/Gretchen Schields,4.03,689846177,9780690000000.0,eng,40,995,57,09/01/2001,Aladdin Paperbacks
+35959,The Bonesetter's Daughter,Amy Tan,3.99,6550436,9780010000000.0,eng,352,437,49,10/01/2004,Harper Perennial
+35963,The Opposite of Fate,Amy Tan,3.92,7170408,9780010000000.0,eng,398,172,11,07/01/2004,Harper Perennial
+35975,Bonesetter's Daughter,Amy Tan/Joan Chen,3.99,1597770760,9781600000000.0,eng,11,177,49,01/01/2006,Phoenix Audio
+35983,The Horizontal World: Growing Up Wild in the Middle of Nowhere,Debra Marquart,3.77,1582433453,9781580000000.0,en-US,270,387,76,6/13/2006,Counterpoint LLC
+35986,Horizontal Gene Transfer,Michael Syvanen/Clarence I. Kado,4.0,126801266,9780130000000.0,eng,445,0,0,1/16/2002,Academic Press
+35987,The Greek Islands,Lawrence Durrell,3.89,571214266,9780570000000.0,eng,332,25,3,04/08/2002,Faber & Faber
+35988,The Avignon Quintet: Monsieur  Livia  Constance  Sebastian and Quinx,Lawrence Durrell,4.07,571225551,9780570000000.0,en-US,1376,287,23,11/01/2004,Faber & Faber
+35991,Through the Dark Labyrinth: A Biography of Lawrence Durrell,Gordon Bowker,3.83,312172257,9780310000000.0,eng,480,39,7,12/31/1997,St. Martin's Press
+35997,Clear Light of Day,Anita Desai,3.68,618074511,9780620000000.0,eng,183,2262,144,09/12/2000,Mariner Books
+36004,In Custody,Anita Desai,3.33,140238131,9780140000000.0,eng,204,1021,81,08/01/1994,Penguin Books Ltd
+36005,Baumgartner's Bombay,Anita Desai,3.47,618056807,9780620000000.0,eng,240,666,49,5/19/2000,Mariner Books
+36023,Tim Burton: Interviews,Kristian Fraga,4.26,1578067596,9781580000000.0,eng,192,103,7,1/22/2010,University Press of Mississippi
+36025,Mysteries,Colin Wilson,4.08,1842931857,9781840000000.0,eng,672,354,15,7/28/2006,Watkins
+36028,The Occult: A History,Colin Wilson,3.91,394718135,9780390000000.0,eng,606,36,7,02/12/1973,Vintage/Random House Inc. (NYC)
+36047,Exemplary Novels IV: Lady Cornelia  the Deceitful Marriage  the Dialogue of the Dogs,Miguel de Cervantes Saavedra/John Macklin,4.2,856684988,9780860000000.0,eng,167,4,2,01/01/1992,Aris & Phillips
+36048,In the Royal Manner : Expert Advice on Etiquette and Entertaining from the Former Butler to Diana  Princess of Wales,Paul Burrell,3.64,044652641X,9780450000000.0,eng,144,47,3,12/14/2008,Warner Books
+36060,Because the Night (Lloyd Hopkins  #2),James Ellroy,3.48,1400095298,9781400000000.0,eng,288,1085,42,10/18/2005,Vintage
+36062,Crime Wave: Reportage and Fiction from the Underside of L.A.,James Ellroy/Art Cooper,3.59,037570471X,9780380000000.0,en-US,288,1752,50,1/26/1999,Vintage Crime/Black Lizard
+36063,Suicide Hill (Lloyd Hopkins  #3),James Ellroy,3.53,1400095301,9781400000000.0,eng,288,1004,39,08/08/2006,Vintage
+36064,American Tabloid (Underworld USA #1),James Ellroy,4.21,037572737X,9780380000000.0,eng,592,11787,639,4/24/2001,Vintage/Random House (NY)
+36067,Your Cheatin' Heart,Nancy Bartholomew,3.69,61014095,9780060000000.0,eng,336,72,5,02/02/2000,HarperTorch
+36071,First Things First,Stephen R. Covey/A. Roger Merrill/Rebecca R. Merrill,4.1,684802031,9780680000000.0,eng,384,33724,350,1/17/1996,Free Press
+36072,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Stephen R. Covey/Jim Collins,4.1,743269519,9780740000000.0,eng,372,431987,7024,11/09/2004,Free Press
+36076,The Speed of Trust: The One Thing that Changes Everything,Stephen M.R. Covey,3.99,074329730X,9780740000000.0,eng,384,17073,528,10/17/2006,Free Press
+36085,Everything Bad is Good for You,Steven Johnson,3.5,1594481946,9781590000000.0,en-US,254,4027,463,05/02/2006,Riverhead Books
+36086,The Ghost Map: The Story of London's Most Terrifying Epidemic—and How It Changed Science  Cities  and the Modern World,Steven Johnson,3.9,1594489254,9781590000000.0,eng,299,32723,2855,11/01/2006,Riverhead Books
+36128,The Fountains of Paradise,Arthur C. Clarke,3.96,151327734,9780150000000.0,eng,245,117,17,01/01/1979,Harcourt Brace Jovanovich (NY)
+36137,Bad Dreams,Kim Newman,3.16,786702273,9780790000000.0,en-US,280,151,13,4/25/1995,Running Press
+36140,Strawberry Days: How Internment Destroyed a Japanese American Community,David Neiwert,4.0,140396792X,9781400000000.0,eng,288,55,5,06/04/2005,St. Martin's Press
+36154,The Price of Glory (Saga of the Gray Death Legion  #3),William H. Keith Jr.,3.89,1555600387,9781560000000.0,eng,321,445,6,10/01/1987,FASA Corp.
+36157,Feast of Souls (The Magister Trilogy  #1),C.S. Friedman,3.89,756404320,9780760000000.0,en-US,464,4240,208,01/02/2007,DAW
+36158,In Conquest Born (In Conquest Born  #1),C.S. Friedman,3.88,756400430,9780760000000.0,eng,530,2467,132,11/01/2001,DAW
+36159,Black Sun Rising (The Coldfire Trilogy  #1),C.S. Friedman,3.93,756403146,9780760000000.0,en-US,496,15607,487,09/06/2005,Daw Books
+36160,Crown of Shadows (The Coldfire Trilogy  #3),C.S. Friedman,4.17,756403189,9780760000000.0,en-US,432,101,7,11/01/2005,DAW
+36161,The Madness Season,C.S. Friedman,4.05,886774446,9780890000000.0,eng,495,2459,95,10/03/1990,DAW Books Inc
+36162,This Alien Shore,C.S. Friedman,4.04,886777992,9780890000000.0,en-US,564,3147,197,07/01/1999,DAW
+36190,Whirlpool,Elizabeth Lowell/Ann Maxwell,3.78,60511133,9780060000000.0,eng,448,1143,63,10/31/2006,Avon
+36191,Reckless Love (MacKenzie-Blackthorn #1),Elizabeth Lowell,3.8,373772521,9780370000000.0,eng,384,1101,45,12/26/2006,Harlequin
+36193,Warrior (MacKenzie-Blackthorn #5),Elizabeth Lowell,3.91,1551669048,9781550000000.0,eng,256,865,28,4/24/2002,MIRA
+36195,Only Mine (Only Series  #2),Elizabeth Lowell,3.92,380763397,9780380000000.0,en-US,400,2209,79,5/27/2003,Avon
+36197,The Secret Sister,Ann Maxwell/Elizabeth Lowell,3.65,60511109,9780060000000.0,eng,416,1181,48,10/25/2005,Avon
+36198,Tell Me No Lies,Elizabeth Lowell,3.99,373771258,9780370000000.0,en-US,576,2221,65,1/31/2006,HQN
+36203,Sweet Rosie O'Grady,Joan Jonker,4.48,747253749,9780750000000.0,eng,416,128,8,3/13/1997,Headline
+36216,Fergus and the Night-Demon,Jim  Murphy/John Manders,3.69,618339558,9780620000000.0,en-US,32,81,18,9/18/2006,Clarion Books
+36244,The Secret on Ararat (Babylon Rising  #2),Tim LaHaye/Bob Phillips,4.23,553586076,9780550000000.0,eng,416,3153,70,11/28/2006,Bantam
+36252,Avalon,Anya Seton/Philippa Gregory,3.87,1556526008,9781560000000.0,en-US,440,2857,158,05/01/2006,Chicago Review Press
+36253,The Winthrop Woman,Anya Seton/Philippa Gregory,4.09,155652644X,9781560000000.0,en-US,588,4258,326,09/01/2006,Chicago Review Press
+36255,The Hearth and Eagle,Anya Seton,3.89,449236412,9780450000000.0,eng,476,569,26,09/12/1980,Fawcett
+36259,Media Unlimited: How the Torrent of Images & Sounds Overwhelms Our Lives,Todd Gitlin,3.55,805072837,9780810000000.0,en-US,256,112,11,01/06/2003,Picador
+36260,The Whole World is Watching: Mass Media in the Making and Unmaking of the New Left with a New Preface,Todd Gitlin,3.73,520239326,9780520000000.0,en-US,352,83,6,05/01/2003,University of California Press
+36261,The Sixties: Years of Hope  Days of Rage,Todd Gitlin,3.73,553372122,9780550000000.0,en-US,544,475,42,07/01/1993,Bantam Books (NY)
+36262,The Intellectuals and the Flag,Todd Gitlin,3.59,231124929,9780230000000.0,en-US,167,2,1,01/01/2006,Columbia University Press
+36264,The Whole World Is Watching: Mass Media in the Making & Unmaking of the New Left,Todd Gitlin,3.73,520040244,9780520000000.0,eng,344,10,1,10/15/1981,University of California Press
+36266,Magical Creatures (Easy To Read! Easy To Draw!),Joan Holub/Dana Regan,3.0,843104368,9780840000000.0,eng,48,1,0,10/27/2003,Price Stern Sloan
+36268,The Pizza That We Made,Joan Holub/Lynne Avril Cravath,3.54,142300195,9780140000000.0,en-US,32,60,12,09/10/2001,Penguin Young Readers
+36303,'Salem's Lot,Stephen King,4.02,451139690,9780450000000.0,eng,427,186,22,08/01/1976,Signet
+36310,The Portable Edgar Allan Poe,Edgar Allan Poe/J. Gerald Kennedy,4.31,143039911,9780140000000.0,eng,672,234,20,9/28/2006,Penguin Books
+36311,Great Short Works,Edgar Allan Poe/Gary Richard Thompson,4.26,006083093X,9780060000000.0,en-US,576,683,13,11/28/1970,Harper Perennial
+36313,Tales,H.P. Lovecraft/Peter Straub,4.34,1931082723,9781930000000.0,eng,838,2525,174,02/03/2005,Library of America
+36314,Tales of H.P. Lovecraft,H.P. Lovecraft/Joyce Carol Oates,4.19,60957905,9780060000000.0,eng,352,5300,137,9/19/2000,Ecco
+36315,The Best of H.P. Lovecraft: Bloodcurdling Tales of Horror and the Macabre,H.P. Lovecraft/August Derleth/Robert Bloch,4.31,345350804,9780350000000.0,eng,406,26857,545,10/29/2002,Ballantine Books
+36316,The Doom That Came to Sarnath and Other Stories,H.P. Lovecraft/Lin Carter,4.12,345331052,9780350000000.0,eng,208,2774,65,9/13/1991,Del Rey
+36317,The Transition of H. P. Lovecraft: The Road to Madness,H.P. Lovecraft/Barbara Hambly,4.3,345384229,9780350000000.0,eng,379,9518,93,10/01/1996,Del Rey
+36319,The Art of H.P. Lovecraft's the Cthulhu Mythos,Pat Harrigan/Brian  Wood/Jeremy McHugh,4.05,1589943074,9781590000000.0,eng,191,140,9,10/31/2006,Fantasy Flight Games
+36321,The Dream Cycle of H.P. Lovecraft: Dreams of Terror and Death,H.P. Lovecraft/E. Hoffmann Price/Neil Gaiman,4.23,345384210,9780350000000.0,eng,387,6253,160,2/25/2003,Del Rey
+36333,Loving Will Shakespeare,Carolyn Meyer,3.47,152054510,9780150000000.0,eng,265,1361,166,10/01/2006,Harcourt Children's Books
+36334,Doomed Queen Anne (Young Royals  #3),Carolyn Meyer,3.87,152050868,9780150000000.0,eng,240,3547,195,05/01/2004,HMH Books for Young Readers
+36336,Patience  Princess Catherine (Young Royals  #4),Carolyn Meyer,3.79,152054472,9780150000000.0,en-US,208,2227,119,01/01/2009,HMH Books for Young Readers
+36338,Marie  Dancing,Carolyn Meyer,3.76,152051163,9780150000000.0,eng,272,1085,77,10/01/2005,HMH Books for Young Readers
+36340,Isabel: Princesa De Castilla  España  1466,Carolyn Meyer/Carme Camps Monf,3.71,8478886745,9788480000000.0,spa,184,8,0,10/03/2001,Salamandra
+36348,Monte Cook Presents The Year's Best D20 (Volume One),Monte Cook,4.2,1588467988,9781590000000.0,eng,96,5,1,8/15/2005,Malhavoc Press
+36361,1848: The Revolution of the Intellectuals,Lewis B. Namier/James Joll,3.11,197261116,9780200000000.0,eng,144,15,0,03/12/1992,British Academy
+36368,Suddenly Daddy (Suddenly #1),Loree Lough,3.78,373870280,9780370000000.0,eng,256,37,1,4/24/1998,Love Inspired
+36397,Great Short Stories by American Women,Candace Ward,3.96,486287769,9780490000000.0,eng,208,306,35,02/05/1996,Dover Publications  Inc.
+36399,Children's Christmas Stories and Poems: In Easy-to-Read Type,Bob Blaisdell/Pat Ronson Stewart,4.5,486286568,9780490000000.0,eng,96,2,0,11/17/2011,Dover Publications
+36402,The Governess; or  The Little Female Academy,Sarah Fielding/Candace Ward,2.63,1551114127,9781550000000.0,eng,242,132,18,9/26/2005,Broadview Press Inc
+36421,The Star-Spangled Banner (Symbols of America),Debra Hess,4.0,761417109,9780760000000.0,eng,40,1,0,01/01/2003,Cavendish Square Publishing
+36422,The Liberty Bell (Symbols of America),Debra Hess,3.83,761417133,9780760000000.0,eng,40,4,0,01/01/2003,Cavendish Square Publishing
+36423,The Statue of Liberty (Symbols of America),Debra Hess,4.0,761417079,9780760000000.0,eng,40,1,0,01/01/2003,Cavendish Square Publishing
+36424,The White House (Symbols of America),Debra Hess,4.0,761417125,9780760000000.0,eng,40,3,2,01/01/2004,Cavendish Square Publishing
+36425,The American Flag (Symbols of America),Debra Hess,4.0,761417095,9780760000000.0,eng,39,3,0,01/01/2004,Cavendish Square Publishing
+36434,Touched with Fire: Manic-Depressive Illness and the Artistic Temperament,Kay Redfield Jamison,4.02,068483183X,9780680000000.0,en-US,384,4209,199,10/18/1996,Free Press
+36438,Manic-Depressive Illness: Bipolar Disorders and Recurrent Depression,Frederick K. Goodwin/Kay Redfield Jamison,4.4,195135792,9780200000000.0,en-GB,1262,107,3,03/01/2007,Oxford University Press  USA
+36447,The Bone Yard,Paul J. Mikol/Dean Koontz/F. Paul Wilson/Sheri S. Tepper/Ray Garton,4.01,425127265,9780430000000.0,eng,329,265,4,05/01/1991,Berkley
+36450,Dracula Was a Woman: In Search of the Blood Countess of Transylvania,Raymond T. McNally,3.52,70456712,9780070000000.0,eng,254,155,25,06/01/1987,McGraw-Hill Companies
+36461,Proof of Concept,Larry Young/Damian Couceiro/Kieron Dwyer,3.0,1932051295,9781930000000.0,eng,134,6,1,1/18/2005,AIT Planet Lar
+36475,Wonderful Life: The Burgess Shale and the Nature of History,Stephen Jay Gould,4.12,039330700X,9780390000000.0,eng,352,8207,179,9/17/1990,W. W. Norton & Company
+36489,Justice Oliver Wendell Holmes: Law and the Inner Self,G. Edward White,3.67,195101286,9780200000000.0,eng,648,17,2,12/19/1995,Oxford University Press  USA
+36492,Oliver Wendell Holmes in Paris: Medicine  Theology  and the Autocrat of the Breakfast Table,William C. Dowling,5.0,1584655801,9781580000000.0,eng,179,1,1,2/28/2007,University Press of New England
+36505,Evermore,James Robert Smith/Stephen Mark Rainey/Joel Lane/Gary Fry/John Morressy/Kealan Patrick Burke/Manly Wade Wellman/Fred Chappell/Charlee Jacob/F. Gwynplaine MacIntyre/Steve Rasnic Tem/Thomas F. Monteleone/Rick Hautala/Melanie Tem/Trey R. Baker/Ken Goldman/Vincent Starrett/Tom Piccirilli,3.31,870541854,9780870000000.0,eng,237,16,3,10/01/2006,Arkham House Publishers
+36507,The Azathoth Cycle: Tales of the Blind Idiot God,Robert M. Price/Edward Pickman Derby/Peter Cannon/Stephen Mark Rainey/Lin Carter/Henry Kuttner/Ramsey Campbell/Thomas Ligotti/Richard L. Tierney/Gary    Myers/Donald R. Burleson/C.J. Henderson/Stephen Studach/John Glasby/Allen Mackey,3.75,1568820402,9781570000000.0,eng,260,124,6,03/01/1995,Chaosium
+36522,Rethinking the Economics of War: The Intersection of Need  Creed  and Greed,Cynthia J. Arnson/I. William Zartman,3.5,801882982,9780800000000.0,eng,320,10,0,09/08/2005,Woodrow Wilson Center Press / Johns Hopkins University Press
+36530,Narrative of the Life of Frederick Douglass: An American Slave  Written by Himself,Frederick Douglass/David W. Blight,4.02,312257376,9780310000000.0,eng,188,501,36,12/25/2002,Bedford Books
+36532,Narrative of the Life of Frederick Douglass: An American Slave,Frederick Douglass/Gregory Stephens/Peter J. Gomes,4.02,451529944,9780450000000.0,eng,144,438,50,06/07/2005,Signet Book
+36533,Narrative of the Life of Frederick Douglass: An American Slave  Written by Himself,Frederick Douglass,4.02,074348777X,9780740000000.0,eng,208,63,7,11/01/2004,Simon  Schuster
+36535,Autobiographies: Narrative of the Life of Frederick Douglass / My Bondage and My Freedom / Life and Times of Frederick Douglass,Frederick Douglass/Henry Louis Gates Jr.,4.35,940450798,9780940000000.0,eng,1132,504,36,02/01/1994,Library of America
+36536,Narrative of the Life of Frederick Douglass  an American Slave / Incidents in the Life of a Slave Girl,Frederick Douglass/Harriet Ann Jacobs/Kwame Anthony Appiah,4.01,345478231,9780350000000.0,eng,464,986,93,12/28/2004,Modern Library
+36550,Antes que anochezca,Reinaldo Arenas,4.17,8483105020,9788480000000.0,spa,343,427,35,2/28/2008,TusQuets
+36555,Hallucinations: or  The Ill-Fated Peregrinations of Fray Servando,Reinaldo Arenas/Andrew Hurley/Thomas Colchie,4.09,142000191,9780140000000.0,en-US,288,187,8,12/31/2001,Penguin Books
+36556,The Assault,Reinaldo Arenas/Andrew Hurley/Thomas Colchie,3.79,140157182,9780140000000.0,eng,176,139,12,06/01/1995,Penguin Books
+36567,Cold As Ice (Ice  #2),Anne Stuart,3.81,778323560,9780780000000.0,eng,360,3328,246,10/24/2006,Mira Books
+36568,Shadow Lover,Anne Stuart,3.81,451408691,9780450000000.0,eng,320,1143,93,03/01/1999,Onyx
+36569,Ice Blue (Ice  #3),Anne Stuart,3.94,778324788,9780780000000.0,eng,378,3215,197,3/27/2007,Mira Books
+36570,The Devil's Waltz,Anne Stuart,3.74,778322734,9780780000000.0,eng,363,1275,87,1/24/2006,Mira
+36571,Shadows At Sunset,Anne Stuart,3.63,1551665719,9781550000000.0,eng,384,762,38,8/25/2000,MIRA
+36572,To Love a Dark Lord,Anne Stuart,3.82,380776049,9780380000000.0,eng,409,1245,95,2/24/1994,Avon Books
+36573,Ritual Sins,Anne Stuart,3.68,451192524,9780450000000.0,eng,396,682,67,10/01/1997,Onyx
+36575,Prince of Magic,Anne Stuart,3.64,082176053X,9780820000000.0,eng,348,260,17,12/01/1998,Zebra
+36598,Bound for Oregon,Jean Van Leeuwen/James Watling/R.W. Alley,3.8,140383190,9780140000000.0,eng,176,862,92,11/01/1996,Puffin Books
+36606,Oliver and Albert  Friends Forever (Easy-to-Read  Puffin),Jean Van Leeuwen/Ann Schweninger,3.61,142300845,9780140000000.0,eng,48,23,2,3/18/2002,Puffin
+36609,Midnight Brunch (Casa Dracula  #2),Marta Acosta,3.8,1416520392,9781420000000.0,en-US,336,919,82,4/24/2007,Gallery Books
+36636,Midnight Is a Place,Joan Aiken,3.92,618196250,9780620000000.0,en-US,304,857,61,10/28/2002,HMH Books for Young Readers
+36637,Black Hearts in Battersea (The Wolves Chronicles  #2),Joan Aiken/Edward Gorey,4.13,395971284,9780400000000.0,en-US,240,3626,145,10/25/1999,HMH Books for Young Readers
+36639,A Small Pinch of Weather,Joan Aiken,4.26,6754899,9780010000000.0,eng,239,122,11,01/01/2000,HarperCollins Publishers
+36641,The Cuckoo Tree (The Wolves Chronicles  #6),Joan Aiken,4.04,618070230,9780620000000.0,eng,304,878,44,9/25/2000,HMH Books for Young Readers
+36644,Nightbirds on Nantucket (The Wolves Chronicles  #3),Joan Aiken,4.13,395971853,9780400000000.0,eng,218,1946,96,10/25/1999,HMH Books for Young Readers
+36652,Seminole Song,Vella Munn,3.71,812538838,9780810000000.0,eng,320,46,11,3/15/1998,Forge
+36664,Mary Engelbreit's Home Companion,Charlotte Lyons/Mary Engelbreit/Barbara E. Martin,4.12,836246217,9780840000000.0,eng,128,60,2,08/01/1994,Andrews McMeel Publishing
+36665,Mary Engelbreit's Mother Goose: One Hundred Best-Loved Verses,Mary Engelbreit/Leonard S. Marcus,4.37,60081716,9780060000000.0,en-US,128,567,50,9/20/2005,HarperCollins
+36666,Save the Date: A Spirituality of Dating  Love  Dinner  and the Divine,Jason King,3.6,824521234,9780820000000.0,eng,191,5,1,09/01/2003,Crossroad Publishing Company
+36667,Killing the Imposter God: Philip Pullman's Spiritual Imagination in His Dark Materials,Donna Freitas/Jason Edward King,3.67,787982377,9780790000000.0,en-GB,224,42,12,09/01/2007,Jossey-Bass
+36677,Teaching the World's Children: ESL for Ages Three to Seven (The Pippin Teacher's Library),Mary Ashworth/H. Patricia Wakefield,3.4,887511120,9780890000000.0,eng,101,5,3,5/13/2004,Pippin Publishing
+36679,Seven Miles a Second,David Wojnarowicz/James Romberger/Marguerite Van Cook,4.04,1563892472,9781560000000.0,eng,59,84,6,05/01/1996,DC Comics
+36681,Drop The Rock: Removing Character Defects - Steps Six and Seven,Bill Pittman/Todd W. Hall/Sara S./Todd W.,4.44,1592851614,9781590000000.0,en-US,132,955,41,02/11/2005,Hazelden Publishing
+36706,The Oxford Dictionary of Quotations,Elizabeth Knowles,4.2,198601735,9780200000000.0,en-US,1536,37,2,11/25/1999,Oxford University Press  USA
+36715,Liberty Before Liberalism,Quentin Skinner,3.9,521638763,9780520000000.0,eng,156,131,10,1/13/1998,Cambridge University Press
+36717,The Return of Grand Theory in the Human Sciences,Quentin Skinner,3.88,521398339,9780520000000.0,en-US,224,31,3,9/13/1990,Cambridge University Press
+36768,Symptomatic,Danzy Senna,3.32,1594480672,9781590000000.0,eng,220,523,65,02/01/2005,Riverhead Books
+36775,Tales of Magick: Dark Adventure,Phil Brucato/Aaron Rosenberg,3.45,1565044045,9781570000000.0,eng,96,38,2,12/10/1999,White Wolf Games Studio
+36822,Doctor Tandy's First Guide to Life Extension and Transhumanity,Charles Tandy/Raël/William Faloon/R. Michael Perry/Robin Hanson/Nick Bostrom/Robert A. Freitas Jr./Christopher J. Phoenix/Avatar Polymorph/Jim Yount,4.0,1581126506,9781580000000.0,eng,292,3,0,12/28/2001,Universal Publishers
+36853,Tyrannosaurus Wrecks (Stanley  #1),Laura Driscoll/Alisa Klayman-Grodsky/Eric     Weiner,5.0,786845031,9780790000000.0,eng,24,2,1,02/01/2003,Disney Press
+36859,Bailando al rescate (Dora La Exploradora),Dave Aikins/Laura Driscoll,3.47,1416915044,9781420000000.0,spa,24,2,0,09/01/2005,Libros para ninos
+36865,Richard Kern  Action,Richard Kern/Dian Hanson,3.84,3822856495,9783820000000.0,eng,280,13,0,02/01/2007,Taschen
+36893,On Film (Thinking in Action),Stephen Mulhall,3.9,415247969,9780420000000.0,eng,152,37,1,12/23/2001,Routledge
+36904,Warren G. Harding (The American Presidents  #29),John W. Dean/Arthur M. Schlesinger Jr.,3.73,805069569,9780810000000.0,eng,202,764,82,01/07/2004,Times Books
+36925,Prince of the City,Keith Herber,3.56,1565048202,9781570000000.0,eng,317,58,0,03/01/1995,White Wolf Games Studio
+36926,Spawn of Azathoth: Herald of the End of Time (Call of Cthulhu RPG),Keith Herber,3.79,1568821786,9781570000000.0,eng,197,22,1,05/01/2005,Chaosium
+36946,Random House Crossword Mega Omnibus  Volume 1,United Feature Syndication,0.0,081292763X,9780810000000.0,eng,336,0,0,7/22/1997,Random House Puzzles & Games
+36952,Chester,Syd Hoff,3.74,64440958,9780060000000.0,eng,64,196,31,4/18/1986,HarperCollins
+36953,Stanley,Syd Hoff,3.61,60225351,9780060000000.0,eng,64,8,1,12/31/1992,HarperCollins Publishers
+36956,Grizzwold,Syd Hoff,3.82,64440575,9780060000000.0,eng,64,214,23,09/05/1984,HarperCollins
+36958,Captain Cat,Syd Hoff,3.65,64441768,9780060000000.0,eng,48,110,15,4/22/1994,HarperCollins
+37003,Once Upon a Gulf Coast Summer,Susan    Oliver,3.44,805427775,9780810000000.0,en-US,368,36,9,1/15/2004,B Fiction
+37023,Margaret Atwood's Power: Mirrors  Reflections and Images in Select Fiction and Poetry,Shannon Hengen,3.43,092900549X,9780930000000.0,eng,176,7,1,10/06/1993,Sumach Press
+37024,The Bears on Hemlock Mountain,Alice Dalgliesh/Helen Sewell,3.79,689716044,9780690000000.0,eng,58,2164,147,10/31/1992,Aladdin
+37027,Hoodwinked,Quentin Carter,4.43,976234963,9780980000000.0,en-US,277,976,30,09/01/2005,Triple Crown Publications
+37032,The Risk of Darkness (Simon Serrailler  #3),Susan Hill,3.95,701179791,9780700000000.0,eng,320,3060,264,07/01/2006,Chatto & Windus
+37033,The Pure in Heart (Simon Serrailler  #2),Susan Hill,3.92,701176814,9780700000000.0,en-GB,370,45,10,06/02/2005,Chatto  Windus
+37034,The Woman in Black,Susan Hill/John Lawrence,3.71,1567921892,9781570000000.0,eng,138,31467,3061,12/01/2001,David R. Godine Publisher
+37036,The Pure in Heart (Simon Serrailler  #2),Susan Hill,3.92,99462109,9780100000000.0,eng,320,4245,347,06/01/2006,Vintage
+37040,The Various Haunts of Men (Simon Serrailler #1),Susan Hill,3.82,1585678767,9781590000000.0,eng,438,8361,819,4/19/2007,Harry N. Abrams
+37043,Septem Quae Supersunt Tragoediae,Aeschylus/Denys L. Page,4.1,198145705,9780200000000.0,grc,352,6,0,01/11/1973,Clarendon Press
+37051,鋼の錬金術師 1 [Hagane no Renkinjutsushi 1] (Fullmetal Alchemist  #1),Hiromu Arakawa,4.5,4757506201,9784760000000.0,jpn,180,56,10,1/20/2002,ガンガンコミックス
+37052,鋼の錬金術師 4 (Fullmetal Alchemist  #4),Hiromu Arakawa,4.55,4757508557,9784760000000.0,jpn,184,20,2,1/20/2003,ガンガンコミックス
+37053,鋼の錬金術師 5 (Fullmetal Alchemist  #5),Hiromu Arakawa,4.56,4757509669,9784760000000.0,jpn,188,20,1,6/21/2003,ガンガンコミックス
+37054,鋼の錬金術師 3 (Fullmetal Alchemist  #3),Hiromu Arakawa,4.56,4757507917,9784760000000.0,jpn,182,22,2,9/21/2002,ガンガンコミックス
+37055,鋼の錬金術師 8 (Fullmetal Alchemist 8),Hiromu Arakawa,4.57,4757512309,9784760000000.0,jpn,192,22,1,7/22/2004,ガンガンコミックス
+37057,Love's Executioner  And Other Tales Of Psychotherapy,Irvin D. Yalom,4.21,140128468,9780140000000.0,eng,270,226,17,1/31/1995,Penguin Books
+37058,The Brothers Karamazov,Fyodor Dostoyevsky/Thomas R. Beyer Jr./Simon Vance,4.32,1596440783,9781600000000.0,eng,16,3,1,05/01/2005,Hovel Audio
+37060,Old Filth (Old Filth  #1),Jane Gardam,3.93,1933372133,9781930000000.0,eng,290,10337,1619,06/01/2006,Europa Editions
+37061,Filth,Irvine Welsh,3.73,99284294,9780100000000.0,eng,393,148,17,07/01/1999,Vintage
+37063,The Gospel of Filth: A Bible of Decadence & Darkness,Gavin Baddeley/Dani Filth,4.45,9781903254,9781900000000.0,eng,544,114,6,02/05/2010,Fab Press
+37064,Divine Filth: Lost Writings (Modern Classics),Georges Bataille,3.88,1840681128,9781840000000.0,eng,160,76,2,9/15/2004,Creation Books
+37066,Filth: Dirt  Disgust  and Modern Life,William A. Cohen,4.08,816643008,9780820000000.0,eng,360,11,0,12/15/2004,Univ Of Minnesota Press
+37067,Pink Flamingos and Other Filth: Three Screenplays,John Waters,4.21,1560257016,9781560000000.0,eng,258,48,3,04/07/2005,Running Press
+37070,Let It Be Love (Effingtons  #11),Victoria Alexander,3.79,60593202,9780060000000.0,eng,384,1212,45,10/25/2005,Avon
+37072,The Marriage Lesson (Effingtons  #3),Victoria Alexander,3.9,380818205,9780380000000.0,eng,372,1484,67,05/01/2001,Avon
+37073,When We Meet Again (Effingtons  #10),Victoria Alexander,3.87,60593199,9780060000000.0,eng,384,1320,58,5/24/2005,Avon
+37074,Her Highness  My Wife (Effingtons  #5),Victoria Alexander,3.66,60001445,9780060000000.0,eng,362,992,47,7/30/2002,Avon HarperCollins
+37076,Love With the Proper Husband (Effingtons  #6),Victoria Alexander,3.85,60001453,9780060000000.0,eng,358,1471,61,3/25/2003,Avon
+37077,The Lady in Question (Effingtons  #7),Victoria Alexander,3.77,60517611,9780060000000.0,eng,384,1286,60,11/25/2003,Avon
+37083,Going on Being: Buddhism and the Way of Change,Mark Epstein,3.99,767904613,9780770000000.0,eng,240,576,48,02/12/2002,Broadway Books
+37087,A New History of Early English Drama,John D. Cox/David Scott Kastan/Stephen Greenblatt,4.05,231102437,9780230000000.0,eng,579,20,1,8/15/1997,Columbia University Press
+37095,The Shell Seekers,Rosamunde Pilcher,4.15,051722285X,9780520000000.0,eng,530,84085,2230,04/06/2004,Gramercy Books
+37105,Cat's Cradle (Cat  #1),William W. Johnstone,3.85,821718258,9780820000000.0,eng,412,151,14,05/01/1986,Zebra
+37106,Five Patients,Michael Crichton,3.48,99601117,9780100000000.0,eng,235,74,8,02/02/1995,Arrow
+37119,Undertaker of the Mind: John Monro and Mad-Doctoring in Eighteenth-Century England,Jonathan  Andrews/Andrew Scull,3.42,520231511,9780520000000.0,eng,386,12,1,11/27/2001,University of California Press
+37134,Consider the Lilies,Iain Crichton Smith/Isobel Murray,3.88,753812932,9780750000000.0,eng,144,332,33,01/01/1900,Polygon
+37139,The Admirable Crichton,J.M. Barrie,3.72,1406955817,9781410000000.0,eng,88,304,36,11/03/2006,Hard Press
+37169,The Delta Star,Joseph Wambaugh,3.66,553273868,9780550000000.0,eng,291,592,20,01/01/1984,Bantam
+37170,Finnegan's Week,Joseph Wambaugh,3.63,553763245,9780550000000.0,eng,352,561,42,08/01/1995,Bantam
+37186,The Miraculous Journey of Edward Tulane,Kate DiCamillo/Bagram Ibatoulline,4.37,763625892,9780760000000.0,eng,200,66426,8035,2/14/2006,Candlewick Press
+37187,The Tiger Rising,Kate DiCamillo,3.82,763618985,9780760000000.0,eng,128,19133,2279,07/01/2002,Candlewick Press
+37189,Mercy Watson Goes for a Ride,Kate DiCamillo/Chris Van Dusen,4.15,763623326,9780760000000.0,eng,72,4162,332,05/09/2006,Candlewick Press
+37190,The Tale of Despereaux,Kate DiCamillo/Timothy Basil Ering,4.04,763625299,9780760000000.0,eng,267,142149,8457,09/09/2008,Candlewick Press
+37191,Mercy Watson to the Rescue,Kate DiCamillo/Chris Van Dusen,4.05,763622702,9780760000000.0,eng,68,8987,831,8/23/2005,Candlewick Press
+37195,Mercy Watson: Princess in Disguise,Kate DiCamillo/Chris Van Dusen,4.16,763630144,9780760000000.0,eng,70,2973,202,07/10/2007,Candlewick Press
+37205,The Mill on the Floss,George Eliot,3.79,140620273,9780140000000.0,en-GB,536,198,32,2/24/1994,Penguin Books
+37211,Culture Shock! Laos (Culture Shock!),Stephen  Mansfield,3.29,1857331648,9781860000000.0,eng,220,12,1,1/30/2000,Kuperard
+37231,The Cambridge Companion to Plotinus,Lloyd P. Gerson,4.36,521476763,9780520000000.0,eng,480,21,2,11/28/1996,Cambridge University Press
+37238,In the Land of the Lawn Weenies and Other Warped and Creepy Tales (Weenies series  #1),David Lubar,3.96,765345706,9780770000000.0,en-US,256,720,69,6/16/2003,Starscape
+37240,Hidden Talents (Talents  #1),David Lubar,3.94,765357666,9780770000000.0,eng,240,2378,271,02/06/2007,Starscape
+37241,Dunk,David Lubar,3.8,618439099,9780620000000.0,eng,272,911,118,06/07/2004,HMH Books for Young Readers
+37261,Carnet de Voyage,Craig Thompson,3.76,1891830600,9781890000000.0,en-US,224,4415,400,08/03/2004,Top Shelf Productions
+37262,Dark Horse Deluxe Journal: Craig Thompson's Angels and Demons,Craig Thompson,3.52,1593070691,9781590000000.0,eng,128,46,1,12/30/2003,Dark Horse
+37264,Good-Bye  Chunky Rice,Craig Thompson,3.8,375714766,9780380000000.0,eng,125,7182,468,05/09/2006,Pantheon Books
+37266,Adieu  Chunky Rice,Craig Thompson,3.8,2840558599,9782840000000.0,spa,128,10,1,6/20/2002,Delcourt
+37272,Balanchine: A Biography,Bernard Taper,4.31,520206398,9780520000000.0,eng,413,63,4,11/08/1996,University of California Press
+37277,A Scandalous Life: The Biography of Jane Digby,Mary S. Lovell,4.02,1857024699,9781860000000.0,en-US,365,850,92,06/02/2003,Fourth Estate
+37282,The Splendid Outcast: Beryl Markham's African Stories,Beryl Markham/Mary S. Lovell,3.72,865473013,9780870000000.0,eng,139,307,33,10/01/1987,North Point Press
+37297,Eyes of Prey (Lucas Davenport  #3),John Sandford,4.18,425214435,9780430000000.0,eng,358,18802,519,03/06/2007,G.P. Putnam's Sons
+37299,Sharpe's Prey (Sharpe  #5),Bernard Cornwell,4.05,60084537,9780060000000.0,eng,288,293,23,10/23/2012,Harper Paperbacks
+37300,Broken Prey (Lucas Davenport  #16),John Sandford,4.18,425204308,9780430000000.0,eng,481,12808,453,05/02/2006,Berkley
+37301,Rules of Prey (Lucas Davenport  #1),John Sandford,4.11,425205819,9780430000000.0,eng,479,62767,1738,08/02/2005,G.P. Putnam's Sons
+37302,Certain Prey (Lucas Davenport  #10),John Sandford,4.22,743484193,9780740000000.0,eng,384,15377,416,2/21/2004,Simon & Schuster
+37304,Winter Prey (Lucas Davenport  #5),John Sandford,4.26,425141233,9780430000000.0,eng,400,35806,503,03/01/1994,Berkley
+37305,Destiny's Daughters,Gwynne Forster/Donna Hill/Parry A. Brown,4.2,758212380,9780760000000.0,eng,292,71,8,1/31/2006,Kensington
+37326,Fragments,Jean Baudrillard/Emily Agar,3.8,1844675734,9781840000000.0,eng,148,127,11,1/17/2007,Verso
+37328,The Consumer Society: Myths and Structures,Jean Baudrillard/Chris     Turner/George Ritzer,4.11,761956921,9780760000000.0,eng,224,698,28,4/14/1998,Sage Publications Ltd
+37329,The Vital Illusion,Jean Baudrillard/Julia Witwer,3.84,231121008,9780230000000.0,eng,96,117,7,11/22/2000,Columbia University Press
+37330,Hijos de la medianoche,Salman Rushdie/Miguel Sáenz,3.98,8497934326,9788500000000.0,spa,798,63,13,02/03/2005,DeBolsillo
+37338,Wicked Ties (Wicked Lovers  #1),Shayla Black,3.96,425213617,9780430000000.0,en-US,341,22055,1141,01/02/2007,Berkley Heat
+37339,On a Wicked Dawn (Cynster  #9),Stephanie Laurens,4.06,60002050,9780060000000.0,eng,448,5708,133,4/30/2002,Avon
+37340,The Wicked (Vampire Huntress  #8),L.A. Banks,4.41,312352360,9780310000000.0,en-US,389,1778,36,09/05/2000,St. Martins Press-3PL
+37341,Wicked Sacrifice (Bound Hearts  #4-5),Lora Leigh,4.21,1419953966,9781420000000.0,eng,290,2128,27,11/30/2006,Elloras Cave
+37343,My Wicked Pirate,Rona Sharon,3.9,821780573,9780820000000.0,eng,432,502,33,11/01/2006,Zebra
+37345,Wicked Dreams,Kingdome 19,3.67,3861878755,9783860000000.0,eng,112,3,0,09/01/2006,Bruno Gmünder
+37347,If I Have a Wicked Stepmother  Where's My Prince?,Melissa Kantor,3.66,786809604,9780790000000.0,en-US,283,4393,432,09/01/2005,Disney-Hyperion
+37349,A Couple of April Fools (The Hamlet Chronicles #6),Gregory Maguire/Elaine Clayton,3.48,60760826,9780060000000.0,eng,240,3,0,03/01/2005,HarperCollins
+37350,The Good Liar,Gregory Maguire,3.54,64408744,9780060000000.0,eng,144,125,22,5/28/2002,HarperCollins
+37356,Seven Spiders Spinning (The Hamlet Chronicles  #1),Gregory Maguire/Dirk Zimmer,3.6,64405958,9780060000000.0,eng,144,264,30,08/04/1995,HarperCollins
+37360,Three Rotten Eggs (The Hamlet Chronicles  #5),Gregory Maguire/Elaine Clayton,3.74,60546573,9780060000000.0,eng,240,79,5,1/18/2005,HarperCollins
+37363,Das Tulpenhaus oder Bekenntnisse einer häßlichen Stiefschwester,Gregory Maguire/Mechtild Sandberg-Ciletti,3.53,3423242302,9783420000000.0,ger,377,1,1,12/01/2000,Dtv
+37377,On the Night You Were Born,Nancy Tillman,4.36,312346069,9780310000000.0,en-US,32,12837,505,10/17/2006,Feiwel & Friends
+37379,The Night at the Museum,Milan Trenc,3.91,764136313,9780760000000.0,eng,32,817,34,11/01/2006,B.E.S. Publishing
+37380,The Heart Is a Lonely Hunter,Carson McCullers,3.98,618084746,9780620000000.0,eng,359,77530,4685,09/08/2000,Mariner Books
+37381,The Heart Is a Lonely Hunter,Carson McCullers/Kasia Boddy,3.98,141185228,9780140000000.0,eng,317,1459,169,8/31/2000,Penguin Classics
+37387,The Prime of Miss Jean Brodie / The Girls of Slender Means / The Driver's Seat / The Only Problem,Muriel Spark,3.79,1857152743,9781860000000.0,eng,512,1477,90,05/06/2004,Random House
+37388,The Prime of Miss Jean Brodie / The Girls of Slender Means / The Driver's Seat / The Only Problem,Muriel Spark,3.79,1400042062,9781400000000.0,eng,462,92,15,04/06/2004,Everyman's Library
+37390,The Pat Hobby Stories,F. Scott Fitzgerald/Arnold Gingrich,3.56,684804425,9780680000000.0,eng,192,927,100,12/06/1995,Scribner
+37395,The Pursuit of the Well-Beloved & The Well-Beloved,Thomas Hardy/Patricia Ingham,3.61,140435190,9780140000000.0,eng,416,127,10,8/28/1997,Penguin Classics
+37405,Playing in the Dark: Whiteness and the Literary Imagination,Toni Morrison,4.24,674673778,9780670000000.0,eng,110,3738,241,05/01/1992,Harvard University Press
+37408,The Big Box,Toni Morrison/Slade Morrison,3.95,786812915,9780790000000.0,eng,48,390,98,09/01/2002,Little  Brown Books for Young Readers
+37415,Their Eyes Were Watching God,Zora Neale Hurston,3.91,61120065,9780060000000.0,eng,219,220309,9536,5/30/2006,Amistad
+37417,Grasping God's Word: A Hands-On Approach to Reading  Interpreting  and Applying the Bible,J. Scott Duvall/J. Daniel Hays,4.17,310259665,9780310000000.0,en-US,462,811,68,08/02/2005,Zondervan Publishing Company
+37420,The Short Stories of Ernest Hemingway,Ernest Hemingway,4.26,20518609,9780020000000.0,eng,499,113,12,03/01/1987,Scribner Classics
+37424,Little Big Book for God's Children,Alice Wong/Lena Tabori,4.88,094180755X,9780940000000.0,en-US,352,8,0,09/01/2001,Welcome Books
+37426,Little Children,Tom Perrotta,3.62,312315732,9780310000000.0,eng,355,26316,1968,01/01/2005,St. Martin's Griffin
+37434,Dale Loves Sophie to Death,Robb Forman Dew,3.23,316890669,9780320000000.0,en-US,256,244,23,9/19/2001,Back Bay Books
+37435,The Secret Life of Bees,Sue Monk Kidd,4.05,142001740,9780140000000.0,eng,302,1044725,26279,1/28/2003,Penguin Books
+37438,Hokkaido Highway Blues: Hitchhiking Japan,Will Ferguson,4.0,1841952885,9781840000000.0,eng,344,2837,195,06/05/2003,Canongate Books
+37444,The Martian Chronicles,Ray Bradbury/Ian  Miller,4.14,553011804,9780550000000.0,eng,259,46,2,12/01/2006,Bantam Books
+37451,You Know You Love Me (Gossip Girl  #2),Cecily von Ziegesar,3.52,316911488,9780320000000.0,en-US,240,19261,648,09/01/2002,Poppy
+37467,Classroom Interactions as Cross-Cultural Encounters: Native Speakers in EFL Lessons,Jasmine C.M. Luk/Angel M.Y. Lin,0.0,805850848,9780810000000.0,eng,241,0,0,08/05/2006,Routledge
+37471,Them: Adventures with Extremists,Jon Ronson,3.95,330375466,9780330000000.0,eng,328,1103,96,02/08/2002,Pan Macmillan Ltd. (London)
+37476,Why I Hate Canadians,Will Ferguson,3.72,1550546007,9781550000000.0,en-GB,220,630,48,2/19/2007,Not Avail
+37477,Happiness,Will Ferguson,3.79,006052510X,9780060000000.0,eng,320,2256,182,06/03/2003,HarperPerennial
+37481,Discovering God's Will,Sinclair B. Ferguson,4.24,851513344,9780850000000.0,eng,126,92,17,03/01/1982,Banner of Truth
+37491,The Truth of the Matter,Robb Forman Dew,3.09,316013307,9780320000000.0,eng,352,194,40,11/03/2006,Back Bay Books
+37516,Spinoza: A Life,Steven Nadler,4.1,521002931,9780520000000.0,eng,422,234,23,4/23/2001,Cambridge University Press
+37525,Organizational Architecture: Designs for Changing Organizations,David A. Nadler/Robert B. Shaw/Marc S. Gerstein,4.62,1555424430,9781560000000.0,eng,304,2,0,5/26/1992,Jossey-Bass
+37526,Henry V,William Shakespeare/Barbara A. Mowat/Paul Werstine/Michael Neill,3.88,743484878,9780740000000.0,eng,294,35155,832,6/22/2004,Washington Square Press
+37530,Erotism: Death and Sensuality,Georges Bataille/Mary Dalwood,4.11,872861902,9780870000000.0,eng,288,1818,55,01/01/2001,City Lights Publishers
+37534,The Weimar Republic: The Crisis of Classical Modernity,Detlev J.K. Peukert/Richard Deveson,3.84,809015560,9780810000000.0,eng,360,198,11,09/01/1993,Hill and Wang
+37536,Adam and Eve and Pinch Me,Ruth Rendell,3.64,1400031184,9781400000000.0,eng,368,1932,131,1/14/2003,Vintage Crime/Black Lizard
+37538,A Pinch of Snuff (Dalziel & Pascoe  #5),Reginald Hill,3.84,440169127,9780440000000.0,eng,336,1077,47,07/01/1990,Dell
+37539,Egyptian Myth: A Very Short Introduction,Geraldine Pinch,3.61,192803468,9780190000000.0,eng,143,189,18,07/08/2004,Oxford University Press  USA
+37540,A Pinch of Poison (Hemlock Falls Mysteries  #3),Claudia Bishop,3.57,425151042,9780430000000.0,eng,249,328,29,12/01/1995,Berkley
+37546,Persuasion,Jane Austen,4.14,812565886,9780810000000.0,eng,242,1532,61,10/15/1999,Tor Classics
+37552,Beyond Seduction (Beyond Duet  #2),Emma Holly,3.7,515133086,9780520000000.0,eng,297,1329,60,6/28/2002,Jove
+37553,Sense and Sensibility,Jane Austen/Claire Lamont/James Kinsley,4.07,192804782,9780190000000.0,eng,327,6853,249,4/29/2004,Oxford University Press
+37554,Sense and Sensibility,Jane Austen/Claire Lamont/Ros Ballaster,4.07,140434259,9780140000000.0,eng,346,528,39,01/01/1996,Penguin Classics
+37558,Sense and Sensibility,Jane Austen/Laura Engel,4.07,159308336X,9781590000000.0,eng,312,1189,86,10/21/2004,Barnes & Noble
+37560,Sense and Sensibility,Jane Austen/Laura Engel,4.07,1593080492,9781590000000.0,eng,336,655,67,08/01/2003,Barnes  Noble Classics
+37561,One Flew Over the Cuckoo's Nest (SparkNotes Literature Guide),SparkNotes/Ken Kesey,4.13,1586633791,9781590000000.0,eng,72,4,0,7/15/2002,SparkNotes
+37564,A Different Mirror: A History of Multicultural America,Ronald Takaki,4.13,316831115,9780320000000.0,en-US,508,3389,212,06/01/1994,Back Bay Books
+37566,Trapped in the Mirror: Adult Children of Narcissists in Their Struggle for Self,Elan Golomb,3.82,688140718,9780690000000.0,en-US,272,779,82,3/28/1995,William Morrow Paperbacks
+37569,The Buddha in Your Mirror: Practical Buddhism and the Search for Self,Woody Hochswender/Greg Martin/Ted Morino,4.28,967469783,9780970000000.0,eng,230,732,72,10/01/2001,Middleway Press
+37572,A Distant Mirror: The Calamitous 14th Century,Barbara W. Tuchman,4.08,345910907,9780350000000.0,eng,704,143,26,07/12/1987,Ballantine Books
+37573,They Do It With Mirrors,Agatha Christie/Rosemary Leach,3.76,1559277580,9781560000000.0,eng,7,2,0,11/08/2002,MacMillan Audio
+37585,The Lemon Table,Julian Barnes,3.68,1400076501,9781400000000.0,eng,241,2043,167,04/05/2005,Vintage
+37587,The Criminal Mastermind Collection  Bks 1-3 (Artemis Fowl  #1-3),Eoin Colfer,4.36,786848693,9780790000000.0,en-US,912,858,12,9/27/2005,Miramax
+37592,Encuentro en el Ártico (Artemis Fowl  #2),Eoin Colfer,3.95,8497939212,9788500000000.0,spa,344,3,0,03/08/2006,Debolsillo
+37594,The Eternity Code (Artemis Fowl  #3),Eoin Colfer,4.04,439573882,9780440000000.0,eng,309,221,13,10/01/2003,Scholastic Inc.
+37595,El cubo B (Artemis Fowl  #3),Eoin Colfer/Ana Alcaina,4.04,307343111,9780310000000.0,spa,352,17,0,07/05/2005,Montena
+37598,The Eternity Code (Artemis Fowl  #3),Eoin Colfer,4.04,670913529,9780670000000.0,eng,329,187,6,04/03/2003,Penguin Group
+37603,Forget Me Not: Photography and Remembrance,Geoffrey Batchen,4.22,156898619X,9781570000000.0,eng,128,56,8,08/03/2006,Princeton Architectural Press
+37612,Monsoon Summer,Mitali Perkins,3.82,440238404,9780440000000.0,eng,257,588,107,04/11/2006,Laurel Leaf Library
+37619,Warlock (Ancient Egypt  #3),Wilbur Smith,4.04,312980388,9780310000000.0,eng,642,11169,272,9/16/2002,St. Martin's Paperbacks
+37623,Sea of Thunder: Four Commanders and the Last Great Naval Campaign 1941-1945,Evan Thomas,4.11,743252217,9780740000000.0,eng,415,2414,131,11/07/2006,Simon & Schuster
+37624,Gift from the Sea,Anne Morrow Lindbergh,4.17,679406832,9780680000000.0,en-US,132,1372,187,10/08/1991,Pantheon Books
+37625,Wide Sargasso Sea: A Reader's Guide to Essential Criticism,Carl Plasa,3.63,184046268X,9781840000000.0,eng,194,166,10,09/06/2002,Palgrave Macmillan
+37630,The Good Housekeeping Illustrated Cookbook,Good Housekeeping/Zoe Coulson,4.37,878510370,9780880000000.0,eng,512,1160,35,10/01/1980,Hearst Communications
+37638,Evelina,Frances Burney/Edward A. Bloom,3.67,192840312,9780190000000.0,eng,455,12101,495,7/18/2002,Oxford University Press
+37646,Dancing On Air,Frances Oliver,4.0,1553100662,9781550000000.0,eng,157,10,1,4/30/2004,Ash-Tree Press
+37651,Holding On to the Air,Suzanne Farrell/Toni Bentley,4.09,813025931,9780810000000.0,eng,352,524,40,9/25/2002,University Press of Florida
+37656,The Turtle (The Lighthouse Family  #4),Cynthia Rylant/Preston McDaniels,4.07,689863128,9780690000000.0,eng,48,155,13,02/01/2006,Beach Lane Books
+37657,The Body in the Lighthouse,Katherine Hall Page,3.68,380813866,9780380000000.0,en-US,352,434,28,3/30/2004,Avon
+37660,American Tragedy: Kennedy  Johnson  and the Origins of the Vietnam War,David E. Kaiser,3.51,674006720,9780670000000.0,eng,576,30,3,1/30/2002,Belknap Press
+37670,The Sun Also Rises,Ernest Hemingway,3.82,684182602,9780680000000.0,eng,247,62,9,10/01/1984,Scribner Book Company
+37673,The Call of the Wild,Jack London/Wendell Minor,3.86,068981836X,9780690000000.0,eng,128,188,16,10/01/1999,Aladdin
+37674,The Call of the Wild,Jack London/Gary Paulsen,3.86,689856741,9780690000000.0,eng,139,2210,157,02/01/2003,Aladdin
+37675,The Call of the Wild and Three Other Klondike Stories,Jack London/Roger Dressler,3.81,1587887738,9781590000000.0,eng,5,33,1,09/01/2001,Brilliance Audio
+37678,The Call of the Wild and Selected Stories: 100th Anniversary Ed.,Jack London/Alex Kershaw,3.82,451527038,9780450000000.0,eng,192,54,12,11/01/1998,Signet Classics
+37683,Fahrenheit 451,Ray Bradbury/Alfredo Crespo,3.99,8497930053,9788500000000.0,spa,176,580,64,11/29/2004,Debolsillo
+37684,The Lion  the Witch and the Wardrobe (Chronicles of Narnia  #1),Hiawyn Oram/C.S. Lewis/Tudor Humphries,4.25,60556501,9780060000000.0,eng,48,6307,64,9/21/2004,HarperCollins
+37685,The Lion  the Witch and the Wardrobe (Chronicles of Narnia #2),C.S. Lewis/Pauline Baynes,4.21,60765488,9780060000000.0,eng,189,652,70,10/25/2005,HarperEntertainment
+37690,The Lion  the Witch and the Wardrobe (Narnia),C.S. Lewis/Pauline Baynes,4.21,60845244,9780060000000.0,en-US,189,59,7,10/04/2005,HarperCollins Publishers
+37693,New Moon (Moon #6),Rebecca York,3.86,425216020,9780430000000.0,eng,323,634,30,03/06/2007,Berkley Sensation
+37694,Health: The Basics (Donatelle Series),Rebecca J. Donatelle,3.58,805377956,9780810000000.0,en-US,480,6,0,03/09/2006,Benjamin-Cummings Publishing Company
+37698,Cliffsnotes on Eliot's Middlemarch,Brian Johnston/George Eliot/CliffsNotes,4.14,822008254,9780820000000.0,eng,109,7,2,07/06/1967,Cliffs Notes
+37700,Alice's Adventures in Wonderland,Lewis Carroll/Richard  Kelly,4.02,155111223X,9781550000000.0,eng,356,73,8,9/13/2000,Broadview Press Inc
+37707,Anne of the Island and Tales of Avonlea,L.M. Montgomery,4.3,051703705X,9780520000000.0,eng,573,417,5,3/20/1991,Gramercy
+37716,A Christmas Carol and The Night Before Christmas,Charles Dickens/Clement C. Moore/Arthur Rackham,4.35,517229277,9780520000000.0,eng,156,91,15,10/03/2006,Gramercy Books
+37722,In Search of Dracula: The History of Dracula and Vampires,Raymond T. McNally/Radu Florescu,3.87,395657830,9780400000000.0,eng,320,1257,76,10/31/1994,Mariner Books
+37726,The Annotated Charlotte's Web,E.B. White/Garth Williams/Peter F. Neumeyer,4.17,60882603,9780060000000.0,eng,320,43,2,10/31/2006,HarperCollins
+37731,Just as Long as We're Together,Judy Blume,4.07,330398040,9780330000000.0,eng,202,9375,422,04/09/2001,Macmillan Children's Books
+37734,Wifey / Smart Women,Judy Blume,3.68,743437578,9780740000000.0,eng,560,376,20,10/02/2001,Pocket Books
+37736,Forever...,Judy Blume,3.62,689849737,9780690000000.0,eng,199,239,51,12/01/2002,Atheneum/Richard Jackson Books
+37737,Fudge-a-Mania (Fudge  #4),Judy Blume,4.01,425193829,9780430000000.0,eng,176,26588,538,01/06/2004,Berkley
+37741,Tales of a Fourth Grade Nothing (Fudge  #1),Judy Blume,4.1,425193799,9780430000000.0,eng,144,122085,2156,01/06/2004,Berkley
+37743,Forever . . .,Judy Blume,3.62,033039780X,9780330000000.0,eng,178,45863,2952,06/03/2005,Pan Childrens
+37744,Wifey,Judy Blume,3.36,425206548,9780430000000.0,eng,304,11056,750,09/06/2005,Berkley
+37750,Everything I Needed to Know about Being a Girl I Learned from Judy Blume,Jennifer O'Connell/Meg Cabot/Megan McCafferty/Melissa Senate/Diana Peterfreund/Stephanie Lessing/Laura Ruby/Erica Orloff/Stacey Ballis/Julie Kenner/Kristin Harmel/Jennifer Coburn/Elise Juska/Kyra Davis/Beth Kendrick/Berta Platas/Lynda Curnyn/Kayla Perrin/Cara Lockwood/Alison Pace/Megan Crane/Lara Deloza/Laura Caldwell/Shanna Swendson,3.47,1416531041,9781420000000.0,eng,275,1750,323,06/05/2007,Pocket Books
+37751,BFF*: Just As Long As We're Together / Here's to You  Rachel Robinson (*Best Friends Forever),Judy Blume,4.26,385734077,9780390000000.0,eng,512,479,64,3/27/2007,Delacorte Books for Young Readers
+37766,Yosemite: Its Discovery  Its Wonder and Its People,Margaret Sanborn,3.96,939666502,9780940000000.0,eng,289,23,2,12/01/1989,Yosemite Conservancy
+37772,A Man of the People,Chinua Achebe,3.87,385086164,9780390000000.0,eng,160,3294,208,8/16/2016,Penguin Books
+37773,Collected Poems,Chinua Achebe,3.74,1400076587,9781400000000.0,eng,84,213,25,1/16/2009,Anchor Books
+37774,Arrow of God (The African Trilogy  #3),Chinua Achebe,3.81,385014805,9780390000000.0,eng,230,4198,300,01/01/1989,Anchor Books
+37780,Anatomy of a Boyfriend (Anatomy  #1),Daria Snadowsky,3.41,385733208,9780390000000.0,eng,259,4470,485,01/09/2007,Delacorte Press
+37785,Lithium for Medea,Kate Braverman/Rick Moody,3.95,1583224718,9781580000000.0,eng,362,344,33,03/05/2002,Seven Stories Press
+37790,Die Leiden des Jungen Werther,Johann Wolfgang von Goethe/R. Paulin,3.67,1853993239,9781850000000.0,ger,142,24,1,01/01/1998,Bristol Classical Press
+37804,The Odyssey,Homer/George Herbert Palmer,3.76,486406547,9780490000000.0,en-US,239,242,25,12/23/1998,Dover Publications
+37807,Caesar's Commentaries: On the Gallic War & On the Civil War,Gaius Julius Caesar/James H. Ford/W.A. McDevitte,4.12,976072610,9780980000000.0,eng,340,424,31,10/01/2005,El Paso Norte Press
+37808,The Conquest of Gaul,Gaius Julius Caesar/F.P. Long/Cheryl Walker,3.99,760768951,9780760000000.0,eng,288,56,8,7/16/2005,Barnes  Noble
+37811,The Assassination of Julius Caesar: A People's History of Ancient Rome,Michael Parenti,4.17,1565849426,9781570000000.0,eng,276,685,73,8/30/2004,The New Press
+37813,Letters from the Earth: Uncensored Writings,Mark Twain/Bernard DeVoto/Henry Nash Smith,4.21,60518650,9780060000000.0,eng,321,6568,376,2/17/2004,Harper Perennial Modern Classics
+37815,Mark Twain: Selected Works,Mark Twain,4.22,517053578,9780520000000.0,eng,690,41,1,10/02/1990,Gramercy
+37817,The Blazing Center Study Guide: The Soul-Satisfying Supremacy of God in All Things,John Piper,4.3,1590526856,9781590000000.0,eng,112,20,0,07/03/2006,Multnomah
+37819,The God of Small Things,Arundhati Roy,3.94,60977493,9780060000000.0,en-US,321,6667,722,05/01/1997,HarperCollins
+37824,Balzac und die kleine chinesische Schneiderin,Dai Sijie,3.64,3492238696,9783490000000.0,ger,200,343,15,07/01/2003,Piper Taschenbuch
+37826,The Wit &  Wisdom of Winston Churchill,James C. Humes/Richard M. Nixon,3.98,60925779,9780060000000.0,eng,256,181,15,12/26/2007,Harper Perennial
+37828,Winston Churchill,John Keegan,3.83,670030791,9780670000000.0,en-GB,196,821,91,10/14/2002,Viking Books
+37837,The Illustrated Garden Book: A New Anthology,Robin Lane  Fox/Vita Sackville-West/Freda Titford/Ken Kirkwood,4.19,689118449,9780690000000.0,eng,192,1,1,10/01/1986,Atheneum Books
+37847,The Long Hard Road Out of Hell,Marilyn Manson/Neil Strauss,3.89,60987464,9780060000000.0,eng,275,22293,1141,03/03/1999,It Books
+37848,Dissecting Marilyn Manson,Gavin Baddeley,3.86,859653722,9780860000000.0,eng,192,526,9,10/01/2007,Plexus Publishing
+37852,Marilyn Manson,Kurt Reighley,3.36,312181337,9780310000000.0,en-US,192,116,5,4/15/1998,St. Martin's Griffin
+37854,Marilyn Manson: The Lonely Watchman,Richard D. Nelson,4.0,1597818704,9781600000000.0,eng,224,3,0,2/18/2006,Xulon Press
+37857,Philosophical Papers: Volume 1  Human Agency and Language,Charles Taylor,4.35,521317509,9780520000000.0,eng,304,52,1,3/28/1985,Cambridge University Press
+37858,Sources of the Self: The Making of the Modern Identity,Charles Taylor,4.2,674824261,9780670000000.0,eng,624,1355,54,03/01/1992,Harvard University Press
+37860,The Ethics of Authenticity,Charles Taylor,3.92,674268636,9780670000000.0,eng,152,697,49,9/22/1992,Harvard University Press
+37861,Multiculturalism,Charles Taylor/Amy Gutmann/Michael Walzer/Susan R. Wolf/Shierry Weber Nicholsen/Kwame Anthony Appiah/Jürgen Habermas/Steven C. Rockefeller,3.8,691037795,9780690000000.0,eng,192,341,17,09/11/1994,Princeton University Press
+37863,Charles Taylor,Ruth  Abbey,3.6,521805228,9780520000000.0,eng,220,14,0,1/26/2004,Cambridge University Press
+37869,Built To Last: Building America's Amazing Bridges  Dams  Tunnels  and Skyscrapers (Built to Last),George Sullivan,4.12,439517370,9780440000000.0,eng,128,24,6,10/01/2005,Scholastic Nonfiction
+37875,The Art of the Start: The Time-Tested  Battle-Hardened Guide for Anyone Starting Anything,Guy Kawasaki,3.87,1591840562,9781590000000.0,eng,240,22375,402,09/09/2004,Portfolio
+37877,Mandala Sand Art Kit,Walter Foster Creative Team,1.0,1560107669,9781560000000.0,eng,8,1,0,01/01/2004,Walter Foster Publishing
+37892,The Death Shift: The True Story of Nurse Genene and the Texas Baby Murders,Peter Elkind,3.78,451401964,9780450000000.0,eng,400,118,11,05/01/1990,Onyx
+37900,Turn of the Cards (Wild Cards  #12),George R.R. Martin/Victor Milán,3.69,553561529,9780550000000.0,eng,432,567,18,01/01/1993,Spectra
+37902,Turn of the Cards,Georgina Grey,3.0,449239691,9780450000000.0,eng,0,3,1,05/12/1979,Fawcett Coventry
+37905,Dr. Seuss (First Biographies),Cheryl Carlson,4.33,736850910,9780740000000.0,eng,24,14,1,01/01/2005,Capstone Press
+37909,Go Jump in the Pool! (Macdonald Hall  #2),Gordon Korman,4.16,590442090,9780590000000.0,eng,192,1419,38,01/01/1991,Scholastic
+37911,Shipwreck (Island I),Gordon Korman/Holter Graham,3.8,439023319,9780440000000.0,eng,0,103,14,02/01/2007,Scholastic Audio Books
+37947,The Pusher (87th Precinct  #3),Ed McBain,3.9,752857932,9780750000000.0,eng,192,1098,75,07/03/2003,Orion Books
+37951,Eight Black Horses (87th Precinct  #38),Ed McBain/Mark T. Sullivan,3.92,743463080,9780740000000.0,eng,336,734,40,4/29/2003,Pocket Books
+37952,Fiddlers (87th Precinct  #55),Ed McBain/Otto Penzler,3.86,156032783,9780160000000.0,eng,276,788,85,09/05/2006,Mariner Books
+37954,The Last Dance (87th Precinct  #50),Ed McBain,3.69,671025708,9780670000000.0,eng,336,752,57,12/01/2000,Pocket Books
+37976,The Listener's Bible: NIV,Anonymous/Max McLean,4.6,1931047170,9781930000000.0,eng,77,28,3,01/01/2001,Fellowship for the Performance
+37979,Information Technology for Management: Transforming Organizations in the Digital Economy,Efraim Turban/Dorothy Leidner/James C. Wetherbe/Ephraim McLean/Christy Cheung/Daniel Tse/Maggie Lew,3.93,471705225,9780470000000.0,eng,724,109,3,01/01/2005,John Wiley & Sons
+37986,A Search for What Makes Sense: Finding Faith,Brian D. McLaren/Steve Chalke,3.59,310272661,9780310000000.0,eng,187,132,15,02/11/2007,Zondervan Publishing Company
+37996,Police Brutality: An Anthology,Jill Nelson/Robin D.G. Kelley/Richard Austin/Flores Alexander Forbes/Ron Daniels/Frank Moss/Derrick A. Bell/Claude Andrew Clegg III/Katheryn K. Russell/Patricia J. Williams/Stanley Crouch/Ishmael Reed/Arthur Doye,3.8,393321630,9780390000000.0,eng,320,47,6,5/17/2001,W. W. Norton  Company
+37998,Reluctant Burglar (To Catch a Thief #1),Jill Elizabeth Nelson,3.67,1590526864,9781590000000.0,en-US,345,177,27,8/15/2006,Multnomah Books
+38004,Q: The Autobiography of Quincy Jones,Quincy Jones,4.09,767905105,9780770000000.0,eng,432,639,51,10/08/2002,Three Rivers Press (CA)
+38012,Mansion On The Hill: Dylan Young Geffen Springsteen and the Head-on-Collision of Rock and Commerce,Fred Goodman,3.91,712645624,9780710000000.0,eng,448,2,0,07/03/2003,Pimlico
+38017,Lady on the Hill: How Biltmore Estate Became an American Icon,Howard E. Covington Jr.,3.91,471758183,9780470000000.0,eng,331,414,60,03/01/2006,Wiley
+38019,Hit Men: Power Brokers and Fast Money Inside the Music Business,Fredric Dannen/Erroll McDonald,3.94,679730613,9780680000000.0,eng,432,689,44,07/02/1991,Vintage
+38030,Savannah Blues (Weezie and Bebe Mysteries  #1),Mary Kay Andrews,3.99,60519134,9780060000000.0,en-US,404,16006,1049,07/10/2012,Harper Paperbacks
+38042,The Last Shogun: The Life of Tokugawa Yoshinobu,Ryōtarō Shiba/Juliet Winters Carpenter,3.76,1568363567,9781570000000.0,eng,256,296,29,8/20/2004,Kodansha America
+38044,Shōgun (Asian Saga  #1),James Clavell,4.39,340766166,9780340000000.0,eng,1152,4902,299,12/02/1999,Hodder & Stoughton
+38049,Whoreson,Donald Goines,4.32,870679945,9780870000000.0,en-US,320,1493,104,01/01/2000,Holloway House
+38056,Crime Partners,Donald Goines,4.2,870678817,9780870000000.0,eng,159,474,21,11/01/2000,Holloway House
+38066,Jonah's Gourd Vine,Zora Neale Hurston,3.99,60916516,9780060000000.0,eng,229,1679,82,1/22/1990,Amistad
+38068,The Complete Stories,Zora Neale Hurston/Henry Louis Gates Jr./Sieglinde Lemke,4.25,60921714,9780060000000.0,eng,336,756,45,01/05/1996,Amistad
+38069,Zora Neale Hurston: A Literary Biography,Robert E. Hemenway/Alice Walker,4.1,252008073,9780250000000.0,eng,408,103,9,09/01/1980,University of Illinois Press
+38070,Zora Neale Hurston: Critical Perspectives Past And Present (Amistad Literary Series),Henry Louis Gates Jr./Kwame Anthony Appiah,4.2,1567430287,9781570000000.0,eng,238,24,0,02/11/2000,Harper Paperbacks
+38075,The Tarot Cafe  #1,Sang-Sun Park,3.88,1595325557,9781600000000.0,en-US,176,1829,85,03/07/2017,TokyoPop
+38083,Photography's Other Histories,Christopher Pinney/Nicholas Peterson,3.83,822331136,9780820000000.0,eng,296,24,2,4/24/2003,Duke University Press Books
+38085,Photos of the Gods: The Printed Image and Political Struggle in India,Christopher Pinney,3.96,1861891849,9781860000000.0,eng,239,25,0,02/04/2004,Reaktion Books
+38093,Antitrust Law,Richard A. Posner,4.0,226675769,9780230000000.0,en-US,304,33,1,12/01/2001,University of Chicago Press
+38107,Case Closed: Lee Harvey Oswald and the Assassination of JFK,Gerald Posner,3.96,1400034620,9781400000000.0,eng,640,1194,107,09/09/2003,Anchor Books
+38123,Sex and Reason,Richard A. Posner,3.91,674802802,9780670000000.0,eng,458,76,13,01/01/1992,Harvard University Press
+38128,Law and Literature,Richard A. Posner,3.61,674514718,9780670000000.0,eng,432,95,6,3/15/1998,Harvard University Press
+38150,Orlando: A Biography: Film Screenplay,Sally Potter/Virginia Woolf,4.07,571172954,9780570000000.0,eng,75,84,7,10/25/2013,Faber & Faber
+38153,Orlando Furioso: Part Two,Ludovico Ariosto/Barbara Reynolds,4.23,014044310X,9780140000000.0,eng,800,133,14,9/29/1977,Penguin Classics
+38154,Orlando Furioso,Ludovico Ariosto/Guido Waldman,4.02,192836773,9780190000000.0,eng,656,2339,64,1/28/1999,Oxford University Press
+38155,A People's Tragedy: The Russian Revolution: 1891-1924,Orlando Figes,4.31,014024364X,9780140000000.0,eng,1024,2931,222,03/01/1998,Penguin Books
+38169,Alas  Babylon,Pat Frank,4.08,60741872,9780060000000.0,eng,323,33140,2614,07/05/2005,Harper Perennial Modern Classics
+38175,The South Beach Diet: The Delicious  Doctor-Designed  Foolproof Plan for Fast and Healthy Weight Loss,Arthur Agatston,3.45,1579546463,9781580000000.0,en-US,310,553,18,04/05/2003,Rodale Books
+38180,On the Beach,Nevil Shute,3.94,1842322761,9781840000000.0,eng,296,28414,1744,10/31/2002,House of Stratus
+38198,The Book of Merlyn: The Unpublished Conclusion to The Once & Future King,T.H. White,3.96,292707185,9780290000000.0,eng,137,109,22,09/01/1977,University of Texas Press (Austin/London)
+38210,The Art of Happiness,Dalai Lama XIV/Howard C. Cutler,4.16,1573221112,9781570000000.0,eng,336,80161,2036,10/26/1998,Riverhead Hardcover
+38211,The Art of Happiness at Work,Dalai Lama XIV/Howard C. Cutler,3.95,340831200,9780340000000.0,eng,224,1615,95,8/15/2005,Hodder Mobius
+38212,Zen and the Art of Happiness,Chris Prentiss,4.05,943015537,9780940000000.0,eng,145,2955,270,6/28/2006,Power Press
+38215,Lovingkindness: The Revolutionary Art of Happiness,Sharon Salzberg/Jon Kabat-Zinn,4.24,1590301870,9781590000000.0,eng,256,4373,144,12/28/2004,Shambhala
+38228,Kaplan & Sadock's Synopsis of Psychiatry: Behavioral Sciences/Clinical Psychiatry,Benjamin James Sadock/Virginia Alcott Sadock,4.22,781731836,9780780000000.0,eng,1500,246,9,12/16/2002,LWW
+38230,How to Go to College Almost for Free  Updated,Ben R. Kaplan,3.45,60937653,9780060000000.0,en-US,400,111,11,9/18/2001,Collins Reference
+38238,Australia,Kate Hemphill/Zoë Ross/Louise Bostock Lang,4.07,756615690,9780760000000.0,eng,616,69,0,08/01/2006,DK Publishing (Dorling Kindersley)
+38242,Let's Go Australia on a Budget,Let's Go Inc.,3.93,031236086X,9780310000000.0,en-US,784,9,2,11/28/2006,Let's Go Publications
+38244,National Geographic Traveler: Australia,Roff Smith,3.8,792238931,9780790000000.0,eng,400,9,2,10/05/1999,National Geographic
+38262,Moll Flanders,Daniel Defoe/Mark Schorer/Georgina Sutton,3.52,1853260738,9781850000000.0,eng,339,35344,975,10/05/1993,Wordsworth Editions
+38264,Moll Flanders,Daniel Defoe/Virginia Woolf,3.52,375760105,9780380000000.0,eng,335,387,54,06/11/2002,Modern Library
+38288,The Leatherstocking Tales  Vol. 2: The Pathfinder / The Deerslayer,James Fenimore Cooper/Blake Nevius,3.98,940450216,9780940000000.0,eng,1051,130,12,07/01/1985,Library of America
+38296,The Last of the Mohicans (The Leatherstocking Tales #2),James Fenimore Cooper,3.7,553213296,9780550000000.0,eng,410,75121,1797,06/01/1982,Bantam Classics
+38300,A River Runs Through It,Norman Maclean/Barry Moser,4.17,226500608,9780230000000.0,eng,168,6495,388,5/15/1989,University of Chicago Press
+38302,Empires of the Monsoon: A History of the Indian Ocean and Its Invaders,Richard Seymour Hall,4.39,6380832,9780010000000.0,eng,608,67,12,01/01/1998,HarperCollins Publishers
+38311,The Next Whole Earth Catalog: Access to Tools,Stewart Brand,4.45,394707761,9780390000000.0,eng,608,24,0,11/06/1981,Random House Inc.
+38313,Whole Earth Software Catalog,Stewart Brand,3.92,385191669,9780390000000.0,en-US,208,13,1,10/01/1984,Doubleday Books
+38315,Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets,Nassim Nicholas Taleb,4.06,812975219,9780810000000.0,eng,368,40155,1550,8/23/2005,Random House Trade Paperbacks
+38330,El Borbah,Charles Burns,3.94,1560976934,9781560000000.0,en-US,96,740,34,1/17/2006,Fantagraphics
+38331,Big Baby,Charles Burns,3.96,1560978007,9781560000000.0,eng,96,1368,58,2/17/2007,Fantagraphics
+38333,Black Hole,Charles Burns,3.84,037542380X,9780380000000.0,eng,368,38261,2037,10/18/2005,Pantheon
+38336,Black Hole  tome 3: Visions,Charles Burns,4.0,2840555522,9782840000000.0,fre,63,3,0,3/15/2001,Delcourt
+38337,Black Hole  tome 4 : Reine des lézards,Charles Burns,4.26,2840558874,9782840000000.0,fre,64,19,1,10/21/2002,Delcourt
+38338,09-Nov,Noam Chomsky/Greg Ruggiero/Marili Margomenou/Miguel Mora/Natalie Levisalles/Il Manifesto/Hartford Courant/David Barsamian/Radio B92/Elise Fried/Peter Kreysler/Gionarle del Popolo/Michael Albert,3.73,1583224890,9781580000000.0,eng,140,3070,172,12/04/2001,Seven Stories Press
+38339,Secrets  Lies and Democracy,Noam Chomsky/David Barsamian,3.98,1878825046,9781880000000.0,eng,128,934,27,07/01/2002,Odonian Press
+38340,Syntactic Structures,Noam Chomsky/David W. Lightfoot,3.84,3110172798,9783110000000.0,eng,135,609,31,09/10/2012,Walter de Gruyter
+38341,The Umbrella of US Power: The Universal Declaration of Human Rights & the Contradictions of US Policy,Noam Chomsky/Greg Ruggiero,3.96,1583225471,9781580000000.0,en-US,80,155,7,07/09/2002,Seven Stories Press
+38344,The Common Good,Noam Chomsky/David Barsamian/Arthur Naiman,4.01,1878825089,9781880000000.0,eng,190,435,18,07/01/2002,Odonian Press
+38346,The Curious Sofa,Edward Gorey,4.18,151003076,9780150000000.0,eng,64,296,20,9/15/1997,Harcourt Brace & Company
+38376,LOVE MODE 11,Yuki Shimizu/志水 ゆき,4.37,4835214102,9784840000000.0,jpn,182,4,0,01/10/2003,ビブロス
+38379,Ring (Ring  #1),Kōji Suzuki/Robert B. Rohmer/Glynne Walley,3.82,1932234411,9781930000000.0,eng,282,11396,742,4/25/2004,Vertical
+38385,The Ring Volume 4 Birthday,Kōji Suzuki/Sakura Mizuki,3.58,1593072678,9781590000000.0,eng,160,56,2,6/21/2005,Dark Horse Manga
+38398,Strings  Conformal Fields  and M-Theory (Graduate Texts in Contemporary Physics),Michio Kaku,4.15,387988920,9780390000000.0,eng,531,49,1,12/17/1999,Springer
+38399,Introduction to Superstrings and M-Theory,Michio Kaku/Joseph L. Birman/H. Eugene Stanley/J.W. Lynn/M.P. Silverman/M. Voloshin,4.27,387985891,9780390000000.0,eng,587,216,2,7/30/1999,Springer
+38400,To Win a Nuclear War: The Pentagon's Secret War Plans,Michio Kaku/Daniel Axelrod,3.94,896083217,9780900000000.0,en-US,374,2,0,07/01/1999,South End Press (Boston)
+38401,Company,Max Barry,3.73,1400079373,9781400000000.0,eng,338,4938,404,3/13/2007,Vintage
+38412,Fermat's Enigma: The Epic Quest to Solve the World's Greatest Mathematical Problem,Simon Singh,4.25,385493622,9780390000000.0,eng,315,19473,692,09/08/1998,Anchor
+38414,The Science Book,Peter Tallack/Simon Singh,4.05,1841882542,9781840000000.0,eng,528,25,1,3/28/2006,Weidenfeld & Nicolson
+38424,Kristy's Great Idea,Raina Telgemeier/Ann M. Martin,4.17,1417699671,9781420000000.0,eng,186,24732,726,04/01/2006,Turtleback Books
+38426,The Actor in You: Sixteen Simple Steps to Understanding the Art of Acting,Robert Benedetti,3.65,205359213,9780210000000.0,en-US,131,11,0,03/04/2002,Allyn & Bacon
+38429,The Actor in You: Sixteen Simple Steps to Understanding the Art of Acting,Robert Benedetti,3.65,205479804,9780210000000.0,eng,160,5,1,10/01/2005,Allyn & Bacon
+38436,The Cat Who Played Post Office (Cat Who...  #6),Lilian Jackson Braun,3.97,747250375,9780750000000.0,eng,224,6366,200,05/09/1996,Headline
+38457,Just Above My Head,James Baldwin,4.38,385334567,9780390000000.0,eng,584,1485,159,6/13/2000,Delta
+38458,Nobody Knows My Name,James Baldwin,4.35,679744738,9780680000000.0,eng,242,2218,146,12/01/1992,Vintage
+38461,Tell Me How Long the Train's Been Gone,James Baldwin,4.26,375701893,9780380000000.0,eng,496,2162,144,2/17/1998,Vintage
+38463,If Beale Street Could Talk,James Baldwin,4.23,307275930,9780310000000.0,eng,197,19731,2158,10/10/2006,Vintage
+38465,Tell My Horse: Voodoo and Life in Haiti and Jamaica,Zora Neale Hurston,3.96,60916494,9780060000000.0,eng,311,1450,105,2/28/1990,HarperCollins
+38466,Wrapped in Rainbows: The Life of Zora Neale Hurston,Valerie Boyd,4.32,743253299,9780740000000.0,eng,528,893,97,02/03/2004,Scribner
+38469,Going to Meet the Man,James Baldwin,4.35,679761799,9780680000000.0,eng,249,4022,309,4/25/1995,Vintage Books a division of Random House
+38471,The Amen Corner,James Baldwin,3.9,375701885,9780380000000.0,eng,112,467,32,2/17/1998,Vintage
+38473,Blues for Mister Charlie,James Baldwin,4.13,679761780,9780680000000.0,eng,144,1202,80,4/25/1995,Vintage
+38476,Every Tongue Got to Confess: Negro Folk-tales from the Gulf States,Zora Neale Hurston/Carla Kaplan/John Edgar Wideman,3.97,60934549,9780060000000.0,eng,320,317,47,10/01/2002,Amistad
+38496,Factotum,Charles Bukowski,3.97,006113127X,9780060000000.0,en-US,208,414,56,8/15/2006,Ecco
+38500,Women,Charles Bukowski,3.86,61177598,9780060000000.0,eng,291,52415,2081,7/29/2014,Ecco
+38501,Ham on Rye,Charles Bukowski,4.14,006117758X,9780060000000.0,eng,288,65829,2318,7/29/2014,Ecco
+38503,Tales of Ordinary Madness,Charles Bukowski,3.92,872861554,9780870000000.0,eng,238,16544,431,01/01/2001,City Lights Publishers
+38504,You Get So Alone at Times That it Just Makes Sense,Charles Bukowski,4.24,876856830,9780880000000.0,eng,320,12358,533,06/05/1986,Black Sparrow Press
+38510,Tiempo De Matar,John Grisham,4.07,8408041258,9788410000000.0,spa,0,3,0,07/01/2003,Planeta Publishing
+38511,The Wakefields of Sweet Valley (Sweet Valley High Magna Editions #1),Francine Pascal/Kate William,3.92,553292781,9780550000000.0,eng,346,1425,73,4/24/1993,Sweet Valley
+38513,The Wedding (Sweet Valley High  #98),Francine Pascal/Kate William,3.52,553298550,9780550000000.0,eng,217,314,11,4/28/1994,Bantam Books
+38514,Alone in the Crowd (Sweet Valley High  #28),Francine Pascal/Kate William,3.44,553280872,9780550000000.0,eng,136,695,27,04/01/1986,Bantam Books
+38515,Taking Sides (Sweet Valley High  #31),Francine Pascal/Kate William,3.38,553258869,9780550000000.0,en-GB,134,813,23,09/01/1986,Bantam Books
+38517,The Wakefield Legacy: The Untold Story (Sweet Valley High Magna Editions #2),Francine Pascal/Kate William,3.94,553297945,9780550000000.0,eng,345,805,31,05/01/1992,Bantam Books
+38522,Love at First Bite (Dark-Hunter #6.5; Wild Wulfs of London #2.5; Companion #3.5),Sherrilyn Kenyon/L.A. Banks/Susan Squires/Ronda Thompson,4.06,312349297,9780310000000.0,eng,373,7959,200,10/03/2006,St. Martin's Press
+38524,Spunk & Bite: A Writer's Guide to Punchier  More Engaging Language & Style,Arthur Plotnik,3.9,375721150,9780380000000.0,eng,263,690,87,11/15/2005,Random House Reference Publishing
+38528,Cookies: Bite-Size Life Lessons,Amy Krouse Rosenthal/Jane Dyer,4.18,006058081X,9780060000000.0,eng,40,1162,185,05/02/2006,HarperCollins
+38529,Bite Me If You Can (Argeneau #6),Lynsay Sands,4.27,60774126,9780060000000.0,eng,384,17950,465,1/30/2007,Avon
+38530,Aftershock  (Sweet Valley High Super Edition  #12),Francine Pascal/Kate William,3.7,553492365,9780550000000.0,eng,227,286,7,11/10/1998,Bantam
+38531,Sweet 18 (SVH Senior Year  #48),Francine Pascal/Kate William,3.47,553493973,9780550000000.0,en-US,179,116,3,1/14/2003,Bantam
+38532,The New Jessica (Sweet Valley High  #32),Francine Pascal/Kate William,3.44,553275607,9780550000000.0,eng,136,1054,25,10/01/1986,Bantam Books
+38533,Double Love (Sweet Valley High  #1),Francine Pascal/Kate William,3.54,553275674,9780550000000.0,eng,182,108,17,09/01/1984,Bantam Books
+38536,Happily Ever After (Sweet Valley High  #134),Francine Pascal/Kate William,3.58,553570684,9780550000000.0,eng,199,251,5,08/11/1997,Bantam
+38538,Forbidden Love (Sweet Valley High #34),Francine Pascal/Kate William,3.32,553275216,9780550000000.0,eng,138,5,0,01/01/1987,Bantam Books
+38539,Control Freak (SVH Senior Year  #35),Francine Pascal,3.33,553493841,9780550000000.0,eng,192,120,1,11/13/2001,Bantam
+38547,Mosquito Bite,Alexandra Siy/Dennis Kunkel,3.51,157091592X,9781570000000.0,eng,32,72,19,02/01/2006,Charlesbridge
+38548,Love Bites (Argeneau #2),Lynsay Sands,4.13,505525534,9780510000000.0,eng,373,18631,564,01/06/2004,Love Spell
+38549,Nigella Bites: From Family Meals to Elegant Dinners--Easy  Delectable Recipes for Any Occasion,Nigella Lawson/Francesca Yorke,4.0,786868694,9780790000000.0,eng,254,6587,71,11/13/2002,Hachette Books
+38551,The Pursuit of History,John Tosh/Sean Lang,3.46,1405823518,9781410000000.0,en-US,357,374,17,02/01/2006,Longman Publishing Group
+38560,Vegas Bites: A Werewolf Romance Anthology,L.A. Banks/J.M. Jeffries/Seressie Glass/Natalie Dunbar,4.12,1600430015,9781600000000.0,en-US,346,195,6,11/15/2006,Parker Publishing Llc
+38562,A Bite to Remember (Argeneau #5),Lynsay Sands,4.24,006077407X,9780060000000.0,eng,362,17710,393,6/27/2006,Avon
+38564,Boys that Bite (Blood Coven Vampire  #1),Mari Mancusi,3.68,425209423,9780430000000.0,en-US,272,10669,498,04/04/2006,Berkley
+38568,A Quick Bite (Argeneau #1),Lynsay Sands,3.91,60773758,9780060000000.0,eng,360,35275,1370,3/31/2020,Avon
+38570,Bite Club (Bite Club  #1),Howard Chaykin/David Tischman/David Hahn,3.07,1845760654,9781850000000.0,en-US,144,148,12,4/20/2005,Vertigo (DC Comics)
+38572,Last Bite,Nancy Verde Barr,3.42,1565124952,9781570000000.0,eng,308,372,66,06/09/2006,Algonquin Books
+38583,Bite Me!: An Unofficial Guide to the World of Buffy the Vampire Slayer,Nikki Stafford,4.13,1550225405,9781550000000.0,en-US,450,338,8,09/01/2002,ECW Press
+38585,Small Bites  Big Nights: Seductive Little Plates for Intimate Occasions and Lavish Parties,Govind Armstrong/Lisa Romerein/Tyler Florence,3.6,307337936,9780310000000.0,eng,256,20,3,04/10/2007,Clarkson Potter
+38592,Plants Bite Back! (DK Readers),Richard Platt,3.88,789447541,635517000000.0,eng,48,21,5,10/25/1999,DK Publishing (Dorling Kindersley)
+38593,Last Wish (Sweet Valley High),Francine Pascal,3.91,553507354,9780550000000.0,eng,231,2,0,05/01/1999,Bantam Books
+38597,Starting Over (Sweet Valley High  #33),Francine Pascal/Kate William,3.35,553274910,9780550000000.0,eng,153,3,0,12/01/1986,Bantam Books
+38601,Dear Sister (Sweet Valley High  #7),Francine Pascal/Kate William,3.53,553276727,9780550000000.0,eng,160,2071,81,11/01/1984,Bantam Books
+38609,Don't Wait for Your Ship to Come In... Swim Out to Meet It!: Bite-Sized Inspirations to Help You Achieve Your Dreams,John Mason,3.22,1562920588,9781560000000.0,eng,160,9,2,12/01/1994,Honor Books
+38619,Magic Bites (Kate Daniels  #1),Ilona Andrews,4.07,441014895,9780440000000.0,eng,261,86675,5395,3/27/2007,Ace
+38633,The Secret Garden,Frances Hodgson Burnett/Graham Rust,4.13,590240773,9780590000000.0,eng,298,254,24,06/01/1999,Scholastic
+38638,The Secret Garden,Frances Hodgson Burnett/Scott McKowen,4.13,1402714599,9781400000000.0,eng,248,575,61,10/01/2004,Sterling
+38640,The Secret Garden Coloring Book,Brian Doherty/Frances Hodgson Burnett/Thea Kliros,4.25,486276805,9780490000000.0,eng,48,4,0,7/16/2014,Dover Publications
+38643,A Little Princess,Frances Hodgson Burnett/Scott McKowen,4.2,1402714548,9781400000000.0,en-GB,208,500,54,10/01/2004,Sterling
+38647,A Little Princess,Tania Zamorsky/Frances Hodgson Burnett/Lucy Corvino/Arthur Pober,4.16,1402712758,9781400000000.0,eng,160,3784,84,03/01/2005,Sterling
+38648,The Little Princesses,Marion Crawford/Jennie Bond,4.03,312312156,9780310000000.0,eng,230,416,65,04/10/2003,St. Martin's Press
+38650,Laura Ingalls Wilder Country: The People and places in Laura Ingalls Wilder's life and books,William   Anderson/Leslie A.  Kelly,4.24,60973463,9780060000000.0,eng,120,91,7,12/01/1995,Harper Perennial
+38656,The Collected Works of C.S. Lewis,C.S. Lewis/Michael Hauge,4.45,884861511,9780880000000.0,en-US,537,39,3,3/30/1996,Thomas Nelson
+38664,Pedro Páramo,Juan Rulfo,4.05,8433920707,9788430000000.0,spa,122,504,44,10/31/2013,Anagrama
+38665,Pedro Páramo / El Llano en llamas,Juan Rulfo,4.29,9703705774,9788410000000.0,spa,290,5103,118,04/01/2006,Planeta
+38667,Pedro Páramo,Juan Rulfo,4.05,9685208557,9789690000000.0,spa,132,1386,209,12/01/2009,Editorial RM
+38669,Pedro Paramo / El Llano En Llamas,Juan Rulfo,4.29,840804575X,9788410000000.0,spa,290,6,2,11/01/2002,Planeta Publishing
+38670,Pedro Páramo,Juan Rulfo,4.05,351801434X,9783520000000.0,ger,132,450,32,04/01/1999,Suhrkamp
+38673,Peter Pan in Kensington Gardens / Peter and Wendy,J.M. Barrie/Peter Hollindale,4.06,192839292,9780190000000.0,eng,288,4206,102,10/28/1999,Oxford University Press
+38674,Walt Disney's Peter Pan (A Little Golden Book),Walt Disney Company/Al Dempster,4.39,736402381,9780740000000.0,eng,24,5661,87,1/23/2007,Golden/Disney
+38677,Peter Pan And Wendy,J.M. Barrie/Ken Geist,4.08,439672570,9780440000000.0,eng,224,141,23,10/01/2004,Orchard Books
+38678,Peter Pan,J.M. Barrie/Tim Curry,4.08,743564529,9780740000000.0,eng,5,46,7,10/05/2006,Simon  Schuster Audio
+38680,Adventures of Huckleberry Finn,Mark Twain,3.82,440300282,9780440000000.0,eng,352,90,2,11/15/1977,Laurel
+38686,Alice in Wonderland / Hunting of the Snark,Lewis Carroll/Donald J. Gray,4.06,393958043,9780390000000.0,eng,416,1404,87,4/17/1992,W. W. Norton & Company
+38695,Holes,Louis Sachar,3.96,440419468,9780440000000.0,eng,233,2699,230,03/11/2003,Yearling Books
+38700,Rabbit Hole,David Lindsay-Abaire,4.06,1559362901,9781560000000.0,eng,157,6634,185,09/01/2006,Theatre Communications Group
+38707,A Magic Crystal? (Marvin Redpost),Louis Sachar,3.76,747562830,9780750000000.0,eng,128,227,21,05/02/2005,Bloomsbury Publishing PLC
+38709,Holes (Holes  #1),Louis Sachar,3.96,439244196,9780440000000.0,eng,233,887554,17547,09/02/2000,Scholastic
+38710,Super Fast Out of Control,Louis Sachar,3.75,747566828,9780750000000.0,eng,128,0,0,05/02/2005,Bloomsbury Publishing PLC
+38717,The Anthology at the End of the Universe: Leading Science Fiction Authors on Douglas Adams' The Hitchhiker's Guide to the Galaxy,Glenn Yeffeth/Don DeBrandt/Cory Doctorow/Bruce Bethke/Adam Roberts/Lawrence Watt-Evans/Selina Rosen/Mark W. Tiedemann/Jacqueline Carey/Susan Sizemore/Vox Day/Stephen Baxter/A.M. Dellamonica/Marguerite Krause/John Shirley/Adam-Troy Castro/Amy Berner/Maria  Alexander/Marie-Catherine Caillava/Mike Byrne,3.86,1932100563,9781930000000.0,eng,240,129,10,03/11/2005,Smart Pop
+38723,The Feminine Mystique,Betty Friedan/Anna Quindlen,3.86,393322572,9780390000000.0,eng,592,10108,650,9/17/2001,W. W. Norton  Company
+38724,"Betty Friedan and the Making of ""The Feminine Mystique"": The American Left  the Cold War  and Modern Feminism",Daniel Horowitz,3.59,1558492763,9781560000000.0,eng,384,58,6,9/27/2000,University of Massachusetts Press
+38735,James Herriot's Treasury for Children: Warm and Joyful Tales by the Author of All Creatures Great and Small,James Herriot/Ruth Brown/Peter Barrett,4.45,312085125,9780310000000.0,eng,260,10128,245,09/01/1992,St. Martin's Press
+38736,James Herriot's Dog Stories,James Herriot/Victor G. Ambrus,4.4,312364520,9780310000000.0,eng,464,5692,214,11/14/2006,St. Martin's Griffin
+38737,The Real James Herriot: A Memoir of My Father,Jim Wight,4.2,345434900,9780350000000.0,en-US,371,4247,153,05/01/2001,Ballantine Books
+38739,The Lord God Made Them All,James Herriot,4.42,312966202,9780310000000.0,eng,373,12580,197,9/15/1998,St. Martin's Paperbacks
+38746,Who Was Mark Twain?,April Jones Prince/Nancy Harrison/John   O'Brien,4.16,448433192,9780450000000.0,eng,112,529,56,5/24/2004,Grosset & Dunlap
+38747,Roughing It,Mark Twain/Henry B. Wonham,3.89,743436504,9780740000000.0,eng,560,5846,494,4/29/2003,Pocket Books
+38750,The Complete Essays of Mark Twain,Mark Twain/Charles Neider,4.33,306809575,9780310000000.0,eng,732,195,15,11/02/2000,Da Capo Press
+38752,Death of a Salesman,Arthur  Miller,3.51,670261556,9780670000000.0,eng,139,1223,104,5/18/1949,Viking Books
+38755,The Portable Arthur Miller,Arthur  Miller/Harold Clurman/Christopher Bigsby,4.21,142437557,9780140000000.0,eng,575,232,6,7/29/2003,Penguin Books
+38756,Collected Plays 1944-1961,Arthur  Miller/Tony Kushner,4.22,193108291X,9781930000000.0,en-US,774,419,10,02/02/2006,Library of America
+38761,Incident at Vichy,Arthur  Miller,3.96,140481931,9780140000000.0,eng,80,686,54,04/02/1985,Penguin Books
+38769,Discovering Great Artists: Hands-On Art for Children in the Styles of the Great Masters,MaryAnn F. Kohl/Kim Solga/Rebecca Van Slyke,4.24,935607099,9780940000000.0,eng,144,400,29,05/01/1997,Chicago Review Press
+38773,The Portable Thomas Jefferson,Thomas Jefferson/Merrill D. Peterson,4.05,140150803,9780140000000.0,eng,589,171,6,10/27/1977,Penguin Classics
+38775,Autobiography of Thomas Jefferson,Thomas Jefferson,3.89,486442896,9780490000000.0,eng,112,696,34,06/03/2005,Dover Publications
+38786,Juan Rulfo's Mexico,Juan Rulfo/Carlos Fuentes/Margo Glantz/Jorge Alberto Lozoya/Eduardo Rivero/Víctor Jiménez/E. Billeter,4.47,158834097X,9781590000000.0,eng,223,41,3,8/17/2002,Smithsonian Books
+38787,Pedro Páramo,Juan Rulfo/Margaret Sayers Peden/Susan Sontag,4.05,802133908,9780800000000.0,eng,128,28102,1511,03/10/1994,Grove Press
+38788,The Burning Plain and Other Stories,Juan Rulfo/Kermit Oliver/George D. Schade,4.19,292701322,9780290000000.0,en-US,191,337,45,01/01/1971,University of Texas Press
+38803,Laughter and Tears: A Family's Journey to Understanding the Autism Spectrum,Ann Hewetson,4.0,1843103311,9781840000000.0,eng,224,4,1,1/15/2005,Jessica Kingsley Publishers
+38804,The Irish Anatomist: A Study of Flann O'Brien,Keith Donohue,5.0,1930901356,9781930000000.0,eng,222,1,0,7/25/2003,Academica Press
+38826,Quito 1599: City and Colony in Transition,Kris Lane/Lyman L. Johnson,3.52,082632357X,9780830000000.0,eng,312,22,2,7/26/2002,University of New Mexico Press
+38827,1599: A Year in the Life of William Shakespeare,James Shapiro,4.09,571214800,9780570000000.0,eng,429,34,6,09/01/2005,Faber & Faber
+38830,Stranger from the Past,Penny Jordan,3.23,373115997,9780370000000.0,eng,224,29,7,9/24/1993,Harlequin Presents
+38835,The Olive Farm: A Memoir of Life  Love  and Olive Oil in the South of France,Carol Drinkwater,3.81,142001309,9780140000000.0,eng,336,3269,174,6/25/2002,Penguin Books
+38855,Confederates in the Attic: Dispatches from the Unfinished Civil War,Tony Horwitz,4.09,067975833X,9780680000000.0,eng,406,19207,1596,2/22/1999,Vintage
+38860,Convergence Culture: Where Old and New Media Collide,Henry Jenkins,3.85,814742815,9780810000000.0,en-GB,308,3147,118,08/01/2006,New York University Press
+38874,The Sling and the Stone: On War in the 21st Century,Thomas X. Hammes,3.89,760324077,9780760000000.0,eng,336,698,36,2/17/2006,Zenith Press
+38892,Mistletoe,Hailey Abbott/Melissa de la Cruz/Aimee Friedman/Nina Malkin,3.41,439863686,9780440000000.0,eng,222,541,57,10/01/2006,Scholastic Paperbacks
+38898,The Guide to Hollywood and Beverly Hills,Charles Lockwood,4.33,517550369,9780520000000.0,eng,174,3,0,1/16/1984,Random House Value Publishing
+38905,Follow Your Heart's Vegetarian Soup Cookbook,Janice Cook Migliaccio,3.47,880071311,9780880000000.0,eng,127,15,1,12/31/1983,Woodbridge Press Publishing Company
+38911,Your Best Friend's Boyfriend (Follow Your Heart  #1),J.E. Bright,3.34,439791405,9780440000000.0,eng,240,49,5,01/01/2006,Scholastic Paperbacks
+38913,Follow Your Heart,Susanna Tamaro/John T. Cullen,3.59,385316577,9780390000000.0,eng,208,3294,213,08/01/1996,Delta
+38917,Naughty Little Secret,Shayla Black/Shelley Bradley,3.73,1599982935,9781600000000.0,eng,212,2323,161,08/01/2006,Samhain Publishing
+38918,No Accident (Little Secrets  #2),Emily Blake,4.16,439829135,9780440000000.0,eng,160,324,16,05/01/2006,Scholastic Paperbacks
+38924,Dirty Little Secrets (Marisela Morales/Dirty #1),Julie Leto,3.58,1416501622,9781420000000.0,eng,352,444,51,5/31/2005,Gallery Books
+38925,Dirty Little Secrets,Joy King,4.15,031235407X,9780310000000.0,eng,256,304,31,5/30/2006,St. Martin's Griffin
+38928,Three Little Secrets (MacLachlan Family  #4),Liz Carlyle,3.84,743496124,9780740000000.0,eng,384,1181,50,04/01/2006,Pocket Star
+38936,Lori's Little Secret (Bravo Family  #15) (Bravo Family Ties Miniseries  #3),Christine Rimmer,3.76,373246838,9780370000000.0,eng,248,101,6,05/01/2005,Silhouette
+38951,The Day My Butt Went Psycho,Andy Griffiths/Miles Thompson,3.73,439424690,9780440000000.0,eng,220,1853,232,04/01/2003,Scholastic  Inc.
