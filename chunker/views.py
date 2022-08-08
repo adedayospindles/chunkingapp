@@ -1,3 +1,4 @@
+from lib2to3.pgen2.parse import ParseError
 from django.shortcuts import render,redirect
 from django.http import HttpResponse
 from django.contrib import messages
@@ -42,17 +43,41 @@ def splitCSV(request):
         if file_path.split(".")[-1] == 'csv': 
             
             file_size = os.path.getsize(file_path)
-            no_file_row = len(pd.read_csv(file_path)) - 1
-            no_of_chuncked_file = math.ceil(file_size/user_specified_size)
-            chunksize_user_specified_size = math.ceil(no_file_row/no_of_chuncked_file)
-            folder_name = file_path.split(".")[0]
-            print(folder_name)
-            os.makedirs(folder_name)
-            index = 0
-            for chunk in pd.read_csv(file_path, chunksize=chunksize_user_specified_size):
-                chunk.to_csv(f"{folder_name}/file{index}.csv".format(index), index=False)
-                index += 1
+            try:
+                no_file_row = len(pd.read_csv(file_path)) - 1
+           
+                no_of_chuncked_file = math.ceil(file_size/user_specified_size)
+                chunksize_user_specified_size = math.ceil(no_file_row/no_of_chuncked_file)
+                folder_name = file_path.split(".")[0]
+                os.makedirs(folder_name)
+                index = 0
+                for chunk in pd.read_csv(file_path, chunksize=chunksize_user_specified_size):
+                    chunk.to_csv(f"{folder_name}/file{index}.csv".format(index), index=False)
+                    index += 1
 
+                # live server
+                fs = folder_name.split("/")[-1]
+                # local host
+                # fs = folder_name.split("\\")[-1]
+                outputfile = str(settings.MEDIA_ROOT) + f"/{fs}"
+                
+                shutil.make_archive(outputfile, 'zip', folder_name)
+                shutil.rmtree(folder_name)
+                zip_file_name = f"{fs}.zip"
+                #local host
+                # zip_file = f"/{outputfile}.zip"
+                # live server
+                zip_file = f"/{outputfile.split('/')[-1]}.zip"
+                file= File.objects.create(user=request.user, file_name=zip_file_name, zip_file=zip_file)
+                file.save()
+                os.remove(file_path)
+                context = {"file": file}
+                # context  = {}
+                return render(request, "splitcsv.html", context)
+
+            except:
+                messages.error(request, "Please upload a valid csv file")
+                return redirect(request.META.get("HTTP_REFERER"))
         # if file_path.split(".")[-1] == 'json':
         #     file_size = os.path.getsize(file_path)
         #     folder_name = file_path.split(".")[0]
@@ -64,24 +89,8 @@ def splitCSV(request):
         #         for i in range(0, len(o), size):
         #             with open(f"{folder_name}/file{index}.json".format(index), 'w') as outfile:
         #                 index += 1
-        #                 json.dump(o[i:i+user_specified_size], outfile)
-
-
-        fs = folder_name.split("/")[-1]
-        print(fs)
-        outputfile = str(settings.MEDIA_ROOT) + f"/{fs}"
-           
-        shutil.make_archive(outputfile, 'zip', folder_name)
-        shutil.rmtree(folder_name)
-        zip_file_name = f"{fs}.zip"
-        zip_file = f"/{outputfile.split('/')[-1]}.zip"
-        file= File.objects.create(user=request.user, file_name=zip_file_name, zip_file=zip_file)
-        file.save()
-        os.remove(file_path)
-        context = {"file": file}
-        # context  = {}
-        return render(request, "splitcsv.html", context)
-        
+        #                 json.dump(o[i:i+user_specified_size], outfile, indent=4)
+   
     return render(request, "splitcsv.html")
 
 
