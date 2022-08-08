@@ -74,7 +74,7 @@ def splitCSV(request):
         shutil.make_archive(outputfile, 'zip', folder_name)
         shutil.rmtree(folder_name)
         zip_file_name = f"{fs}.zip"
-        zip_file = f"/{outputfile}.zip"
+        zip_file = f"/{outputfile.split('/')[-1]}.zip"
         file= File.objects.create(user=request.user, file_name=zip_file_name, zip_file=zip_file)
         file.save()
         os.remove(file_path)
