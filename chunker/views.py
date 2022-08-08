@@ -46,6 +46,7 @@ def splitCSV(request):
             no_of_chuncked_file = math.ceil(file_size/user_specified_size)
             chunksize_user_specified_size = math.ceil(no_file_row/no_of_chuncked_file)
             folder_name = file_path.split(".")[0]
+            print(folder_name)
             os.makedirs(folder_name)
             index = 0
             for chunk in pd.read_csv(file_path, chunksize=chunksize_user_specified_size):
@@ -66,7 +67,8 @@ def splitCSV(request):
         #                 json.dump(o[i:i+user_specified_size], outfile)
 
 
-        fs = folder_name.split("\\")[-1]
+        fs = folder_name.split("/")[-1]
+        print(fs)
         outputfile = str(settings.MEDIA_ROOT) + f"/{fs}"
            
         shutil.make_archive(outputfile, 'zip', folder_name)
