@@ -10,11 +10,11 @@
             {% endfor %}
         </ul>
     {% endif %}
-    <h1>CSV splitter</h1>
+    <h1>JSON splitter</h1>
     <form action="" method="POST" enctype="multipart/form-data">
         {% csrf_token %}
         <label for="size">Enter size per chunk:</label>
-        <input type="text" name="chunk_size"><br>
+        <input type="text" name="chunk_size" required>bytes per file<br>
         <input type="file" name="file" required>
        
         <button class="btn btn-lg btn-outline-success " type="submit">split</button>

@@ -14,7 +14,7 @@
     <form action="" method="POST" enctype="multipart/form-data">
         {% csrf_token %}
         <label for="size">Enter size per chunk:</label>
-        <input type="text" name="chunk_size" required><br>
+        <input type="text" name="chunk_size" required>bytes per file <br>
         <input type="file" name="file" required>
        
         <button class="btn btn-lg btn-outline-success " type="submit">split</button>
